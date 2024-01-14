@@ -1,0 +1,4275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Presentation file, saved 1/14/2024 9:03:05 PM using CourseLab 200726 -->
+<module>
+<runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
+<groups>
+</groups>
+<slides>
+<slide id="SLIDE_3" expanded="yes" sid="4" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Untitled" indent="0">
+<RESPONSE name="SLIDE_3_1" event="onafterdisplay" type="link">
+<DISPLAY pid="" display="none" transition="0" fs_dur="" dur="1000">
+</DISPLAY>
+</RESPONSE>
+<frames>
+<frame id="FRAME_6" expanded="yes" dur="0" infinite="0">
+<object id="IMG_6" expanded="yes" x="-1" y="-1" w="722" h="171" z="100" display="frame" begin="0" preload="images/clip20240103.png">
+<data>
+<![CDATA[<img src="images/clip20240103.png" style="width: 722px; height: 171px;border-width: 0px;"/>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_1" expanded="yes" sid="3" masterid="SLIDE_MASTER" advance="" transition="" durout="" name="Untitled" indent="0">
+<RESPONSE name="SLIDE_1_1" event="onafterdisplay" type="link">
+<DISPLAY pid="" display="inline" transition="0" fs_dur="" dur="1000">
+</DISPLAY>
+</RESPONSE>
+<frames>
+<frame id="FRAME_5" expanded="yes" dur="0" infinite="0">
+<object id="OBJ_5" expanded="yes" x="1" y="1" w="500" h="460" z="100" display="frame" begin="0" type="nav_0002_navi_tab">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none"  ><div class="rule" data-name="#OBJ_5 .cl-container"><span class="rule-static">width: 500px; height: 460px; min-width: 500px; min-height: 460px; max-width: 500px; max-height: 460px;</span></div><div class="rule" data-name="#OBJ_5 .cl-body"><span class="rule-static">left: 0; top: 0;width: 475px; height: 460px; min-width: 475px; min-height: 460px; max-width: 475px; max-height: 460px;padding: 10px; border: 1px solid #0080C0; background-color: #FFFFFF; </span><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#OBJ_5 .cl-body-header"><span class="rule-static">padding: 0 0 10px 0;</span></div><div class="rule" data-name="#OBJ_5 .cl-tab-container"><span class="rule-static">width: 25px; height: 460px; min-width: 25px; min-height: 460px; max-width: 25px; max-height: 460px;</span></div><div class="rule" data-name="#OBJ_5 .cl-tab"><span class="rule-static">right: 0; top: 0px;width: 25px; height: 90px; min-width: 25px; min-height: 90px; max-width: 25px; max-height: 90px;</span></div><div class="rule" data-name="#OBJ_5 .cl-tab-html"><span class="rule-static">background-color: #B3E5FF; border-color: #0080C0; border-width: 1px 1px 1px 0;width: 24px; height: 88px; min-width: 24px; min-height: 88px; max-width: 24px; max-height: 88px;</span><span class="rule-dynamic" data-type="border-radius" data-value="0 10px 10px 0" /></div><div class="rule" data-name="#OBJ_5 .cl-tab-html-text"><span class="rule-static">top: 32px; left: -32px; width: 88px; height: 24px; min-width: 88px; min-height: 24px; max-width: 88px; max-height: 24px;</span><span class="rule-dynamic" data-type="transform" data-value="rotate(270deg)" /><span class="rule-dynamic" data-type="transform-origin" data-value="50% 50%" /></div><div class="rule" data-name="#OBJ_5 .cl-tab-html-text-table"><span class="rule-static">width: 88px; height: 24px;</span></div><div class="rule" data-name="#OBJ_5 .cl-tab-html-text-table-td"><span class="rule-static">color: #0080C0; width: 88px; height: 24px;font-size: 12px; font-family: robotoregular, Arial, Helvetica, sans-serif;font-weight: normal;font-style: normal;text-transform: uppercase;</span></div><div class="rule" data-name="#OBJ_5 .cl-tab-img"><span class="rule-static">width: 25px; height: 90px; min-width: 25px; min-height: 90px; max-width: 25px; max-height: 90px;left: 0; top: 0;</span></div><div class="rule" data-name="#OBJ_5 .cl-tab-img img"><span class="rule-static">left: 0; top: 0;</span></div><div class="rule" data-name="#OBJ_5 .cl-tab-active:hover .cl-tab-html"><span class="rule-static">background-color: #CCEEFF !important; </span></div><div class="rule" data-name="#OBJ_5 .cl-tab-down .cl-tab-html td"><span class="rule-static">color: #006699 !important;</span></div></div><div id="OBJ_5_CONTAINER" class="cl-container unselectable" data-clip-tab="rect(0px,27px,90px,0px)" data-distance="475"  ><div class="cl-body"><div class="cl-body-header"><span style="color:#000000; font-family:clear_sansregular, Arial, sans-serif; font-size: 12px;">Hint</span></div><div class="cl-body-contents cl-body-contents-richtext"><span style="font-family: 'Times New Roman'; font-size: 28px; font-style: normal; font-variant: normal; line-height: 14.399999618530273px;">tidak kami hapuskan</span></div></div><div class="cl-tab-container cl-tab-container-right"><div class="cl-tab unselectable idle" title="Hint" data-title-enabled="Hint" data-title-disabled="Access denied"><div class="cl-tab-html"><div class="cl-tab-html-text"><table class="cl-tab-html-text-table"><tbody><tr><td class="cl-tab-html-text-table-td">Hint</td></tr></tbody></table></div></div></div></div></div></div>]]>
+</data>
+</object>
+<object id="IMG_4" expanded="yes" x="304" y="662" w="99" h="132" z="101" display="frame" begin="0" preload="images/clip20231220_2.png">
+<data>
+<![CDATA[<img src="images/clip20231220_2.png" style="width: 99px; height: 132px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_4_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<RESPONSE name="IMG_4_1" event="onclick" type="link">
+<JAVASCRIPT javascript="microphoneOff()">
+</JAVASCRIPT>
+</RESPONSE>
+</object>
+<object id="IMG_5" expanded="yes" x="301" y="662" w="104" h="133" z="102" display="frame" begin="0" preload="images/clip20231220_3.png">
+<data>
+<![CDATA[<img src="images/clip20231220_3.png" style="width: 104px; height: 133px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_5_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<RESPONSE name="IMG_5_1" event="onclick" type="link">
+<JAVASCRIPT javascript="microphoneOn(&quot;IMG_4&quot;, &quot;IMG_5&quot;, &quot;SLIDE_5&quot;, &quot;tidak kami hapuskan&quot;);">
+</JAVASCRIPT>
+</RESPONSE>
+</object>
+<object id="TXT_1" expanded="yes" x="264" y="144" w="195" h="83" z="103" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 195px; height: 83px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:72px;"><span style="color: rgb(31, 31, 31); font-family: Omar; font-style: normal; orphans: 2; text-align: right; widows: 2;">مَا نَنْسَخْ</span></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_2" expanded="yes" x="302" y="264" w="120" h="50" z="104" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 120px; height: 50px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><font face="clear_sansregular, Arial, sans-serif"><span style="line-height: 14.399999618530273px;">Artinya ?</span></font></span></p></div>]]>
+</data>
+</object>
+<actionboxes>
+<actionbox id="ACTIONBOX_1">
+</actionbox>
+</actionboxes>
+<timeline>
+<timeaction type="actionbox" begin="0" targetid="ACTIONBOX_1"/>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_6" expanded="yes" sid="8" masterid="SLIDE_MASTER" advance="" transition="" durout="" name="Untitled" indent="0">
+<RESPONSE name="SLIDE_6_1" event="onafterdisplay" type="link">
+<DISPLAY pid="" display="inline" transition="0" fs_dur="" dur="1000">
+</DISPLAY>
+</RESPONSE>
+<frames>
+<frame id="FRAME_8" expanded="yes" dur="0" infinite="0">
+<object id="OBJ_7" expanded="yes" x="1" y="1" w="500" h="460" z="100" display="frame" begin="0" type="nav_0002_navi_tab">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none"  ><div class="rule" data-name="#OBJ_7 .cl-container"><span class="rule-static">width: 500px; height: 460px; min-width: 500px; min-height: 460px; max-width: 500px; max-height: 460px;</span></div><div class="rule" data-name="#OBJ_7 .cl-body"><span class="rule-static">left: 0; top: 0;width: 475px; height: 460px; min-width: 475px; min-height: 460px; max-width: 475px; max-height: 460px;padding: 10px; border: 1px solid #0080C0; background-color: #FFFFFF; </span><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#OBJ_7 .cl-body-header"><span class="rule-static">padding: 0 0 10px 0;</span></div><div class="rule" data-name="#OBJ_7 .cl-tab-container"><span class="rule-static">width: 25px; height: 460px; min-width: 25px; min-height: 460px; max-width: 25px; max-height: 460px;</span></div><div class="rule" data-name="#OBJ_7 .cl-tab"><span class="rule-static">right: 0; top: 0px;width: 25px; height: 90px; min-width: 25px; min-height: 90px; max-width: 25px; max-height: 90px;</span></div><div class="rule" data-name="#OBJ_7 .cl-tab-html"><span class="rule-static">background-color: #B3E5FF; border-color: #0080C0; border-width: 1px 1px 1px 0;width: 24px; height: 88px; min-width: 24px; min-height: 88px; max-width: 24px; max-height: 88px;</span><span class="rule-dynamic" data-type="border-radius" data-value="0 10px 10px 0" /></div><div class="rule" data-name="#OBJ_7 .cl-tab-html-text"><span class="rule-static">top: 32px; left: -32px; width: 88px; height: 24px; min-width: 88px; min-height: 24px; max-width: 88px; max-height: 24px;</span><span class="rule-dynamic" data-type="transform" data-value="rotate(270deg)" /><span class="rule-dynamic" data-type="transform-origin" data-value="50% 50%" /></div><div class="rule" data-name="#OBJ_7 .cl-tab-html-text-table"><span class="rule-static">width: 88px; height: 24px;</span></div><div class="rule" data-name="#OBJ_7 .cl-tab-html-text-table-td"><span class="rule-static">color: #0080C0; width: 88px; height: 24px;font-size: 12px; font-family: robotoregular, Arial, Helvetica, sans-serif;font-weight: normal;font-style: normal;text-transform: uppercase;</span></div><div class="rule" data-name="#OBJ_7 .cl-tab-img"><span class="rule-static">width: 25px; height: 90px; min-width: 25px; min-height: 90px; max-width: 25px; max-height: 90px;left: 0; top: 0;</span></div><div class="rule" data-name="#OBJ_7 .cl-tab-img img"><span class="rule-static">left: 0; top: 0;</span></div><div class="rule" data-name="#OBJ_7 .cl-tab-active:hover .cl-tab-html"><span class="rule-static">background-color: #CCEEFF !important; </span></div><div class="rule" data-name="#OBJ_7 .cl-tab-down .cl-tab-html td"><span class="rule-static">color: #006699 !important;</span></div></div><div id="OBJ_7_CONTAINER" class="cl-container unselectable" data-clip-tab="rect(0px,27px,90px,0px)" data-distance="475"  ><div class="cl-body"><div class="cl-body-header"><span style="color:#000000; font-family:clear_sansregular, Arial, sans-serif; font-size: 12px;">Hint</span></div><div class="cl-body-contents cl-body-contents-richtext"><span style="font-family: 'Times New Roman'; font-size: 28px; font-style: normal; font-variant: normal; line-height: 14.399999618530273px;">Dari Sebuah Ayat</span></div></div><div class="cl-tab-container cl-tab-container-right"><div class="cl-tab unselectable idle" title="Hint" data-title-enabled="Hint" data-title-disabled="Access denied"><div class="cl-tab-html"><div class="cl-tab-html-text"><table class="cl-tab-html-text-table"><tbody><tr><td class="cl-tab-html-text-table-td">Hint</td></tr></tbody></table></div></div></div></div></div></div>]]>
+</data>
+</object>
+<object id="IMG_11" expanded="yes" x="304" y="662" w="99" h="132" z="101" display="frame" begin="0" preload="images/clip20231220_2.png">
+<data>
+<![CDATA[<img src="images/clip20231220_2.png" style="width: 99px; height: 132px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_11_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<RESPONSE name="IMG_11_1" event="onclick" type="link">
+<JAVASCRIPT javascript="microphoneOff()">
+</JAVASCRIPT>
+</RESPONSE>
+</object>
+<object id="IMG_12" expanded="yes" x="301" y="662" w="104" h="133" z="102" display="frame" begin="0" preload="images/clip20231220_3.png">
+<data>
+<![CDATA[<img src="images/clip20231220_3.png" style="width: 104px; height: 133px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_12_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<RESPONSE name="IMG_12_1" event="onclick" type="link">
+<JAVASCRIPT javascript="microphoneOn(&quot;IMG_11&quot;, &quot;IMG_12&quot;, &quot;SLIDE_7&quot;, &quot;dari sebuah ayat&quot;);">
+</JAVASCRIPT>
+</RESPONSE>
+</object>
+<object id="TXT_5" expanded="yes" x="263" y="142" w="183" h="90" z="103" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 183px; height: 90px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:72px;">مِنۡ اٰيَةٍ</span></p></div>]]>
+</data>
+</object>
+<object id="TXT_6" expanded="yes" x="302" y="264" w="120" h="50" z="104" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 120px; height: 50px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><font face="clear_sansregular, Arial, sans-serif"><span style="line-height: 14.399999618530273px;">Artinya ?</span></font></span></p></div>]]>
+</data>
+</object>
+<actionboxes>
+<actionbox id="ACTIONBOX_1">
+</actionbox>
+</actionboxes>
+<timeline>
+<timeaction type="actionbox" begin="0" targetid="ACTIONBOX_1"/>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_7" expanded="yes" sid="9" masterid="SLIDE_MASTER" advance="" transition="" durout="" name="Untitled" indent="0">
+<RESPONSE name="SLIDE_7_1" event="onafterdisplay" type="link">
+<DISPLAY pid="" display="inline" transition="0" fs_dur="" dur="1000">
+</DISPLAY>
+</RESPONSE>
+<frames>
+<frame id="FRAME_7" expanded="yes" dur="0" infinite="0">
+<object id="OBJ_8" expanded="yes" x="1" y="1" w="500" h="460" z="100" display="frame" begin="0" type="nav_0002_navi_tab">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none"  ><div class="rule" data-name="#OBJ_8 .cl-container"><span class="rule-static">width: 500px; height: 460px; min-width: 500px; min-height: 460px; max-width: 500px; max-height: 460px;</span></div><div class="rule" data-name="#OBJ_8 .cl-body"><span class="rule-static">left: 0; top: 0;width: 475px; height: 460px; min-width: 475px; min-height: 460px; max-width: 475px; max-height: 460px;padding: 10px; border: 1px solid #0080C0; background-color: #FFFFFF; </span><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#OBJ_8 .cl-body-header"><span class="rule-static">padding: 0 0 10px 0;</span></div><div class="rule" data-name="#OBJ_8 .cl-tab-container"><span class="rule-static">width: 25px; height: 460px; min-width: 25px; min-height: 460px; max-width: 25px; max-height: 460px;</span></div><div class="rule" data-name="#OBJ_8 .cl-tab"><span class="rule-static">right: 0; top: 0px;width: 25px; height: 90px; min-width: 25px; min-height: 90px; max-width: 25px; max-height: 90px;</span></div><div class="rule" data-name="#OBJ_8 .cl-tab-html"><span class="rule-static">background-color: #B3E5FF; border-color: #0080C0; border-width: 1px 1px 1px 0;width: 24px; height: 88px; min-width: 24px; min-height: 88px; max-width: 24px; max-height: 88px;</span><span class="rule-dynamic" data-type="border-radius" data-value="0 10px 10px 0" /></div><div class="rule" data-name="#OBJ_8 .cl-tab-html-text"><span class="rule-static">top: 32px; left: -32px; width: 88px; height: 24px; min-width: 88px; min-height: 24px; max-width: 88px; max-height: 24px;</span><span class="rule-dynamic" data-type="transform" data-value="rotate(270deg)" /><span class="rule-dynamic" data-type="transform-origin" data-value="50% 50%" /></div><div class="rule" data-name="#OBJ_8 .cl-tab-html-text-table"><span class="rule-static">width: 88px; height: 24px;</span></div><div class="rule" data-name="#OBJ_8 .cl-tab-html-text-table-td"><span class="rule-static">color: #0080C0; width: 88px; height: 24px;font-size: 12px; font-family: robotoregular, Arial, Helvetica, sans-serif;font-weight: normal;font-style: normal;text-transform: uppercase;</span></div><div class="rule" data-name="#OBJ_8 .cl-tab-img"><span class="rule-static">width: 25px; height: 90px; min-width: 25px; min-height: 90px; max-width: 25px; max-height: 90px;left: 0; top: 0;</span></div><div class="rule" data-name="#OBJ_8 .cl-tab-img img"><span class="rule-static">left: 0; top: 0;</span></div><div class="rule" data-name="#OBJ_8 .cl-tab-active:hover .cl-tab-html"><span class="rule-static">background-color: #CCEEFF !important; </span></div><div class="rule" data-name="#OBJ_8 .cl-tab-down .cl-tab-html td"><span class="rule-static">color: #006699 !important;</span></div></div><div id="OBJ_8_CONTAINER" class="cl-container unselectable" data-clip-tab="rect(0px,27px,90px,0px)" data-distance="475"  ><div class="cl-body"><div class="cl-body-header"><span style="color:#000000; font-family:clear_sansregular, Arial, sans-serif; font-size: 12px;">Hint</span></div><div class="cl-body-contents cl-body-contents-richtext"><span style="font-size: 28px; line-height: 14.399999618530273px;">Kami datangkan</span></div></div><div class="cl-tab-container cl-tab-container-right"><div class="cl-tab unselectable idle" title="Hint" data-title-enabled="Hint" data-title-disabled="Access denied"><div class="cl-tab-html"><div class="cl-tab-html-text"><table class="cl-tab-html-text-table"><tbody><tr><td class="cl-tab-html-text-table-td">Hint</td></tr></tbody></table></div></div></div></div></div></div>]]>
+</data>
+</object>
+<object id="IMG_13" expanded="yes" x="304" y="662" w="99" h="132" z="101" display="frame" begin="0" preload="images/clip20231220_2.png">
+<data>
+<![CDATA[<img src="images/clip20231220_2.png" style="width: 99px; height: 132px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_13_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<RESPONSE name="IMG_13_1" event="onclick" type="link">
+<JAVASCRIPT javascript="microphoneOff()">
+</JAVASCRIPT>
+</RESPONSE>
+</object>
+<object id="IMG_14" expanded="yes" x="301" y="662" w="104" h="133" z="102" display="frame" begin="0" preload="images/clip20231220_3.png">
+<data>
+<![CDATA[<img src="images/clip20231220_3.png" style="width: 104px; height: 133px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_14_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<RESPONSE name="IMG_14_1" event="onclick" type="link">
+<JAVASCRIPT javascript="microphoneOn(&quot;IMG_13&quot;, &quot;IMG_14&quot;, &quot;SLIDE_8&quot;, &quot;kami datangkan&quot;);">
+</JAVASCRIPT>
+</RESPONSE>
+</object>
+<object id="TXT_7" expanded="yes" x="263" y="142" w="183" h="90" z="103" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 183px; height: 90px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:72px;">نَاۡتِ</span></p></div>]]>
+</data>
+</object>
+<object id="TXT_8" expanded="yes" x="302" y="264" w="120" h="50" z="104" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 120px; height: 50px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><font face="clear_sansregular, Arial, sans-serif"><span style="line-height: 14.399999618530273px;">Artinya ?</span></font></span></p></div>]]>
+</data>
+</object>
+<actionboxes>
+<actionbox id="ACTIONBOX_1">
+</actionbox>
+</actionboxes>
+<timeline>
+<timeaction type="actionbox" begin="0" targetid="ACTIONBOX_1"/>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_8" expanded="yes" sid="b" masterid="SLIDE_MASTER" advance="" transition="" durout="" name="Untitled" indent="0">
+<RESPONSE name="SLIDE_8_1" event="onafterdisplay" type="link">
+<DISPLAY pid="" display="inline" transition="0" fs_dur="" dur="1000">
+</DISPLAY>
+</RESPONSE>
+<frames>
+<frame id="FRAME_9" expanded="yes" dur="0" infinite="0">
+<object id="OBJ_9" expanded="yes" x="1" y="1" w="500" h="460" z="100" display="frame" begin="0" type="nav_0002_navi_tab">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none"  ><div class="rule" data-name="#OBJ_9 .cl-container"><span class="rule-static">width: 500px; height: 460px; min-width: 500px; min-height: 460px; max-width: 500px; max-height: 460px;</span></div><div class="rule" data-name="#OBJ_9 .cl-body"><span class="rule-static">left: 0; top: 0;width: 475px; height: 460px; min-width: 475px; min-height: 460px; max-width: 475px; max-height: 460px;padding: 10px; border: 1px solid #0080C0; background-color: #FFFFFF; </span><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#OBJ_9 .cl-body-header"><span class="rule-static">padding: 0 0 10px 0;</span></div><div class="rule" data-name="#OBJ_9 .cl-tab-container"><span class="rule-static">width: 25px; height: 460px; min-width: 25px; min-height: 460px; max-width: 25px; max-height: 460px;</span></div><div class="rule" data-name="#OBJ_9 .cl-tab"><span class="rule-static">right: 0; top: 0px;width: 25px; height: 90px; min-width: 25px; min-height: 90px; max-width: 25px; max-height: 90px;</span></div><div class="rule" data-name="#OBJ_9 .cl-tab-html"><span class="rule-static">background-color: #B3E5FF; border-color: #0080C0; border-width: 1px 1px 1px 0;width: 24px; height: 88px; min-width: 24px; min-height: 88px; max-width: 24px; max-height: 88px;</span><span class="rule-dynamic" data-type="border-radius" data-value="0 10px 10px 0" /></div><div class="rule" data-name="#OBJ_9 .cl-tab-html-text"><span class="rule-static">top: 32px; left: -32px; width: 88px; height: 24px; min-width: 88px; min-height: 24px; max-width: 88px; max-height: 24px;</span><span class="rule-dynamic" data-type="transform" data-value="rotate(270deg)" /><span class="rule-dynamic" data-type="transform-origin" data-value="50% 50%" /></div><div class="rule" data-name="#OBJ_9 .cl-tab-html-text-table"><span class="rule-static">width: 88px; height: 24px;</span></div><div class="rule" data-name="#OBJ_9 .cl-tab-html-text-table-td"><span class="rule-static">color: #0080C0; width: 88px; height: 24px;font-size: 12px; font-family: robotoregular, Arial, Helvetica, sans-serif;font-weight: normal;font-style: normal;text-transform: uppercase;</span></div><div class="rule" data-name="#OBJ_9 .cl-tab-img"><span class="rule-static">width: 25px; height: 90px; min-width: 25px; min-height: 90px; max-width: 25px; max-height: 90px;left: 0; top: 0;</span></div><div class="rule" data-name="#OBJ_9 .cl-tab-img img"><span class="rule-static">left: 0; top: 0;</span></div><div class="rule" data-name="#OBJ_9 .cl-tab-active:hover .cl-tab-html"><span class="rule-static">background-color: #CCEEFF !important; </span></div><div class="rule" data-name="#OBJ_9 .cl-tab-down .cl-tab-html td"><span class="rule-static">color: #006699 !important;</span></div></div><div id="OBJ_9_CONTAINER" class="cl-container unselectable" data-clip-tab="rect(0px,27px,90px,0px)" data-distance="475"  ><div class="cl-body"><div class="cl-body-header"><span style="color:#000000; font-family:clear_sansregular, Arial, sans-serif; font-size: 12px;">Hint</span></div><div class="cl-body-contents cl-body-contents-richtext"><p>dengan yang lebih baik</p></div></div><div class="cl-tab-container cl-tab-container-right"><div class="cl-tab unselectable idle" title="Hint" data-title-enabled="Hint" data-title-disabled="Access denied"><div class="cl-tab-html"><div class="cl-tab-html-text"><table class="cl-tab-html-text-table"><tbody><tr><td class="cl-tab-html-text-table-td">Hint</td></tr></tbody></table></div></div></div></div></div></div>]]>
+</data>
+</object>
+<object id="IMG_15" expanded="yes" x="304" y="662" w="99" h="132" z="101" display="frame" begin="0" preload="images/clip20231220_2.png">
+<data>
+<![CDATA[<img src="images/clip20231220_2.png" style="width: 99px; height: 132px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_15_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<RESPONSE name="IMG_15_1" event="onclick" type="link">
+<JAVASCRIPT javascript="microphoneOff()">
+</JAVASCRIPT>
+</RESPONSE>
+</object>
+<object id="IMG_16" expanded="yes" x="301" y="662" w="104" h="133" z="102" display="frame" begin="0" preload="images/clip20231220_3.png">
+<data>
+<![CDATA[<img src="images/clip20231220_3.png" style="width: 104px; height: 133px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_16_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<RESPONSE name="IMG_16_1" event="onclick" type="link">
+<JAVASCRIPT javascript="microphoneOn(&quot;IMG_15&quot;, &quot;IMG_16&quot;, &quot;SLIDE_9&quot;, &quot;dengan yang lebih baik&quot;);">
+</JAVASCRIPT>
+</RESPONSE>
+</object>
+<object id="TXT_9" expanded="yes" x="263" y="142" w="183" h="90" z="103" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 183px; height: 90px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:72px;">&nbsp;بِخَيۡرٍ</span></p></div>]]>
+</data>
+</object>
+<object id="TXT_10" expanded="yes" x="302" y="264" w="120" h="50" z="104" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 120px; height: 50px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><font face="clear_sansregular, Arial, sans-serif"><span style="line-height: 14.399999618530273px;">Artinya ?</span></font></span></p></div>]]>
+</data>
+</object>
+<actionboxes>
+<actionbox id="ACTIONBOX_1">
+</actionbox>
+</actionboxes>
+<timeline>
+<timeaction type="actionbox" begin="0" targetid="ACTIONBOX_1"/>
+</timeline>
+</frame>
+</frames>
+</slide>
+</slides>
+<masters>
+<slide id="SLIDE_MASTER" expanded="yes" sid="1">
+<frames>
+<frame id="FRAME_4" expanded="yes" dur="0" infinite="0">
+<object id="MN4_HELP" expanded="yes" x="5" y="6" w="781" h="496" z="0" display="frame" begin="0" type="nav_0002_navi_win">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none"  ><div class="rule" data-name="#MN4_HELP .cl-container"><span class="rule-static">width: 781px; height: 496px; min-width: 781px; min-height: 496px; max-width: 781px; max-height: 496px;</span></div><div class="rule" data-name="#MN4_HELP .cl-body"><span class="rule-static">left: 0; top: 0;width: 781px; height: 496px; min-width: 781px; min-height: 496px; max-width: 781px; max-height: 496px;padding: 10px; border: 2px solid #B60B22; background-color: #FFFFFF;
+			</span><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#MN4_HELP .cl-body-header"><span class="rule-static">padding: 0 0 10px 0;</span></div><div class="rule" data-name="#MN4_HELP .cl-close-btn"><span class="rule-static"> top: 10px; right: 10px; color: #B60B22;</span></div></div><div id="MN4_HELP_CONTAINER" class="cl-container unselectable"  ><div class="cl-body"><div class="cl-body-header"><p style="text-align: center;"><span style="font-family:clear_sans_mediumregular,arial,sans-serif"><span style="color:rgb(182, 11, 34); font-size:18px">Help</span></span></p></div><div class="cl-btn cl-close-btn" title="Close window">
+				×
+			</div><div class="cl-body-contents cl-body-contents-richtext"><span style="font-family: Arial;font-size: 12px; color: #000000;"></span></div></div></div></div>]]>
+</data>
+</object>
+<object id="IMG_2" expanded="yes" x="586" y="1084" w="133" h="117" z="1" display="frame" begin="0" preload="images/clip20231220.png">
+<data>
+<![CDATA[<img src="images/clip20231220.png" style="width: 133px; height: 117px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_2_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<RESPONSE name="IMG_2_1" event="onclick" type="link">
+<GOSUB option="3" fs_frame="" pid="">
+</GOSUB>
+</RESPONSE>
+</object>
+<object id="MN4_CONTENTS" expanded="yes" x="5" y="6" w="781" h="496" z="2" display="frame" begin="0" type="nav_0002_navi_win">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none"  ><div class="rule" data-name="#MN4_CONTENTS .cl-container"><span class="rule-static">width: 781px; height: 496px; min-width: 781px; min-height: 496px; max-width: 781px; max-height: 496px;</span></div><div class="rule" data-name="#MN4_CONTENTS .cl-body"><span class="rule-static">left: 0; top: 0;width: 781px; height: 496px; min-width: 781px; min-height: 496px; max-width: 781px; max-height: 496px;padding: 10px; border: 2px solid #B60B22; background-color: #FFFFFF;
+			</span><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#MN4_CONTENTS .cl-body-header"><span class="rule-static">padding: 0 0 10px 0;</span></div><div class="rule" data-name="#MN4_CONTENTS .slide-list li"><span class="rule-static">padding: 5px 5px 5px 0; font-family: clear_sans_mediumregular, Arial, sans-serif;
+		font-size: 11px;
+	</span></div><div class="rule" data-name="#MN4_CONTENTS .open .indent"><span class="rule-static"></span></div><div class="rule" data-name="#MN4_CONTENTS .closed .indent"><span class="rule-static"></span></div><div class="rule" data-name="#MN4_CONTENTS .allowed"><span class="rule-static">background-color: #FFFFFF; color: #004080;</span></div><div class="rule" data-name="#MN4_CONTENTS .current"><span class="rule-static">background-color: #EEEEEE; color: #000000;</span></div><div class="rule" data-name="#MN4_CONTENTS .forbidden"><span class="rule-static">background-color: #FFFFFF; color: #999999;</span></div><div class="rule" data-name="#MN4_CONTENTS .visited .item-inner"><span class="rule-static">background-image: url(images/nav_0002_navi_win/navi_tab_contents_sprite.png); background-position: 0px 0px; background-repeat: no-repeat;</span></div><div class="rule" data-name="#MN4_CONTENTS .current .item-inner"><span class="rule-static">background-image: url(images/nav_0002_navi_win/navi_tab_contents_sprite.png); background-position: 0px -400px; background-repeat: no-repeat;</span></div><div class="rule" data-name="#MN4_CONTENTS .unvisited .item-inner"><span class="rule-static">background-image: url(images/nav_0002_navi_win/navi_tab_contents_sprite.png); background-position: 0px -800px; background-repeat: no-repeat;</span></div><div class="rule" data-name="#MN4_CONTENTS .cl-close-btn"><span class="rule-static"> top: 10px; right: 10px; color: #B60B22;</span></div></div><div id="MN4_CONTENTS_CONTAINER" class="cl-container unselectable"  ><div class="cl-body"><div class="cl-body-header"><p style="text-align: center;"><span style="font-family:clear_sans_mediumregular,arial,sans-serif"><span style="color:rgb(182, 11, 34); font-size:18px">Contents</span></span></p></div><div class="cl-btn cl-close-btn" title="Close window">
+				×
+			</div><div class="cl-body-contents cl-body-contents-contents"><ul class="slide-list" /><ul style="display: none;"><li class="slide-item-template"><div class="indent"><div class="item-inner">
+										.
+									</div></div></li></ul></div></div></div></div>]]>
+</data>
+</object>
+<object id="IMG_3" expanded="yes" x="1" y="1086" w="126" h="112" z="3" display="frame" begin="0" preload="images/clip20231220_1.png">
+<data>
+<![CDATA[<img src="images/clip20231220_1.png" style="width: 126px; height: 112px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_3_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<RESPONSE name="IMG_3_1" event="onclick" type="link">
+<GOSUB option="4" fs_frame="" pid="">
+</GOSUB>
+</RESPONSE>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+</masters>
+<methods>
+<method type="nav_0002_navi_win" name="Constructor">
+<![CDATA[function Constructor(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurDiv = $(oCurObj.div);
+				oCurObj.bShowInternal = true;
+				var jContainer = jCurDiv.find(".cl-container");
+				jContainer.find(".cl-btn").on("click", function () { oCurObj.CallMethod({ sMethod: "Close" }) });
+				oCurObj.initial.nZ = 5000;
+				oCurObj.data =
+				{
+					aTogglers: [],
+					bNaviStrict: (oCurObj.jxParams.children("nav_lock").text()=="yes"),
+					bNaviLockedByAction: false,
+					bModal: (oCurObj.jxParams.children("modal").text()=="yes"),
+					bSearchTip: (oCurObj.jxParams.children("search_tip").text()=="yes"),
+					sSlideId: "",
+					sRole: oCurObj.jxParams.children("contenttype").text(),
+					sState: "enabled",
+					sPosition: "closed",
+					sSoundClick: oCurObj.jxParams.children("sound_click").text(),
+					sSoundOver: oCurObj.jxParams.children("sound_over").text()
+				};
+				if(oCurObj.data.sSoundClick=="custom")
+				{
+					oCurObj.data.sSoundClickFile = oCurObj.jxParams.children("sound_click_file_custom").text();
+				}
+				if(oCurObj.data.sSoundOver=="custom")
+				{
+					oCurObj.data.sSoundOverFile = oCurObj.jxParams.children("sound_over_file_custom").text();
+				}
+				var jxToggle = CL.jxModule.find("param > target_object");
+				var sTogglerId;
+				for(var i=0; i<jxToggle.length; i++)
+				{
+					if($(jxToggle[i]).text()==argobj.pid)
+					{
+						sTogglerId = $(jxToggle[i]).parent().attr("objectid");
+						oCurObj.data.aTogglers.push(sTogglerId);
+						if(oCurObj.data.sRole=="contents")
+						{
+							if(CLO[sTogglerId]!=null)
+							{
+								if(CLO[sTogglerId].data!=null)
+								{
+									CLO[sTogglerId].data.sRole = "contents";
+								}
+							}
+						}
+					}
+				}
+				var iTranIn = parseInt(oCurObj.jxParams.children("tranin").text(),10);
+				if(iTranIn==-2 && oCurObj.tranin!=null)
+				{
+					oCurObj.data.bTranIn = true;
+					oCurObj.data.iTranIn = oCurObj.tranin.transition;
+					oCurObj.data.iDurIn = oCurObj.tranin.duration;
+				}
+				else if(iTranIn>=0)
+				{
+					oCurObj.data.bTranIn = true;
+					oCurObj.data.iTranIn = iTranIn;
+					oCurObj.data.iDurIn = parseInt(oCurObj.jxParams.children("durin").text(),10);
+				}
+				else
+				{
+					oCurObj.data.bTranIn = false;
+				}
+				var iTranOut = parseInt(oCurObj.jxParams.children("tranout").text(),10);
+				if(iTranOut==-2 && oCurObj.tranout!=null)
+				{
+					oCurObj.data.bTranOut = true;
+					oCurObj.data.iTranOut = oCurObj.tranout.transition;
+					oCurObj.data.iDurOut = oCurObj.tranout.duration;
+				}
+				else if(iTranOut>=0)
+				{
+					oCurObj.data.bTranOut = true;
+					oCurObj.data.iTranOut = iTranOut;
+					oCurObj.data.iDurOut = parseInt(oCurObj.jxParams.children("durout").text(),10);
+				}
+				else
+				{
+					oCurObj.data.bTranOut = false;
+				}
+				oCurObj.CallMethod({ sMethod: "InitRole" });
+				jCurDiv.hide();
+				CL.Event.Subscribe({ aList: [ { sId: argobj.pid, sEvtName: "EVENT_OBJECT_SHOW" }, { sId: argobj.pid, sEvtName: "EVENT_SLIDE_OPENED" }, { sId: argobj.pid, sEvtName: "EVENT_SLIDE_COMPLETE" }, { sId: argobj.pid, sEvtName: "EVENT_NAVIGATION" } ] });
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="HandleEvt">
+<![CDATA[function HandleEvt(oEvtHandler, oArg)
+			{
+				if(CLO[argobj.pid]==null || CLO[argobj.pid].div==null) return false;
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				switch(argobj.evt)
+				{
+					case "EVENT_OBJECT_SHOW":
+					{
+						oCurObj.data.sPosition = "open";
+						break;
+					}
+					case "EVENT_SLIDE_OPENED":
+					{
+						oCurObj.CallMethod({ sMethod: "Close" });
+						if(oCurObj.data.sRole=="contents" || oCurObj.data.sRole=="settings" || oCurObj.data.sRole=="comment")
+						{
+							oCurObj.CallMethod({ sMethod: "Update" });
+						}
+						if(oCurObj.data.sSlideId!=CLZ.sCurrentSlideId)
+						{
+							oCurObj.data.sSlideId = CLZ.sCurrentSlideId;
+							oCurObj.data.bNaviLockedByAction = false;
+						}
+						oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviStrict || oCurObj.data.bNaviLockedByAction) ? "Disable" : "Enable") });
+						break;
+					}
+					case "EVENT_SLIDE_COMPLETE":
+					{
+						oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviLockedByAction) ? "Disable" : "Enable") });
+						break;
+					}
+					case "EVENT_NAVIGATION":
+					{
+						if(argobj.sTargets!=null)
+						{
+							if(argobj.sTargets=="tabs" || argobj.sTargets=="all" || (argobj.sTargets=="contents" && oCurObj.data.sRole=="contents"))
+							{
+								switch(argobj.sAction)
+								{
+									case "off":
+									{
+										oCurObj.data.bNaviLockedByAction = true;
+										oCurObj.CallMethod({ sMethod: "Disable" });
+										break;
+									}
+									case "on":
+									default:
+									{
+										oCurObj.data.bNaviLockedByAction = false;
+										oCurObj.CallMethod({ sMethod: "Enable" });
+										break;
+									}
+								}
+							}
+						}
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="InitRole">
+<![CDATA[function InitRole(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var iPadding = +oCurObj.jxParams.find("panel_padding").text();
+				var iBorder = +oCurObj.jxParams.find("panel_borderwidth").text();
+				var iFullH = oCurObj.initial.h;
+				var iRadius = +oCurObj.jxParams.find("panel_radius").text();
+				var iCloseH = (iRadius > iPadding) ? iRadius + 20 : iPadding + 20;
+				var iHH = 0;
+				var jHeader = jContainer.find(".cl-body-header");
+				if(jHeader.length>0)
+				{
+					iHH = jHeader.outerHeight();
+					if(iHH<iCloseH) iHH = iCloseH;
+				}
+				else
+				{
+					iHH = iCloseH;
+				}
+				iH = iFullH - iHH - 2*iPadding - 2*iBorder;
+				jContainer.find(".cl-body-contents").height(iH);
+				switch(oCurObj.data.sRole)
+				{
+					case "contents":
+					{
+						var jTemplate = jContainer.find("li.slide-item-template");
+						var jUL = jContainer.find("ul.slide-list");
+						var jxSlide;
+						var jLI;
+						var sSlideId;
+						var bPrevVisited = true;
+						var iIndent;
+						var iPrevIndent = 0;
+						var aPath = CL.oPath._GetSlideList();
+						for(var i=0; i<aPath.length; i++)
+						{
+							sSlideId = aPath[i];
+							jxSlide = CL.jxModule.find("slide[id='" + sSlideId + "']");
+							jLI = jTemplate.clone(true).removeClass("slide-item-template").addClass("slide-item").attr({ "data-slide-id": sSlideId }).appendTo(jUL);
+							jLI.on("click", function () { CLO[argobj.pid].CallMethod({ sMethod: "Navigate", oMethodArgs: { elem: this } }) });
+							jLI.find(".item-inner").html(jxSlide.attr("name"));
+							if(jxSlide.attr("indent")!=null)
+							{
+								iIndent = +jxSlide.attr("indent");
+								if(iIndent!=0)
+								{
+									jLI.addClass("indent-" + iIndent);
+									if(iIndent>iPrevIndent && CL.axSlides[i-1]!=0)
+									{
+										jLI.prev().addClass("open");
+										iPrevIndent = iIndent;
+									}
+								}
+								else
+								{
+									iPrevIndent = 0;
+								}
+							}
+							else
+							{
+								iPrevIndent = 0;
+							}
+							if(sSlideId==CLZ.sCurrentSlideId)
+							{
+								jLI.addClass("current");
+								bPrevVisited = true;
+							}
+							else if(CL.SCO.IsVisited({ sBy: "slideid", sSlideId: sSlideId }))
+							{
+								jLI.addClass("allowed visited");
+								bPrevVisited = true;
+							}
+							else
+							{
+								if(bPrevVisited==true)
+								{
+									jLI.addClass("allowed unvisited");
+									bPrevVisited = false;
+								}
+								else if(!CLZ.bStrictOrder)
+								{
+									jLI.addClass("allowed unvisited");
+								}
+								else
+								{
+									jLI.addClass("forbidden unvisited");
+								}
+							}
+						}
+						break;
+					}
+					case "search":
+					{
+						jContainer.find(".cl-search-results-list, .cl-search-found, .cl-search-no-results").hide();
+						jContainer.find(".cl-search-btn").on("click", function () { CLO[argobj.pid].CallMethod({ sMethod: "Search" }) });
+						jContainer.find(".cl-search-field").on("keydown", function () { CLO[argobj.pid].CallMethod({ sMethod: "SearchTip" }) });
+						break;
+					}
+					case "glossary":
+					{
+						var jLetterBox = jContainer.find(".cl-letters-box");
+						if(jLetterBox.length!=0)
+						{
+							var iMaxW = -1;
+							var jLetters = jLetterBox.find(".cl-letter-item");
+							jLetters.each(function ()
+							{
+								var iW = $(this).width();
+								if(iW>iMaxW) iMaxW = iW;
+							});
+							jLetters.each(function ()
+							{
+								$(this).width(iMaxW);
+							});
+							iHH = jLetterBox.outerHeight();
+							iH = iH - iHH;
+						}
+						jContainer.find(".cl-terms-list-container").height(iH);
+						jContainer.find(".cl-terms-desc").height(iH);
+						iH -= 2*iPadding;
+						jContainer.find(".cl-terms-desc-container").height(iH);
+						jContainer.find(".cl-terms-desc-default-table").height(iH);
+						jContainer.find(".cl-terms-desc-default-cell").height(iH);
+						if(jContainer.find(".cl-letter-item").length>0)
+						{
+							jContainer.find(".cl-letter-item").on("click", function () { oCurObj.CallMethod({ sMethod: "Filter", oMethodArgs: { elem: this } }) });
+						}
+						jContainer.find(".cl-term-item").on("click", function () { oCurObj.CallMethod({ sMethod: "Display", oMethodArgs: { elem: this } }) });
+						break;
+					}
+					case "calculator":
+					{
+						jContainer.find(".calc-btn").on("click", function () { oCurObj.CallMethod({ sMethod: "HandleCalc", oMethodArgs: { elem: this } }) });
+						oCurObj.data.sOperandA = "na";
+						oCurObj.data.sOperatorA = "na";
+						oCurObj.data.sOperandB = "na";
+						oCurObj.data.sLastBtn = "na";
+						oCurObj.data.sMemory = "na";
+						oCurObj.data.bClean = false;
+						oCurObj.data.bEqual = false;
+						oCurObj.data.bPercent = false;
+						break;
+					}
+					case "settings":
+					{
+						oCurObj.data.sObjToDisplay = oCurObj.jxParams.children("settings_display").text();
+						oCurObj.data.bCustomIcons = (oCurObj.jxParams.children("settings_icons").text()=="custom");
+						oCurObj.data.sScoreDisplayType = oCurObj.jxParams.children("score_style").text();
+						var jTemplate = jContainer.find(".cl-sett-row-template");
+						var jTable = jTemplate.parents("table:first");
+						var jTR;
+						var jTD;
+						for(var sObjId in CLJ)
+						{
+							if(oCurObj.data.sObjToDisplay=="main" && CLJ[sObjId].bModule.toString()!="1") continue;
+							if(oCurObj.data.sObjToDisplay=="other" && CLJ[sObjId].bModule.toString()=="1") continue;
+							jTR = jTemplate.clone(true).attr({ "data-obj-id": sObjId }).removeClass("cl-sett-row-template");
+							jTR.children("td.cl-sett-name").html(CLJ[sObjId].sName);
+							if(oCurObj.data.sScoreDisplayType=="raw")
+							{
+								jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore);
+							}
+							else if(oCurObj.data.sScoreDisplayType=="rawmax")
+							{
+								jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore + "(" + CLJ[sObjId].nMax + ")");
+							}
+							else if(oCurObj.data.sScoreDisplayType=="scaled")
+							{
+								if(CLJ[sObjId].nMax!=0)
+								{
+									jTR.children("td.cl-sett-score").html( Math.round(100*CLJ[sObjId].nRawScore/CLJ[sObjId].nMax)/100 + "%");
+								}
+								else
+								{
+									jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore);
+								}
+							}
+							if(oCurObj.data.bCustomIcons)
+							{
+								jTD = jTR.children("td.sett-cs");
+								jTD.attr({ "title": jTD.attr("data-title-cs-" + CLJ[sObjId].sCS),"data-obj-id": sObjId });
+								jTD.find("img").hide();
+								jTD.find("img.sett-cs-" + CLJ[sObjId].sCS).show();
+								jTD = jTR.children("td.sett-ss");
+								jTD.attr({ "title": jTD.attr("data-title-ss-" + CLJ[sObjId].sSS),"data-obj-id": sObjId });
+								jTD.find("img").hide();
+								jTD.find("img.sett-ss-" + CLJ[sObjId].sSS).show();
+							}
+							else
+							{
+								jTD = jTR.children("td.sett-cs");
+								jTD.attr({ "title": jTD.attr("data-title-cs-" + CLJ[sObjId].sCS),"data-obj-id": sObjId });
+								jTD.find("div.cl-sett-status").addClass("cl-sett-status-" + CLJ[sObjId].sCS);
+								jTD = jTR.children("td.sett-ss");
+								jTD.attr({ "title": jTD.attr("data-title-ss-" + CLJ[sObjId].sSS),"data-obj-id": sObjId });
+								jTD.find("div.cl-sett-status").addClass("cl-sett-status-" + CLJ[sObjId].sSS);
+							}
+							if(CLJ[sObjId].bModule.toString()=="1")
+							{
+								jTR.insertAfter(jTable.find("tr.sett-main-obj-header"));
+							}
+							else
+							{
+								jTR.appendTo(jTable);
+							}
+						}
+						break;
+					}
+					case "comment":
+					{
+						oCurObj.data.sIfNoComment = oCurObj.jxParams.children("comment_display").text();
+						break;
+					}
+				}
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="HandleCalc">
+<![CDATA[function HandleCalc(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj.data.sRole!="calculator") return false;
+				if(argobj.elem==null) return false;
+				var sKey = $(argobj.elem).attr("data-btn");
+				if(sKey==null || sKey=="") return false;
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jDisplay = jContainer.find(".calc-display");
+				var jMemInd = jContainer.find(".calc-memind");
+				var sCurString = $.trim(jDisplay.html() + "");
+				if($(argobj.elem).hasClass("calc-num")) // numeric btn or .
+				{
+					sKey = sKey + "";
+					if(oCurObj.data.bEqual==true)
+					{
+						oCurObj.data.sOperandA = "na";
+						oCurObj.data.sOperatorA = "na";
+						oCurObj.data.sOperandB = "na";
+						oCurObj.data.bEqual = false;
+					}
+					if(oCurObj.data.bClean==true)
+					{
+						sCurString = "0";
+						jDisplay.html("0");
+						oCurObj.data.sOperandB = "na";
+						oCurObj.data.bClean = false;
+					}
+					if(sCurString=="0" && sKey=="0") return false;
+					if(sKey=="." && sCurString.indexOf(".")!=-1) return false;
+					if(sCurString.length>=17)
+					{
+						if(sCurString.indexOf("!")==-1) jDisplay.html("!"+sCurString);
+						return false;
+					}
+					if(sCurString.length==1 && sCurString=="0" && sKey!=".")
+					{
+						jDisplay.html(sKey);
+						return true;
+					}
+					jDisplay.html(sCurString + sKey);
+				}
+				else
+				{
+					if(sCurString.indexOf("ERROR")!=-1 && sKey!="C") return false;
+					switch(sKey)
+					{
+						case "M+":
+						{
+							if(sCurString.indexOf("!")!=-1) sCurString = sCurString.substr(1);
+							jMemInd.html("M");
+							if(oCurObj.data.sMemory=="na")
+							{
+								oCurObj.data.sMemory = sCurString;
+							}
+							else
+							{
+								var nM1 = parseFloat(oCurObj.data.sMemory);
+								var nM2 = parseFloat(sCurString);
+								nM1 = nM1 + nM2;
+								oCurObj.data.sMemory = nM1.toString();
+							}
+							break;
+						}
+						case "MS":
+						{
+							if(sCurString.indexOf("!")!=-1) sCurString = sCurString.substr(1);
+							jMemInd.html("M");
+							if(oCurObj.data.sMemory=="na")
+							{
+								oCurObj.data.sMemory = "-" + sCurString;
+							}
+							else
+							{
+								var nM1 = parseFloat(oCurObj.data.sMemory);
+								var nM2 = parseFloat(sCurString);
+								nM1 = nM1 - nM2;
+								oCurObj.data.sMemory = nM1.toString();
+							}
+							break;
+						}
+						case "MR":
+						{
+							if(oCurObj.data.sMemory!="na")
+							{
+								jDisplay.html(oCurObj.data.sMemory);
+							}
+							break;
+						}
+						case "MC":
+						{
+							oCurObj.data.sMemory = "na";
+							jMemInd.html("&nbsp;");
+							break;
+						}
+						case "C":
+						{
+							oCurObj.data.sOperandA = "na";
+							oCurObj.data.sOperatorA = "na";
+							oCurObj.data.sOperandB = "na";
+							oCurObj.data.sLastBtn = "na";
+							oCurObj.data.bClean = false;
+							jDisplay.html("0");
+							break;
+						}
+						case "CE":
+						{
+							oCurObj.data.sOperandB = "na";
+							oCurObj.data.sLastBtn = "na";
+							oCurObj.data.bClean = false;
+							jDisplay.html("0");
+							break;
+						}
+						case "Backspace":
+						{
+							if(sCurString.length>1)
+							{
+								sCurString = sCurString.substr(0,sCurString.length-1);
+							}
+							jDisplay.html(sCurString);
+							break;
+						}
+						case "equal":
+						{
+							if(oCurObj.data.bPercent==true)
+							{
+								return false;
+							}
+							oCurObj.data.bEqual = true;
+							if(oCurObj.data.sOperandA!="na")
+							{
+								oCurObj.CallMethod({ sMethod: "Calculate", oMethodArgs: { sKey: sKey } });
+							}
+							break;
+						}
+						case "power":
+						case "plus":
+						case "minus":
+						case "mult":
+						case "divide":
+						{
+							if(oCurObj.data.bEqual==true)
+							{
+								oCurObj.data.bEqual = false;
+							}
+							if(oCurObj.data.bPercent==true)
+							{
+								oCurObj.data.bPercent = false;
+							}
+							if(sCurString.indexOf("!")!=-1)
+							{
+								sCurString = sCurString.substr(1);
+								jDisplay.html(sCurString);
+							}
+							if(oCurObj.data.sOperandA=="na" || oCurObj.data.bClean==true)
+							{
+								oCurObj.data.sOperandA = sCurString;
+								oCurObj.data.sOperatorA = sKey;
+								oCurObj.data.bClean = true;
+							}
+							else
+							{
+								oCurObj.CallMethod({ sMethod: "Calculate", oMethodArgs: { sKey: sKey } });
+							}
+							break;
+						}
+						case "negate":
+						{
+							if(sCurString=="0") return false;
+							if(oCurObj.data.bEqual==true)
+							{
+								oCurObj.data.bEqual = false;
+							}
+							if(oCurObj.data.bPercent==true)
+							{
+								oCurObj.data.bPercent = false;
+							}
+							if(sCurString.indexOf("-")!=-1)
+							{
+								sCurString = sCurString.substr(1);
+							}
+							else
+							{
+								sCurString = "-"+sCurString;
+							}
+							jDisplay.html(sCurString);
+							break;
+						}
+						case "recip":
+						{
+							if(sCurString=="0")
+							{
+								oCurObj.data.sOperandA = "na";
+								oCurObj.data.sOperatorA = "na";
+								oCurObj.data.sOperandB = "na";
+								oCurObj.data.sLastBtn = "na";
+								oCurObj.data.bClean = false;
+								jDisplay.html("ERROR: DIV 0");
+								return false;
+							}
+							if(oCurObj.data.bEqual==true)
+							{
+								oCurObj.data.bEqual = false;
+							}
+							if(oCurObj.data.bPercent==true)
+							{
+								oCurObj.data.bPercent = false;
+							}
+							if(sCurString.indexOf("!")!=-1) sCurString = sCurString.substr(1);
+							var nValue = 1/parseFloat(sCurString);
+							sCurString = nValue.toString();
+							if(sCurString.length>=20)
+							{
+								sCurString = sCurString.substring(0,19);
+							}
+							jDisplay.html(sCurString);
+							break;
+						}
+						case "percent":
+						{
+							if(oCurObj.data.sOperandA=="na") return false;
+							if(oCurObj.data.bPercent==true) return false;
+							oCurObj.data.bPercent = true;
+							if(oCurObj.data.bEqual==true)
+							{
+								oCurObj.data.bEqual = false;
+							}
+							oCurObj.CallMethod({ sMethod: "Calculate", oMethodArgs: { sKey: sKey } });
+							oCurObj.data.sOperandB = "na";
+							break;
+						}
+					}
+
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Calculate">
+<![CDATA[function Calculate(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj.data.sRole!="calculator") return false;
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jDisplay = jContainer.find(".calc-display");
+				var jMemInd = jContainer.find(".calc-memind");
+				var sCurString = $.trim(jDisplay.html() + "");
+				if(sCurString.indexOf("!")!=-1) sCurString = sCurString.substr(1);
+				var nValue1 = parseFloat(oCurObj.data.sOperandA);
+				if(oCurObj.data.sOperandB=="na")
+				{
+					oCurObj.data.sOperandB = sCurString
+				}
+				var nValue2 = parseFloat(oCurObj.data.sOperandB);
+				var nResult = 0;
+				switch(oCurObj.data.sOperatorA)
+				{
+					case "plus":
+					{
+						nResult = (nValue1*1000 + nValue2*1000)/1000;
+						break;
+					}
+					case "minus":
+					{
+						nResult = (nValue1*1000 - nValue2*1000)/1000;
+						break;
+					}
+					case "mult":
+					{
+						nResult = nValue1 * nValue2;
+						if(oCurObj.data.bPercent==true)
+						{
+							nResult = nResult/100;
+						}
+						break;
+					}
+					case "divide":
+					{
+						if(nValue2==0)
+						{
+							oCurObj.data.sOperandA = "na";
+							oCurObj.data.sOperatorA = "na";
+							oCurObj.data.sOperandB = "na";
+							oCurObj.data.sLastBtn = "na";
+							oCurObj.data.bClean = true;
+							jDisplay.html("ERROR: DIV 0");
+							return false;
+						}
+						nResult = nValue1 / nValue2;
+						if(oCurObj.data.bPercent==true)
+						{
+							nResult = nResult*100;
+						}
+						break;
+					}
+					case "power":
+					{
+						nResult = Math.pow(nValue1,nValue2);
+						break;
+					}
+				}
+
+				if(nResult>-1 && nResult<1)
+				{
+					nResult = nResult.toString();
+					if(nResult.length>=20)
+					{
+						if(nResult.indexOf("e")!=-1)
+						{
+							var aParts = vResult.split("e");
+							if(parseInt(aParts[1])<-20)
+							{
+								nResult = "0";
+							}
+							else
+							{
+								if(aParts[0].length>14)
+								{
+									aParts[0] = aParts[0].substr(0,13);
+									if(parseFloat(aParts[0])==0)
+									{
+										nResult = "0";
+									}
+									else
+									{
+										nResult = aParts.join("e");
+									}
+								}
+								else
+								{
+									nResult = aParts.join("e");
+								}
+							}
+						}
+						else
+						{
+							nResult = nResult.substr(0,19);
+						}
+					}
+				}
+				else
+				{
+					nResult = nResult.toString();
+					if(nResult.length>=18)
+					{
+						if(nResult.indexOf(".")==-1)
+						{
+							oCurObj.data.sOperandA = "na";
+							oCurObj.data.sOperatorA = "na";
+							oCurObj.data.sOperandB = "na";
+							oCurObj.data.sLastBtn = "na";
+							oCurObj.data.bClean = true;
+							jDisplay.html("ERROR: OVERFLOW");
+							return false;
+						}
+						else
+						{
+							if(nResult.indexOf("e")!=-1)
+							{
+								var aParts = nResult.split("e");
+								if(aParts[0].length>14)
+								{
+									aParts[0] = aParts[0].substr(0,13);
+									nResult = aParts.join("e")
+								}
+							}
+							else
+							{
+								nResult = nResult.substr(0,17);
+							}
+						}
+					}
+				}
+				jDisplay.html(nResult);
+				oCurObj.data.sOperandA = nResult;
+				if(oCurObj.data.bEqual==false && oCurObj.data.bPercent==false)
+				{
+					oCurObj.data.sOperatorA = argobj.sKey;
+				}
+				oCurObj.data.bClean = true;
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Filter">
+<![CDATA[function Filter(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj.data.sRole!="glossary") return false;
+				if(argobj.elem==null) return false;
+				if($(argobj.elem).hasClass("cl-letter-selected")) return false;
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jTerms = jContainer.find(".cl-term-item");
+				var sLetter = $.trim($(argobj.elem).text());
+				if(sLetter=="*")
+				{
+					jTerms.show();
+				}
+				else
+				{
+					jTerms.hide().each(function ()
+					{
+						var sText = $.trim($(this).html());
+						if(sText.toUpperCase().charAt(0)==sLetter)
+						{
+							$(this).show();
+						}
+					});
+				}
+				jTerms.filter(":visible").filter(":first").click();
+				jContainer.find(".cl-letter-item").addClass("cl-letter-idle").removeClass("cl-letter-selected");
+				$(argobj.elem).removeClass("cl-letter-idle").addClass("cl-letter-selected");
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Display">
+<![CDATA[function Display(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj.data.sRole!="glossary") return false;
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jTerms = jContainer.find(".cl-term-item");
+				if(argobj.ecode!=null || argobj.eitem!=null)
+				{
+					var sCode = $.trim(argobj.ecode);
+					var sText = $.trim(argobj.eitem);
+					if(sCode=="" && sText=="") return false;
+					var jItem;
+					if(sCode!="")
+					{
+						jItem = jTerms.filter("[data-code='" + sCode + "']");
+						if(jItem.length!=0)
+						{
+							if(CLO[argobj.pid].data.sPosition=="closed" && CLO[argobj.pid].data.sState=="enabled")
+							{
+								CLO[argobj.pid].CallMethod({ sMethod: "Toggle" });
+							}
+							if(!jItem.hasClass("cl-term-selected"))
+							{
+								jItem.click();
+							}
+						}
+					}
+					else if(sText!="")
+					{
+						var sItemText;
+						for(var i=0; i<jTerms.length; i++)
+						{
+							sItemText = $.trim($(jTerms[i]).text());
+							if(sText==sItemText)
+							{
+								jItem = $(jTerms[i]);
+								break;
+							}
+						}
+						if(jItem.length!=0)
+						{
+							if(CLO[argobj.pid].data.sPosition=="closed" && CLO[argobj.pid].data.sState=="enabled")
+							{
+								CLO[argobj.pid].CallMethod({ sMethod: "Toggle" });
+							}
+							if(!jItem.hasClass("cl-term-selected"))
+							{
+								jItem.click();
+							}
+						}
+					}
+				}
+				else
+				{
+					if(argobj.elem==null) return false;
+					if($(argobj.elem).hasClass("cl-letter-selected")) return false;
+					var sTermId = $(argobj.elem).attr("data-number");
+					jTerms.removeClass("cl-term-selected").addClass("cl-term-idle");
+					jContainer.find(".cl-term-desc-item").hide();
+					jContainer.find(".cl-term-desc-item[data-number='" + sTermId + "']").show("fade");
+					jContainer.find(".cl-term-item[data-number='" + sTermId + "']").removeClass("cl-term-idle").addClass("cl-term-selected");
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Update">
+<![CDATA[function Update(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				switch(oCurObj.data.sRole)
+				{
+					case "contents":
+					{
+						var jLIs = jContainer.find("ul.slide-list > li.slide-item");
+						var sSlideId;
+						var jLI;
+						var bPrevVisited = true;
+						for(var i=0; i<jLIs.length; i++)
+						{
+							jLI = $(jLIs[i]);
+							sSlideId = jLI.attr("data-slide-id");
+							if(sSlideId==CLZ.sCurrentSlideId)
+							{
+								jLI.removeClass("allowed forbidden visited unvisited").addClass("current");
+								bPrevVisited = true;
+							}
+							else if(CL.SCO.IsVisited({ sBy: "slideid", sSlideId: sSlideId }))
+							{
+								jLI.removeClass("current unvisited forbidden").addClass("allowed visited");
+								bPrevVisited = true;
+							}
+							else
+							{
+								if(bPrevVisited)
+								{
+									if(CL.oPath._TargetAllowed({ sSlideId: sSlideId }))
+									{
+										jLI.removeClass("current unvisited forbidden").addClass("allowed unvisited");
+									}
+									else
+									{
+										jLI.removeClass("allowed current").addClass("forbidden unvisited");
+									}
+									bPrevVisited = false;
+								}
+								else
+								{
+									if(!CLZ.bStrictOrder)
+									{
+										if(CL.oPath._TargetAllowed({ sSlideId: sSlideId }))
+								{
+											jLI.removeClass("current unvisited forbidden").addClass("allowed unvisited");
+								}
+								else
+								{
+											jLI.removeClass("allowed current").addClass("forbidden unvisited");
+										}
+									}
+									else
+									{
+										jLI.removeClass("allowed current").addClass("forbidden unvisited");
+									}
+								}
+							}
+						}
+						break;
+					}
+					case "settings":
+					{
+						var jTR;
+						for(var sObjId in CLJ)
+						{
+							if(oCurObj.data.sObjToDisplay=="main" && CLJ[sObjId].bModule.toString()!="1") continue;
+							if(oCurObj.data.sObjToDisplay=="other" && CLJ[sObjId].bModule.toString()=="1") continue;
+							jTR = jContainer.find("tr[data-obj-id='" + sObjId + "']");
+							if(oCurObj.data.sScoreDisplayType=="raw")
+							{
+								jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore);
+							}
+							else if(oCurObj.data.sScoreDisplayType=="rawmax")
+							{
+								jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore + "(" + CLJ[sObjId].nMax + ")");
+							}
+							else if(oCurObj.data.sScoreDisplayType=="scaled")
+							{
+								if(CLJ[sObjId].nMax!=0)
+								{
+									jTR.children("td.cl-sett-score").html( Math.round(100*CLJ[sObjId].nRawScore/CLJ[sObjId].nMax)/100 + "%");
+								}
+								else
+								{
+									jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore);
+								}
+							}
+							if(oCurObj.data.bCustomIcons)
+							{
+								jTD = jTR.children("td.sett-cs");
+								jTD.attr({ "title": jTD.attr("data-title-cs-" + CLJ[sObjId].sCS) });
+								jTD.find("img").hide();
+								jTD.find("img.sett-cs-" + CLJ[sObjId].sCS).show();
+								jTD = jTR.children("td.sett-ss");
+								jTD.attr({ "title": jTD.attr("data-title-ss-" + CLJ[sObjId].sSS) });
+								jTD.find("img").hide();
+								jTD.find("img.sett-ss-" + CLJ[sObjId].sSS).show();
+							}
+							else
+							{
+								jTD = jTR.children("td.sett-cs");
+								jTD.attr({ "title": jTD.attr("data-title-cs-" + CLJ[sObjId].sCS) });
+								jTD.find("div.cl-sett-status").removeClass("cl-sett-status-n cl-sett-status-i cl-sett-status-c").addClass("cl-sett-status-" + CLJ[sObjId].sCS);
+								jTD = jTR.children("td.sett-ss");
+								jTD.attr({ "title": jTD.attr("data-title-ss-" + CLJ[sObjId].sSS) });
+								jTD.find("div.cl-sett-status").removeClass("cl-sett-status-u cl-sett-status-p cl-sett-status-f").addClass("cl-sett-status-" + CLJ[sObjId].sSS);
+							}
+						}
+						break;
+					}
+					case "comment":
+					{
+						var jxComments = CLS[CLZ.sCurrentSlideId].jxNode.children("comments");
+						if(jxComments.length!=0)
+						{
+							if(jxComments.text()!="")
+							{
+								var sText = $("<div/>").html(jxComments.text()).text();
+								if(oCurObj.data.sIfNoComment=="disable")
+								{
+									oCurObj.data.bNaviLockedByAction = false;
+									oCurObj.CallMethod({ sMethod: "Enable" });
+								}
+								else if(oCurObj.data.sIfNoComment=="hide")
+								{
+									oCurObj.Show();
+								}
+								jContainer.find(".cl-comm-none").hide();
+								jContainer.find(".cl-comm-body").html(sText).show();
+							}
+							else
+							{
+								if(oCurObj.data.sIfNoComment=="text")
+								{
+									jContainer.find(".cl-comm-none").show();
+									jContainer.find(".cl-comm-body").hide();
+								}
+								else if(oCurObj.data.sIfNoComment=="disable")
+								{
+									oCurObj.data.bNaviLockedByAction = true;
+									oCurObj.CallMethod({ sMethod: "Disable" });
+								}
+								else
+								{
+									oCurObj.Hide();
+								}
+							}
+						}
+						else
+						{
+							if(oCurObj.data.sIfNoComment=="text")
+							{
+								jContainer.find(".cl-comm-none").show();
+								jContainer.find(".cl-comm-body").hide();
+							}
+							else if(oCurObj.data.sIfNoComment=="disable")
+							{
+								oCurObj.data.bNaviLockedByAction = true;
+								oCurObj.CallMethod({ sMethod: "Disable" });
+							}
+							else
+							{
+								oCurObj.Hide();
+							}
+						}
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="SearchTip">
+<![CDATA[function SearchTip(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(!oCurObj.data.bSearchTip)
+				{
+					return false;
+				}
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jTips = jContainer.find(".cl-search-tips");
+				if(!jTips.is(":visible"))
+				{
+					jContainer.find(".cl-search-results-list, .cl-search-found, .cl-search-no-results").hide();
+					jTips.fadeIn("fast");
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Search">
+<![CDATA[function Search(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var sStr = jContainer.find("input.cl-search-field").val();
+				sStr = $.trim(sStr);
+				if(sStr=="") return false;
+				var sCase = oCurObj.jxParams.children("search_case").text();
+				var bCase = false;
+				if(sCase=="no_user" || sCase=="yes_user")
+				{
+					bCase = (jContainer.find("select.cl-search-case").val()=="yes");
+				}
+				else
+				{
+					bCase = (sCase=="yes");
+				}
+				var sLogic = oCurObj.jxParams.children("search_logic").text();
+				if(sLogic=="OR_user" || sLogic=="AND_user")
+				{
+					sLogic = (jContainer.find("select.cl-search-logic").val()=="yes") ? "AND" : "OR";
+				}
+				var sScope = oCurObj.jxParams.children("search_scope").text();
+				var aResults = CL.Search({ sString: sStr, bCase: bCase, sLogic: sLogic, sScope: sScope });
+				if(oCurObj.data.bSearchTip)
+				{
+					jContainer.find(".cl-search-tips").hide();
+				}
+				if(aResults.length==0)
+				{
+					jContainer.find(".cl-search-results-list, .cl-search-found").hide();
+					jContainer.find(".cl-search-no-results").show();
+				}
+				else
+				{
+					var jUL = jContainer.find(".cl-search-results-list");
+					jUL.html("").show();
+					jContainer.find(".cl-search-found").show();
+					jContainer.find(".cl-search-found").find(".cl-search-found-qty").html(aResults.length);
+					jContainer.find(".cl-search-no-results").hide();
+					var jLI;
+					var jTemplate = jContainer.find("li.cl-search-item-template");
+					var sReturnFormat = oCurObj.jxParams.children("search_return_format").text();
+					var sSlideId;
+					for(var i=0; i<aResults.length; i++)
+					{
+						sSlideId = $(aResults[i].slide).attr("id");
+						jLI = jTemplate.clone(true).removeClass("cl-search-item-template").addClass("cl-search-results-item").attr({ "data-slide-id": sSlideId }).appendTo(jUL);
+						jLI.find(".item-name").html($(aResults[i].slide).attr("name"));
+						if(CL.SCO.IsVisited({ sBy: "slideid", sSlideId: sSlideId }) || sSlideId==CLZ.sCurrentSlideId)
+						{
+							jLI.addClass("allowed visited").on("click", function () { CLO[argobj.pid].CallMethod({ sMethod: "Navigate", oMethodArgs: { elem: this } }) });
+						}
+						if(sReturnFormat=="extended")
+						{
+							var aStrings = aResults[i].strings;
+							var sString = "";
+							for(var j=0; j<aStrings.length; j++)
+							{
+								if(j==0)
+								{
+									sString += aStrings[j];
+								}
+								else
+								{
+									sString += "<br>" + aStrings[j];
+								}
+							}
+							jLI.find(".item-text").html(sString);
+						}
+						else
+						{
+							jLI.find(".item-text").hide();
+						}
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Navigate">
+<![CDATA[function Navigate(argobj)
+			{
+				if(argobj.elem==null) return false;
+				if($(argobj.elem).hasClass("allowed"))
+				{
+				var oCurObj = CLO[argobj.pid];
+				var sTargetId = $(argobj.elem).attr("data-slide-id");
+				CL.Navigation.GoTo({ sTargetType: "slide", sTargetId: sTargetId });
+				CL.Sound.Stop({ sId: argobj.pid, sEvent: "click" });
+				if(oCurObj.data.sSoundClick!="none")
+				{
+					CL.Sound.Play({ sId: argobj.pid, sEvent: "click", sType: oCurObj.data.sSoundClick, sFile: oCurObj.data.sSoundClickFile })
+				}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Open">
+<![CDATA[function Open(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj.data.sPosition=="closed" && oCurObj.data.sState=="enabled")
+				{
+					oCurObj.CallMethod({ sMethod: "Toggle" });
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Close">
+<![CDATA[function Close(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj.data.sPosition=="open" && oCurObj.data.sState=="enabled")
+				{
+					oCurObj.CallMethod({ sMethod: "Toggle" });
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Disable">
+<![CDATA[function Disable(argobj)
+			{
+				if(CLO[argobj.pid].data.sPosition=="open")
+				{
+					CLO[argobj.pid].CallMethod({ sMethod: "Toggle" });
+				}
+				CLO[argobj.pid].data.sState=="disabled";
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Enable">
+<![CDATA[function Enable(argobj)
+			{
+				CLO[argobj.pid].data.sState=="enabled";
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="GetProperty">
+<![CDATA[function GetProperty(argobj)
+			{
+				if(argobj.pid==null || argobj.property==null) return false;
+				switch(argobj.property.toLowerCase())
+				{
+					case "disabled":
+					{
+						return (CLO[argobj.pid].data.sState=="disabled") ? "1" : "0";
+					}
+					case "open":
+					{
+						return (CLO[argobj.pid].data.sPosition=="open") ? "1" : "0";
+					}
+				}
+				return "";
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Toggle">
+<![CDATA[function Toggle(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurDiv = $(oCurObj.div);
+				if(oCurObj.data.sPosition=="closed")
+				{
+					if(oCurObj.data.bModal)
+					{
+						CL.Modal({ bOn: true, sSrcId: argobj.pid });
+					}
+					oCurObj.data.sPosition = "transition_open";
+					jCurDiv.css({ "z-index": 5001 });
+					if(oCurObj.data.bTranIn)
+					{
+						oCurObj.Show({ bActionCall: true, bUseTransition: true, iTransition: oCurObj.data.iTranIn, iDuration: oCurObj.data.iDurIn, fnCallback: function () { CLO[argobj.pid].data.sPosition = "open"; } });
+					}
+					else
+					{
+						oCurObj.Show({ bActionCall: true, bUseTransition: false });
+						oCurObj.data.sPosition = "open";
+					}
+					if(oCurObj.data.aTogglers.length>0)
+					{
+						for(var i=0; i<oCurObj.data.aTogglers.length; i++)
+						{
+							if(CLO[oCurObj.data.aTogglers[i]].oMethods["Off"]!=null)
+							{
+								CLO[oCurObj.data.aTogglers[i]].CallMethod({ sMethod: "Off" });
+							}
+						}
+					}
+				}
+				else
+				{
+					if(oCurObj.data.bModal)
+					{
+						CL.Modal({ bOn: false, sSrcId: argobj.pid });
+					}
+					oCurObj.data.sPosition = "transition_close";
+					if(oCurObj.data.bTranOut)
+					{
+						oCurObj.Hide({ bActionCall: true, bUseTransition: true, iTransition: oCurObj.data.iTranOut, iDuration: oCurObj.data.iDurOut, fnCallback: function () { CLO[argobj.pid].data.sPosition = "closed"; } });
+					}
+					else
+					{
+						oCurObj.Hide({ bActionCall: true, bUseTransition: false });
+						oCurObj.data.sPosition = "closed";
+					}
+					if(oCurObj.data.aTogglers.length>0)
+					{
+						for(var i=0; i<oCurObj.data.aTogglers.length; i++)
+						{
+							if(CLO[oCurObj.data.aTogglers[i]].oMethods["On"]!=null)
+							{
+								CLO[oCurObj.data.aTogglers[i]].CallMethod({ sMethod: "On" });
+							}
+						}
+					}
+				}
+				CL.Sound.Stop({ sId: argobj.pid, sEvent: "click" });
+				if(oCurObj.data.sSoundClick!="none")
+				{
+					CL.Sound.Play({ sId: argobj.pid, sEvent: "click", sType: oCurObj.data.sSoundClick, sFile: oCurObj.data.sSoundClickFile })
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_tab" name="Constructor">
+<![CDATA[function Constructor(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurDiv = $(oCurObj.div);
+				var jContainer = jCurDiv.find(".cl-container");
+				var iFullH = jContainer.find(".cl-body")[0].offsetHeight;
+				var iPadding = +oCurObj.jxParams.children("panel_padding").text();
+				var jHeader = jContainer.find(".cl-body-header");
+				jContainer.find(".cl-body-contents").css({ "height": ((jHeader.length!=0) ? (iFullH - jHeader[0].offsetHeight - 3*iPadding) : (iFullH - 2*iPadding)) + "px" });
+				oCurObj.initial.nZ = 5000;
+				oCurObj.initial.sClip = jContainer.attr("data-clip-tab");
+				jCurDiv.css({ "z-index": 5000, "clip": oCurObj.initial.sClip });
+				var sTabPosition = oCurObj.jxParams.children("tab_position").text();
+				var iDiff = parseFloat(jContainer.attr("data-distance"));
+				oCurObj.data =
+				{
+					bModal: (oCurObj.jxParams.children("modal").text()=="yes"),
+					bNaviStrict: (oCurObj.jxParams.children("nav_lock").text()=="yes"),
+					bNaviLockedByAction: false,
+					bSearchTip: (oCurObj.jxParams.children("search_tip").text()=="yes"),
+					iDiff: iDiff,
+					sSlideId: "",
+					sTabPosition: sTabPosition,
+					sClipOpen: "rect(auto,auto,auto,auto)",
+					sRole: oCurObj.jxParams.children("contenttype").text(),
+					sState: "enabled",
+					sPosition: "closed",
+					bCustomTab: (oCurObj.jxParams.children("standard").text()!="yes"),
+					sSoundClick: oCurObj.jxParams.children("sound_click").text(),
+					sSoundOver: oCurObj.jxParams.children("sound_over").text()
+				};
+				if(oCurObj.data.sSoundClick=="custom")
+				{
+					oCurObj.data.sSoundClickFile = oCurObj.jxParams.children("sound_click_file_custom").text();
+				}
+				if(oCurObj.data.sSoundOver=="custom")
+				{
+					oCurObj.data.sSoundOverFile = oCurObj.jxParams.children("sound_over_file_custom").text();
+				}
+				switch(sTabPosition)
+				{
+					case "left":
+					{
+						oCurObj.data.nBaseLeft = iDiff;
+						oCurObj.data.nOpenLeft = 0;
+						oCurObj.data.nOverLeft = oCurObj.data.nBaseLeft - 2;
+						jCurDiv.find(".cl-container").css({ "left": oCurObj.data.nBaseLeft + "px" });
+						break;
+					}
+					case "right":
+					{
+						oCurObj.data.nBaseLeft = -1*iDiff;
+						oCurObj.data.nOpenLeft = 0;
+						oCurObj.data.nOverLeft = oCurObj.data.nBaseLeft + 2;
+						jCurDiv.find(".cl-container").css({ "left": oCurObj.data.nBaseLeft + "px" });
+						break;
+					}
+					case "top":
+					{
+						oCurObj.data.nBaseTop = iDiff;
+						oCurObj.data.nOpenTop = 0;
+						oCurObj.data.nOverTop = oCurObj.data.nBaseTop - 2;
+						jCurDiv.find(".cl-container").css({ "top": oCurObj.data.nBaseTop + "px" });
+						break;
+					}
+					case "bottom":
+					{
+						oCurObj.data.nBaseTop = -1*iDiff;
+						oCurObj.data.nOpenTop = 0;
+						oCurObj.data.nOverTop = oCurObj.data.nBaseTop + 2;
+						jCurDiv.find(".cl-container").css({ "top": oCurObj.data.nBaseTop + "px" });
+						break;
+					}
+				}
+				CLO[argobj.pid].CallMethod({ sMethod: "InitRole" });
+				if(CL.bTouch)
+				{
+					jCurDiv.find(".cl-tab").mousedown(function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e } }); }).mouseup(function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e } }); });
+				}
+				else
+				{
+					jCurDiv.find(".cl-tab").mouseover(function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e } }); }).mouseout(function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e } }); }).mousedown(function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e } }); }).mouseup(function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e } }); });
+				}
+				CL.Event.Subscribe({ aList: [ { sId: argobj.pid, sEvtName: "EVENT_SLIDE_OPENED" }, { sId: argobj.pid, sEvtName: "EVENT_SLIDE_COMPLETE" }, { sId: argobj.pid, sEvtName: "EVENT_NAVIGATION" } ] });
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_tab" name="HandleEvt">
+<![CDATA[function HandleEvt(oEvtHandler, oArg)
+			{
+				if(CLO[argobj.pid]==null || CLO[argobj.pid].div==null) return false;
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(CLO[argobj.pid].div);
+				switch(argobj.evt)
+				{
+					case "EVENT_SLIDE_OPENED":
+					{
+						oCurObj.CallMethod({ sMethod: "Close" });
+						if(oCurObj.data.sRole=="contents" || oCurObj.data.sRole=="settings" || oCurObj.data.sRole=="comment")
+						{
+							oCurObj.CallMethod({ sMethod: "Update" });
+						}
+						if(oCurObj.data.sSlideId!=CLZ.sCurrentSlideId)
+						{
+							oCurObj.data.sSlideId = CLZ.sCurrentSlideId;
+							oCurObj.data.bNaviLockedByAction = false;
+						}
+						oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviStrict || oCurObj.data.bNaviLockedByAction) ? "Disable" : "Enable") });
+						break;
+					}
+					case "EVENT_SLIDE_COMPLETE":
+					{
+						oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviLockedByAction) ? "Disable" : "Enable") });
+						break;
+					}
+					case "EVENT_NAVIGATION":
+					{
+						if(argobj.sTargets!=null)
+						{
+							if(argobj.sTargets=="tabs" || argobj.sTargets=="all" || (argobj.sTargets=="contents" && oCurObj.data.sRole=="contents"))
+							{
+								switch(argobj.sAction)
+								{
+									case "off":
+									{
+										oCurObj.data.bNaviLockedByAction = true;
+										oCurObj.CallMethod({ sMethod: "Disable" });
+										break;
+									}
+									case "on":
+									default:
+									{
+										oCurObj.data.bNaviLockedByAction = false;
+										oCurObj.CallMethod({ sMethod: "Enable" });
+										break;
+									}
+								}
+							}
+						}
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_tab" name="InitRole">
+<![CDATA[function InitRole(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(CLO[argobj.pid].div);
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var iPadding = +oCurObj.jxParams.find("panel_padding").text();
+				var iBorder = +oCurObj.jxParams.find("panel_borderwidth").text();
+				var iFullH = oCurObj.initial.h;
+				var iRadius = +oCurObj.jxParams.find("panel_radius").text();
+				var iHH = jContainer.find(".cl-body-header").outerHeight();
+				iH = iFullH - iHH - 2*iPadding - 2*iBorder;
+				jContainer.find(".cl-body-contents").height(iH);
+				switch(oCurObj.data.sRole)
+				{
+					case "contents":
+					{
+						var jTemplate = jContainer.find("li.slide-item-template");
+						var jUL = jContainer.find("ul.cl-slide-list");
+						var jxSlide;
+						var jLI;
+						var sSlideId;
+						var bPrevVisited = true;
+						var iIndent;
+						var iPrevIndent = 0;
+						var aPath = CL.oPath._GetSlideList();
+						for(var i=0; i<aPath.length; i++)
+						{
+							sSlideId = aPath[i];
+							jxSlide = CL.jxModule.find("slide[id='" + sSlideId + "']");
+							jLI = jTemplate.clone(true).removeClass("slide-item-template").addClass("slide-item").attr({ "data-slide-id": sSlideId }).appendTo(jUL);
+							jLI.on("click", function () { CLO[argobj.pid].CallMethod({ sMethod: "Navigate", oMethodArgs: { elem: this } }) });
+							jLI.find(".cl-item-inner").html(jxSlide.attr("name"));
+							if(jxSlide.attr("indent")!=null)
+							{
+								iIndent = +jxSlide.attr("indent");
+								if(iIndent!=0)
+								{
+									jLI.addClass("indent-" + iIndent);
+									if(iIndent>iPrevIndent && CL.axSlides[i-1]!=0)
+									{
+										jLI.prev().addClass("open");
+										iPrevIndent = iIndent;
+									}
+								}
+								else
+								{
+									iPrevIndent = 0;
+								}
+							}
+							else
+							{
+								iPrevIndent = 0;
+							}
+							if(sSlideId==CLZ.sCurrentSlideId)
+							{
+								jLI.addClass("current");
+								bPrevVisited = true;
+							}
+							else if(CL.SCO.IsVisited({ sBy: "slideid", sSlideId: sSlideId }))
+							{
+								jLI.addClass("allowed visited");
+								bPrevVisited = true;
+							}
+							else
+							{
+								if(bPrevVisited==true)
+								{
+									jLI.addClass("allowed unvisited");
+									bPrevVisited = false;
+								}
+								else if(!CLZ.bStrictOrder)
+								{
+									jLI.addClass("allowed unvisited");
+								}
+								else
+								{
+									jLI.addClass("forbidden unvisited");
+								}
+							}
+						}
+						break;
+					}
+					case "search":
+					{
+						jContainer.find(".cl-search-results-list, .cl-search-found, .cl-search-no-results").hide();
+						jContainer.find(".cl-search-btn").on("click", function () { CLO[argobj.pid].CallMethod({ sMethod: "Search" }) });
+						jContainer.find(".cl-search-field").on("keydown", function () { CLO[argobj.pid].CallMethod({ sMethod: "SearchTip" }) });
+						break;
+					}
+					case "glossary":
+					{
+						var jLetterBox = jContainer.find(".cl-letters-box");
+						// normalize case and remove case duplicates
+						if(jLetterBox.length!=0)
+						{
+							var iMaxW = -1;
+							var jLetters = jLetterBox.find(".cl-letter-item");
+							jLetters.each(function ()
+							{
+								var iW = $(this).width();
+								if(iW>iMaxW) iMaxW = iW;
+							});
+							jLetters.each(function ()
+							{
+								$(this).width(iMaxW);
+							});
+							iHH = jLetterBox.outerHeight();
+							iH = iH - iHH;
+						}
+						jContainer.find(".cl-terms-list-container").height(iH);
+						jContainer.find(".cl-terms-desc").height(iH);
+						iH -= 2*iPadding;
+						jContainer.find(".cl-terms-desc-container").height(iH);
+						jContainer.find(".cl-terms-desc-default-table").height(iH);
+						jContainer.find(".cl-terms-desc-default-cell").height(iH);
+						if(jContainer.find(".cl-letter-item").length>0)
+						{
+							jContainer.find(".cl-letter-item").on("click", function () { oCurObj.CallMethod({ sMethod: "Filter", oMethodArgs: { elem: this } }) });
+						}
+						jContainer.find(".cl-term-item").on("click", function () { oCurObj.CallMethod({ sMethod: "Display", oMethodArgs: { elem: this } }) });
+						break;
+					}
+					case "calculator":
+					{
+						jContainer.find(".calc-btn").on("click", function () { oCurObj.CallMethod({ sMethod: "HandleCalc", oMethodArgs: { elem: this } }) });
+						oCurObj.data.sOperandA = "na";
+						oCurObj.data.sOperatorA = "na";
+						oCurObj.data.sOperandB = "na";
+						oCurObj.data.sLastBtn = "na";
+						oCurObj.data.sMemory = "na";
+						oCurObj.data.bClean = false;
+						oCurObj.data.bEqual = false;
+						oCurObj.data.bPercent = false;
+						break;
+					}
+					case "settings":
+					{
+						oCurObj.data.sObjToDisplay = oCurObj.jxParams.children("settings_display").text();
+						oCurObj.data.bCustomIcons = (oCurObj.jxParams.children("settings_icons").text()=="custom");
+						oCurObj.data.sScoreDisplayType = oCurObj.jxParams.children("score_style").text();
+						var jTemplate = jContainer.find(".cl-sett-row-template");
+						var jTable = jTemplate.parents("table:first");
+						var jTR;
+						var jTD;
+						for(var sObjId in CLJ)
+						{
+							if(oCurObj.data.sObjToDisplay=="main" && CLJ[sObjId].bModule.toString()!="1") continue;
+							if(oCurObj.data.sObjToDisplay=="other" && CLJ[sObjId].bModule.toString()=="1") continue;
+							jTR = jTemplate.clone(true).attr({ "data-obj-id": sObjId }).removeClass("cl-sett-row-template");
+							jTR.children("td.cl-sett-name").html(CLJ[sObjId].sName);
+							if(oCurObj.data.sScoreDisplayType=="raw")
+							{
+								jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore);
+							}
+							else if(oCurObj.data.sScoreDisplayType=="rawmax")
+							{
+								jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore + "(" + CLJ[sObjId].nMax + ")");
+							}
+							else if(oCurObj.data.sScoreDisplayType=="scaled")
+							{
+								if(CLJ[sObjId].nMax!=0)
+								{
+									jTR.children("td.cl-sett-score").html( Math.round(100*CLJ[sObjId].nRawScore/CLJ[sObjId].nMax)/100 + "%");
+								}
+								else
+								{
+									jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore);
+								}
+							}
+							if(oCurObj.data.bCustomIcons)
+							{
+								jTD = jTR.children("td.sett-cs");
+								jTD.attr({ "title": jTD.attr("data-title-cs-" + CLJ[sObjId].sCS),"data-obj-id": sObjId });
+								jTD.find("img").hide();
+								jTD.find("img.sett-cs-" + CLJ[sObjId].sCS).show();
+								jTD = jTR.children("td.sett-ss");
+								jTD.attr({ "title": jTD.attr("data-title-ss-" + CLJ[sObjId].sSS),"data-obj-id": sObjId });
+								jTD.find("img").hide();
+								jTD.find("img.sett-ss-" + CLJ[sObjId].sSS).show();
+							}
+							else
+							{
+								jTD = jTR.children("td.sett-cs");
+								jTD.attr({ "title": jTD.attr("data-title-cs-" + CLJ[sObjId].sCS),"data-obj-id": sObjId });
+								jTD.find("div.cl-sett-status").addClass("cl-sett-status-" + CLJ[sObjId].sCS);
+								jTD = jTR.children("td.sett-ss");
+								jTD.attr({ "title": jTD.attr("data-title-ss-" + CLJ[sObjId].sSS),"data-obj-id": sObjId });
+								jTD.find("div.cl-sett-status").addClass("cl-sett-status-" + CLJ[sObjId].sSS);
+							}
+							if(CLJ[sObjId].bModule.toString()=="1")
+							{
+								jTR.insertAfter(jTable.find("tr.sett-main-obj-header"));
+							}
+							else
+							{
+								jTR.appendTo(jTable);
+							}
+						}
+						break;
+					}
+					case "comment":
+					{
+						oCurObj.data.sIfNoComment = oCurObj.jxParams.children("comment_display").text();
+						break;
+					}
+				}
+			}]]>
+</method>
+<method type="nav_0002_navi_tab" name="HandleCalc">
+<![CDATA[function HandleCalc(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(CLO[argobj.pid].div);
+				if(oCurObj.data.sRole!="calculator") return false;
+				if(argobj.elem==null) return false;
+				var sKey = $(argobj.elem).attr("data-btn");
+				if(sKey==null || sKey=="") return false;
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jDisplay = jContainer.find(".calc-display");
+				var jMemInd = jContainer.find(".calc-memind");
+				var sCurString = $.trim(jDisplay.html() + "");
+				if($(argobj.elem).hasClass("calc-num")) // numeric btn or .
+				{
+					sKey = sKey + "";
+					if(oCurObj.data.bEqual==true)
+					{
+						oCurObj.data.sOperandA = "na";
+						oCurObj.data.sOperatorA = "na";
+						oCurObj.data.sOperandB = "na";
+						oCurObj.data.bEqual = false;
+					}
+					if(oCurObj.data.bClean==true)
+					{
+						sCurString = "0";
+						jDisplay.html("0");
+						oCurObj.data.sOperandB = "na";
+						oCurObj.data.bClean = false;
+					}
+					if(sCurString=="0" && sKey=="0") return false;
+					if(sKey=="." && sCurString.indexOf(".")!=-1) return false;
+					if(sCurString.length>=17)
+					{
+						if(sCurString.indexOf("!")==-1) jDisplay.html("!"+sCurString);
+						return false;
+					}
+					if(sCurString.length==1 && sCurString=="0" && sKey!=".")
+					{
+						jDisplay.html(sKey);
+						return true;
+					}
+					jDisplay.html(sCurString + sKey);
+				}
+				else
+				{
+					if(sCurString.indexOf("ERROR")!=-1 && sKey!="C") return false;
+					switch(sKey)
+					{
+						case "M+":
+						{
+							if(sCurString.indexOf("!")!=-1) sCurString = sCurString.substr(1);
+							jMemInd.html("M");
+							if(oCurObj.data.sMemory=="na")
+							{
+								oCurObj.data.sMemory = sCurString;
+							}
+							else
+							{
+								var nM1 = parseFloat(oCurObj.data.sMemory);
+								var nM2 = parseFloat(sCurString);
+								nM1 = nM1 + nM2;
+								oCurObj.data.sMemory = nM1.toString();
+							}
+							break;
+						}
+						case "MS":
+						{
+							if(sCurString.indexOf("!")!=-1) sCurString = sCurString.substr(1);
+							jMemInd.html("M");
+							if(oCurObj.data.sMemory=="na")
+							{
+								oCurObj.data.sMemory = "-" + sCurString;
+							}
+							else
+							{
+								var nM1 = parseFloat(oCurObj.data.sMemory);
+								var nM2 = parseFloat(sCurString);
+								nM1 = nM1 - nM2;
+								oCurObj.data.sMemory = nM1.toString();
+							}
+							break;
+						}
+						case "MR":
+						{
+							if(oCurObj.data.sMemory!="na")
+							{
+								jDisplay.html(oCurObj.data.sMemory);
+							}
+							break;
+						}
+						case "MC":
+						{
+							oCurObj.data.sMemory = "na";
+							jMemInd.html("&nbsp;");
+							break;
+						}
+						case "C":
+						{
+							oCurObj.data.sOperandA = "na";
+							oCurObj.data.sOperatorA = "na";
+							oCurObj.data.sOperandB = "na";
+							oCurObj.data.sLastBtn = "na";
+							oCurObj.data.bClean = false;
+							jDisplay.html("0");
+							break;
+						}
+						case "CE":
+						{
+							oCurObj.data.sOperandB = "na";
+							oCurObj.data.sLastBtn = "na";
+							oCurObj.data.bClean = false;
+							jDisplay.html("0");
+							break;
+						}
+						case "Backspace":
+						{
+							if(sCurString.length>1)
+							{
+								sCurString = sCurString.substr(0,sCurString.length-1);
+							}
+							jDisplay.html(sCurString);
+							break;
+						}
+						case "equal":
+						{
+							if(oCurObj.data.bPercent==true)
+							{
+								return false;
+							}
+							oCurObj.data.bEqual = true;
+							if(oCurObj.data.sOperandA!="na")
+							{
+								oCurObj.CallMethod({ sMethod: "Calculate", oMethodArgs: { sKey: sKey } });
+							}
+							break;
+						}
+						case "power":
+						case "plus":
+						case "minus":
+						case "mult":
+						case "divide":
+						{
+							if(oCurObj.data.bEqual==true)
+							{
+								oCurObj.data.bEqual = false;
+							}
+							if(oCurObj.data.bPercent==true)
+							{
+								oCurObj.data.bPercent = false;
+							}
+							if(sCurString.indexOf("!")!=-1)
+							{
+								sCurString = sCurString.substr(1);
+								jDisplay.html(sCurString);
+							}
+							if(oCurObj.data.sOperandA=="na" || oCurObj.data.bClean==true)
+							{
+								oCurObj.data.sOperandA = sCurString;
+								oCurObj.data.sOperatorA = sKey;
+								oCurObj.data.bClean = true;
+							}
+							else
+							{
+								oCurObj.CallMethod({ sMethod: "Calculate", oMethodArgs: { sKey: sKey } });
+							}
+							break;
+						}
+						case "negate":
+						{
+							if(sCurString=="0") return false;
+							if(oCurObj.data.bEqual==true)
+							{
+								oCurObj.data.bEqual = false;
+							}
+							if(oCurObj.data.bPercent==true)
+							{
+								oCurObj.data.bPercent = false;
+							}
+							if(sCurString.indexOf("-")!=-1)
+							{
+								sCurString = sCurString.substr(1);
+							}
+							else
+							{
+								sCurString = "-"+sCurString;
+							}
+							jDisplay.html(sCurString);
+							break;
+						}
+						case "recip":
+						{
+							if(sCurString=="0")
+							{
+								oCurObj.data.sOperandA = "na";
+								oCurObj.data.sOperatorA = "na";
+								oCurObj.data.sOperandB = "na";
+								oCurObj.data.sLastBtn = "na";
+								oCurObj.data.bClean = false;
+								jDisplay.html("ERROR: DIV 0");
+								return false;
+							}
+							if(oCurObj.data.bEqual==true)
+							{
+								oCurObj.data.bEqual = false;
+							}
+							if(oCurObj.data.bPercent==true)
+							{
+								oCurObj.data.bPercent = false;
+							}
+							if(sCurString.indexOf("!")!=-1) sCurString = sCurString.substr(1);
+							var nValue = 1/parseFloat(sCurString);
+							sCurString = nValue.toString();
+							if(sCurString.length>=20)
+							{
+								sCurString = sCurString.substring(0,19);
+							}
+							jDisplay.html(sCurString);
+							break;
+						}
+						case "percent":
+						{
+							if(oCurObj.data.sOperandA=="na") return false;
+							if(oCurObj.data.bPercent==true) return false;
+							oCurObj.data.bPercent = true;
+							if(oCurObj.data.bEqual==true)
+							{
+								oCurObj.data.bEqual = false;
+							}
+							oCurObj.CallMethod({ sMethod: "Calculate", oMethodArgs: { sKey: sKey } });
+							oCurObj.data.sOperandB = "na";
+							break;
+						}
+					}
+
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_tab" name="Calculate">
+<![CDATA[function Calculate(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(CLO[argobj.pid].div);
+				if(oCurObj.data.sRole!="calculator") return false;
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jDisplay = jContainer.find(".calc-display");
+				var jMemInd = jContainer.find(".calc-memind");
+				var sCurString = $.trim(jDisplay.html() + "");
+				if(sCurString.indexOf("!")!=-1) sCurString = sCurString.substr(1);
+				var nValue1 = parseFloat(oCurObj.data.sOperandA);
+				if(oCurObj.data.sOperandB=="na")
+				{
+					oCurObj.data.sOperandB = sCurString
+				}
+				var nValue2 = parseFloat(oCurObj.data.sOperandB);
+				var nResult = 0;
+				switch(oCurObj.data.sOperatorA)
+				{
+					case "plus":
+					{
+						nResult = (nValue1*1000 + nValue2*1000)/1000;
+						break;
+					}
+					case "minus":
+					{
+						nResult = (nValue1*1000 - nValue2*1000)/1000;
+						break;
+					}
+					case "mult":
+					{
+						nResult = nValue1 * nValue2;
+						if(oCurObj.data.bPercent==true)
+						{
+							nResult = nResult/100;
+						}
+						break;
+					}
+					case "divide":
+					{
+						if(nValue2==0)
+						{
+							oCurObj.data.sOperandA = "na";
+							oCurObj.data.sOperatorA = "na";
+							oCurObj.data.sOperandB = "na";
+							oCurObj.data.sLastBtn = "na";
+							oCurObj.data.bClean = true;
+							jDisplay.html("ERROR: DIV 0");
+							return false;
+						}
+						nResult = nValue1 / nValue2;
+						if(oCurObj.data.bPercent==true)
+						{
+							nResult = nResult*100;
+						}
+						break;
+					}
+					case "power":
+					{
+						nResult = Math.pow(nValue1,nValue2);
+						break;
+					}
+				}
+
+				if(nResult>-1 && nResult<1)
+				{
+					nResult = nResult.toString();
+					if(nResult.length>=20)
+					{
+						if(nResult.indexOf("e")!=-1)
+						{
+							var aParts = vResult.split("e");
+							if(parseInt(aParts[1])<-20)
+							{
+								nResult = "0";
+							}
+							else
+							{
+								if(aParts[0].length>14)
+								{
+									aParts[0] = aParts[0].substr(0,13);
+									if(parseFloat(aParts[0])==0)
+									{
+										nResult = "0";
+									}
+									else
+									{
+										nResult = aParts.join("e");
+									}
+								}
+								else
+								{
+									nResult = aParts.join("e");
+								}
+							}
+						}
+						else
+						{
+							nResult = nResult.substr(0,19);
+						}
+					}
+				}
+				else
+				{
+					nResult = nResult.toString();
+					if(nResult.length>=18)
+					{
+						if(nResult.indexOf(".")==-1)
+						{
+							oCurObj.data.sOperandA = "na";
+							oCurObj.data.sOperatorA = "na";
+							oCurObj.data.sOperandB = "na";
+							oCurObj.data.sLastBtn = "na";
+							oCurObj.data.bClean = true;
+							jDisplay.html("ERROR: OVERFLOW");
+							return false;
+						}
+						else
+						{
+							if(nResult.indexOf("e")!=-1)
+							{
+								var aParts = nResult.split("e");
+								if(aParts[0].length>14)
+								{
+									aParts[0] = aParts[0].substr(0,13);
+									nResult = aParts.join("e")
+								}
+							}
+							else
+							{
+								nResult = nResult.substr(0,17);
+							}
+						}
+					}
+				}
+				jDisplay.html(nResult);
+				oCurObj.data.sOperandA = nResult;
+				if(oCurObj.data.bEqual==false && oCurObj.data.bPercent==false)
+				{
+					oCurObj.data.sOperatorA = argobj.sKey;
+				}
+				oCurObj.data.bClean = true;
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_tab" name="Filter">
+<![CDATA[function Filter(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj.data.sRole!="glossary") return false;
+				if(argobj.elem==null) return false;
+				if($(argobj.elem).hasClass("cl-letter-selected")) return false;
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jTerms = jContainer.find(".cl-term-item");
+				var sLetter = $.trim($(argobj.elem).text());
+				if(sLetter=="*")
+				{
+					jTerms.show();
+				}
+				else
+				{
+					jTerms.hide().each(function ()
+					{
+						var sText = $.trim($(this).html());
+						if(sText.toUpperCase().charAt(0)==sLetter)
+						{
+							$(this).show();
+						}
+					});
+				}
+				jTerms.filter(":visible").filter(":first").click();
+				jContainer.find(".cl-letter-item").addClass("cl-letter-idle").removeClass("cl-letter-selected");
+				$(argobj.elem).removeClass("cl-letter-idle").addClass("cl-letter-selected");
+			}]]>
+</method>
+<method type="nav_0002_navi_tab" name="Display">
+<![CDATA[function Display(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj.data.sRole!="glossary") return false;
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jTerms = jContainer.find(".cl-term-item");
+				if(argobj.ecode!=null || argobj.eitem!=null)
+				{
+					var sCode = $.trim(argobj.ecode);
+					var sText = $.trim(argobj.eitem);
+					if(sCode=="" && sText=="") return false;
+					var jItem;
+					if(sCode!="")
+					{
+						jItem = jTerms.filter("[data-code='" + sCode + "']");
+						if(jItem.length!=0)
+						{
+							if(CLO[argobj.pid].data.sPosition=="closed" && CLO[argobj.pid].data.sState=="enabled")
+							{
+								CLO[argobj.pid].CallMethod({ sMethod: "Toggle" });
+							}
+							if(!jItem.hasClass("cl-term-selected"))
+							{
+								jItem.click();
+							}
+						}
+					}
+					else if(sText!="")
+					{
+						var sItemText;
+						for(var i=0; i<jTerms.length; i++)
+						{
+							sItemText = $.trim($(jTerms[i]).text());
+							if(sText==sItemText)
+							{
+								jItem = $(jTerms[i]);
+								break;
+							}
+						}
+						if(jItem.length!=0)
+						{
+							if(CLO[argobj.pid].data.sPosition=="closed" && CLO[argobj.pid].data.sState=="enabled")
+							{
+								CLO[argobj.pid].CallMethod({ sMethod: "Toggle" });
+							}
+							if(!jItem.hasClass("cl-term-selected"))
+							{
+								jItem.click();
+							}
+						}
+					}
+				}
+				else
+				{
+					if(argobj.elem==null) return false;
+					if($(argobj.elem).hasClass("cl-letter-selected")) return false;
+					var sTermId = $(argobj.elem).attr("data-number");
+					jTerms.removeClass("cl-term-selected").addClass("cl-term-idle");
+					jContainer.find(".cl-term-desc-item").hide();
+					jContainer.find(".cl-term-desc-item[data-number='" + sTermId + "']").show("fade");
+					jContainer.find(".cl-term-item[data-number='" + sTermId + "']").removeClass("cl-term-idle").addClass("cl-term-selected");
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_tab" name="Update">
+<![CDATA[function Update(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(CLO[argobj.pid].div);
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				switch(CLO[argobj.pid].data.sRole)
+				{
+					case "contents":
+					{
+						var jLIs = jContainer.find("ul.cl-slide-list > li.slide-item");
+						var sSlideId;
+						var jLI;
+						var bPrevVisited = true;
+						for(var i=0; i<jLIs.length; i++)
+						{
+							jLI = $(jLIs[i]);
+							sSlideId = jLI.attr("data-slide-id");
+							if(sSlideId==CLZ.sCurrentSlideId)
+							{
+								jLI.removeClass("allowed forbidden visited unvisited").addClass("current");
+								bPrevVisited = true;
+							}
+							else if(CL.SCO.IsVisited({ sBy: "slideid", sSlideId: sSlideId }))
+							{
+								jLI.removeClass("current unvisited forbidden").addClass("allowed visited");
+								bPrevVisited = true;
+							}
+							else
+							{
+								if(bPrevVisited)
+								{
+									if(CL.oPath._TargetAllowed({ sSlideId: sSlideId }))
+									{
+										jLI.removeClass("current unvisited forbidden").addClass("allowed unvisited");
+									}
+									else
+									{
+										jLI.removeClass("allowed current").addClass("forbidden unvisited");
+									}
+									bPrevVisited = false;
+								}
+								else
+								{
+									if(!CLZ.bStrictOrder)
+								{
+										if(CL.oPath._TargetAllowed({ sSlideId: sSlideId }))
+										{
+											jLI.removeClass("current unvisited forbidden").addClass("allowed unvisited");
+										}
+										else
+										{
+											jLI.removeClass("allowed current").addClass("forbidden unvisited");
+										}
+								}
+								else
+								{
+										jLI.removeClass("allowed current").addClass("forbidden unvisited");
+									}
+								}
+							}
+						}
+						break;
+					}
+					case "settings":
+					{
+						var jTR;
+						for(var sObjId in CLJ)
+						{
+							if(oCurObj.data.sObjToDisplay=="main" && CLJ[sObjId].bModule.toString()!="1") continue;
+							if(oCurObj.data.sObjToDisplay=="other" && CLJ[sObjId].bModule.toString()=="1") continue;
+							jTR = jContainer.find("tr[data-obj-id='" + sObjId + "']");
+							if(oCurObj.data.sScoreDisplayType=="raw")
+							{
+								jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore);
+							}
+							else if(oCurObj.data.sScoreDisplayType=="rawmax")
+							{
+								jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore + "(" + CLJ[sObjId].nMax + ")");
+							}
+							else if(oCurObj.data.sScoreDisplayType=="scaled")
+							{
+								if(CLJ[sObjId].nMax!=0)
+								{
+									jTR.children("td.cl-sett-score").html( Math.round(100*CLJ[sObjId].nRawScore/CLJ[sObjId].nMax)/100 + "%");
+								}
+								else
+								{
+									jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore);
+								}
+							}
+							if(oCurObj.data.bCustomIcons)
+							{
+								jTD = jTR.children("td.sett-cs");
+								jTD.attr({ "title": jTD.attr("data-title-cs-" + CLJ[sObjId].sCS) });
+								jTD.find("img").hide();
+								jTD.find("img.sett-cs-" + CLJ[sObjId].sCS).show();
+								jTD = jTR.children("td.sett-ss");
+								jTD.attr({ "title": jTD.attr("data-title-ss-" + CLJ[sObjId].sSS) });
+								jTD.find("img").hide();
+								jTD.find("img.sett-ss-" + CLJ[sObjId].sSS).show();
+							}
+							else
+							{
+								jTD = jTR.children("td.sett-cs");
+								jTD.attr({ "title": jTD.attr("data-title-cs-" + CLJ[sObjId].sCS) });
+								jTD.find("div.cl-sett-status").removeClass("cl-sett-status-n cl-sett-status-i cl-sett-status-c").addClass("cl-sett-status-" + CLJ[sObjId].sCS);
+								jTD = jTR.children("td.sett-ss");
+								jTD.attr({ "title": jTD.attr("data-title-ss-" + CLJ[sObjId].sSS) });
+								jTD.find("div.cl-sett-status").removeClass("cl-sett-status-u cl-sett-status-p cl-sett-status-f").addClass("cl-sett-status-" + CLJ[sObjId].sSS);
+							}
+						}
+						break;
+					}
+					case "comment":
+					{
+						var jxComments = CLS[CLZ.sCurrentSlideId].jxNode.children("comments");
+						if(jxComments.length!=0)
+						{
+							if(jxComments.text()!="")
+							{
+								var sText = $("<div/>").html(jxComments.text()).text();
+								if(oCurObj.data.sIfNoComment=="disable")
+								{
+									oCurObj.data.bNaviLockedByAction = false;
+									oCurObj.CallMethod({ sMethod: "Enable" });
+								}
+								else if(oCurObj.data.sIfNoComment=="hide")
+								{
+									oCurObj.Show();
+								}
+								jContainer.find(".cl-comm-none").hide();
+								jContainer.find(".cl-comm-body").html(sText).show();
+							}
+							else
+							{
+								if(oCurObj.data.sIfNoComment=="text")
+								{
+									jContainer.find(".cl-comm-none").show();
+									jContainer.find(".cl-comm-body").hide();
+								}
+								else if(oCurObj.data.sIfNoComment=="disable")
+								{
+									oCurObj.data.bNaviLockedByAction = true;
+									oCurObj.CallMethod({ sMethod: "Disable" });
+								}
+								else
+								{
+									oCurObj.Hide();
+								}
+							}
+						}
+						else
+						{
+							if(oCurObj.data.sIfNoComment=="text")
+							{
+								jContainer.find(".cl-comm-none").show();
+								jContainer.find(".cl-comm-body").hide();
+							}
+							else if(oCurObj.data.sIfNoComment=="disable")
+							{
+								oCurObj.data.bNaviLockedByAction = true;
+								oCurObj.CallMethod({ sMethod: "Disable" });
+							}
+							else
+							{
+								oCurObj.Hide();
+							}
+						}
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_tab" name="SearchTip">
+<![CDATA[function SearchTip(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(!oCurObj.data.bSearchTip)
+				{
+					return false;
+				}
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jTips = jContainer.find(".cl-search-tips");
+				if(!jTips.is(":visible"))
+				{
+					jContainer.find(".cl-search-results-list, .cl-search-found, .cl-search-no-results").hide();
+					jTips.fadeIn("fast");
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_tab" name="Search">
+<![CDATA[function Search(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(CLO[argobj.pid].div);
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var sStr = jContainer.find("input.cl-search-field").val();
+				sStr = $.trim(sStr);
+				if(sStr=="") return false;
+				var sCase = oCurObj.jxParams.children("search_case").text();
+				var bCase = false;
+				if(sCase=="no_user" || sCase=="yes_user")
+				{
+					bCase = (jContainer.find("select.cl-search-case").val()=="yes");
+				}
+				else
+				{
+					bCase = (sCase=="yes");
+				}
+				var sLogic = oCurObj.jxParams.children("search_logic").text();
+				if(sLogic=="OR_user" || sLogic=="AND_user")
+				{
+					sLogic = (jContainer.find("select.cl-search-logic").val()=="yes") ? "AND" : "OR";
+				}
+				var sScope = oCurObj.jxParams.children("search_scope").text();
+				var aResults = CL.Search({ sString: sStr, bCase: bCase, sLogic: sLogic, sScope: sScope });
+				if(oCurObj.data.bSearchTip)
+				{
+					jContainer.find(".cl-search-tips").hide();
+				}
+				if(aResults.length==0)
+				{
+					jContainer.find(".cl-search-results-list, .cl-search-found").hide();
+					jContainer.find(".cl-search-no-results").show();
+				}
+				else
+				{
+					var jUL = jContainer.find(".cl-search-results-list");
+					jUL.html("").show();
+					jContainer.find(".cl-search-found").show();
+					jContainer.find(".cl-search-found").find(".cl-search-found-qty").html(aResults.length);
+					jContainer.find(".cl-search-no-results").hide();
+					var jLI;
+					var jTemplate = jContainer.find("li.cl-search-item-template");
+					var sReturnFormat = oCurObj.jxParams.children("search_return_format").text();
+					var sSlideId;
+					for(var i=0; i<aResults.length; i++)
+					{
+						sSlideId = $(aResults[i].slide).attr("id");
+						jLI = jTemplate.clone(true).removeClass("cl-search-item-template").addClass("cl-search-results-item").attr({ "data-slide-id": sSlideId }).appendTo(jUL);
+						jLI.find(".item-name").html($(aResults[i].slide).attr("name"));
+						if(CL.SCO.IsVisited({ sBy: "slideid", sSlideId: sSlideId }) || sSlideId==CLZ.sCurrentSlideId)
+						{
+							jLI.addClass("allowed visited").on("click", function () { CLO[argobj.pid].CallMethod({ sMethod: "Navigate", oMethodArgs: { elem: this } }) });
+						}
+						if(sReturnFormat=="extended")
+						{
+							var aStrings = aResults[i].strings;
+							var sString = "";
+							for(var j=0; j<aStrings.length; j++)
+							{
+								if(j==0)
+								{
+									sString += aStrings[j];
+								}
+								else
+								{
+									sString += "<br>" + aStrings[j];
+								}
+							}
+							jLI.find(".item-text").html(sString);
+						}
+						else
+						{
+							jLI.find(".item-text").hide();
+						}
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_tab" name="Navigate">
+<![CDATA[function Navigate(argobj)
+			{
+				if(argobj.elem==null) return false;
+				if($(argobj.elem).hasClass("allowed"))
+				{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj.data.bLocked) return false;
+				var jCurObjDiv = $(CLO[argobj.pid].div);
+				var sTargetId = $(argobj.elem).attr("data-slide-id");
+				oCurObj.data.bLocked = true;
+				CL.Navigation.GoTo({ sTargetType: "slide", sTargetId: sTargetId });
+				CL.Sound.Stop({ sId: argobj.pid, sEvent: "click" });
+				if(oCurObj.data.sSoundClick!="none")
+				{
+					CL.Sound.Play({ sId: argobj.pid, sEvent: "click", sType: oCurObj.data.sSoundClick, sFile: oCurObj.data.sSoundClickFile })
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_tab" name="Open">
+<![CDATA[function Open(argobj)
+			{
+				if(CLO[argobj.pid].data.sPosition=="closed" && CLO[argobj.pid].data.sState=="enabled")
+				{
+					CLO[argobj.pid].CallMethod({ sMethod: "Toggle" });
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_tab" name="Close">
+<![CDATA[function Close(argobj)
+			{
+				if(CLO[argobj.pid].data.sPosition=="open" && CLO[argobj.pid].data.sState=="enabled")
+				{
+					CLO[argobj.pid].CallMethod({ sMethod: "Toggle" });
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_tab" name="Disable">
+<![CDATA[function Disable(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(CLO[argobj.pid].div);
+				var jTab = $(CLO[argobj.pid].div).find(".cl-tab");
+				if(jTab.hasClass("cl-tab-disabled")) return false;
+				if(oCurObj.data.sPosition=="open")
+				{
+					oCurObj.CallMethod({ sMethod: "Toggle" });
+				}
+				oCurObj.data.sState=="disabled";
+				jTab.removeClass("cl-tab-active cl-tab-down").addClass("cl-tab-disabled").attr({ "title": jTab.attr("data-title-disabled") });
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_tab" name="Enable">
+<![CDATA[function Enable(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(CLO[argobj.pid].div);
+				var jTab = $(CLO[argobj.pid].div).find(".cl-tab");
+				if(!jTab.hasClass("cl-tab-disabled")) return false;
+				CLO[argobj.pid].data.sState=="enabled";
+				jTab.removeClass("cl-tab-disabled").addClass("cl-tab-active");
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_tab" name="GetProperty">
+<![CDATA[function GetProperty(argobj)
+			{
+				if(argobj.pid==null || argobj.property==null) return false;
+				switch(argobj.property.toLowerCase())
+				{
+					case "disabled":
+					{
+						return (CLO[argobj.pid].data.sState=="disabled") ? "1" : "0";
+					}
+					case "open":
+					{
+						return (CLO[argobj.pid].data.sPosition=="open") ? "1" : "0";
+					}
+				}
+				return "";
+			}]]>
+</method>
+<method type="nav_0002_navi_tab" name="UIEvent">
+<![CDATA[function UIEvent(argobj)
+			{
+				if(argobj.evt==null) return false;
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(CLO[argobj.pid].div);
+				var jCurDiv = $(oCurObj.div);
+				var jTab = jCurDiv.find(".cl-tab");
+				if(jTab.hasClass("cl-tab-disabled")) return false;
+				switch(argobj.evt.type)
+				{
+					case "mouseover":
+					{
+						jTab.removeClass("cl-tab-down");
+						if(oCurObj.data.sPosition=="closed")
+						{
+							switch(oCurObj.data.sTabPosition)
+							{
+								case "left":
+								case "right":
+								{
+									jCurDiv.find(".cl-container").css({ "left": oCurObj.data.nOverLeft + "px" });
+									break;
+								}
+								case "top":
+								case "bottom":
+								{
+									jCurDiv.find(".cl-container").css({ "top": oCurObj.data.nOverTop + "px" });
+									break;
+								}
+							}
+						}
+						CL.Sound.Stop({ sId: argobj.pid, sEvent: "over" });
+						if(oCurObj.data.sSoundOver!="none")
+						{
+							CL.Sound.Play({ sId: argobj.pid, sEvent: "over", sType: oCurObj.data.sSoundOver, sFile: oCurObj.data.sSoundOverFile })
+						}
+						break;
+					}
+					case "mouseout":
+					{
+						jTab.removeClass("cl-tab-down");
+						if(oCurObj.data.sPosition=="closed")
+						{
+							switch(oCurObj.data.sTabPosition)
+							{
+								case "left":
+								case "right":
+								{
+									jCurDiv.find(".cl-container").css({ "left": oCurObj.data.nBaseLeft + "px" });
+									break;
+								}
+								case "top":
+								case "bottom":
+								{
+									jCurDiv.find(".cl-container").css({ "top": oCurObj.data.nBaseTop + "px" });
+									break;
+								}
+							}
+						}
+						break;
+					}
+					case "mousedown":
+					{
+						jTab.addClass("cl-tab-down");
+						break;
+					}
+					case "mouseup":
+					{
+						jTab.removeClass("cl-tab-down");
+						CLO[argobj.pid].CallMethod({ sMethod: "Toggle" });
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_tab" name="Toggle">
+<![CDATA[function Toggle(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(CLO[argobj.pid].div);
+				var jCurDiv = $(oCurObj.div);
+				if(oCurObj.data.sPosition=="closed")
+				{
+					if(oCurObj.data.bModal)
+					{
+						CL.Modal({ bOn: true, sSrcId: argobj.pid });
+					}
+					oCurObj.data.sPosition = "transition_open";
+					jCurDiv.css({ "z-index": 5001, "clip": "" });
+					switch(oCurObj.data.sTabPosition)
+					{
+						case "left":
+						case "right":
+						{
+							jCurDiv.find(".cl-container").animate({ left: oCurObj.data.nOpenLeft }, 500, function () { CLO[argobj.pid].data.sPosition = "open"; });
+							break;
+						}
+						case "top":
+						case "bottom":
+						{
+							jCurDiv.find(".cl-container").animate({ top: oCurObj.data.nOpenTop }, 500, function () { CLO[argobj.pid].data.sPosition = "open"; });
+							break;
+						}
+					}
+				}
+				else
+				{
+					if(oCurObj.data.bModal)
+					{
+						CL.Modal({ bOn: false, sSrcId: argobj.pid });
+					}
+					oCurObj.data.sPosition = "transition_close";
+					switch(oCurObj.data.sTabPosition)
+					{
+						case "left":
+						{
+							jCurDiv.find(".cl-container").animate({ left: oCurObj.data.nBaseLeft }, 500, function () { CLO[argobj.pid].data.sPosition = "closed"; CLO[argobj.pid].data.bLocked = false; $(CLO[argobj.pid].div).css({ "z-index": CLO[argobj.pid].initial.nZ, "clip": CLO[argobj.pid].initial.sClip }); });
+							break;
+						}
+						case "right":
+						{
+							jCurDiv.find(".cl-container").animate({ left: oCurObj.data.nBaseLeft }, 500, function () { CLO[argobj.pid].data.sPosition = "closed"; CLO[argobj.pid].data.bLocked = false; $(CLO[argobj.pid].div).css({ "z-index": CLO[argobj.pid].initial.nZ, "clip": CLO[argobj.pid].initial.sClip }); });
+							break;
+						}
+						case "top":
+						{
+							jCurDiv.find(".cl-container").animate({ top: oCurObj.data.nBaseTop }, 500, function () { CLO[argobj.pid].data.sPosition = "closed"; CLO[argobj.pid].data.bLocked = false; $(CLO[argobj.pid].div).css({ "z-index": CLO[argobj.pid].initial.nZ, "clip": CLO[argobj.pid].initial.sClip }); });
+							break;
+						}
+						case "bottom":
+						{
+							jCurDiv.find(".cl-container").animate({ top: oCurObj.data.nBaseTop }, 500, function () { CLO[argobj.pid].data.sPosition = "closed"; CLO[argobj.pid].data.bLocked = false; $(CLO[argobj.pid].div).css({ "z-index": CLO[argobj.pid].initial.nZ, "clip": CLO[argobj.pid].initial.sClip }); });
+							break;
+						}
+					}
+				}
+				CL.Sound.Stop({ sId: argobj.pid, sEvent: "click" });
+				if(oCurObj.data.sSoundClick!="none")
+				{
+					CL.Sound.Play({ sId: argobj.pid, sEvent: "click", sType: oCurObj.data.sSoundClick, sFile: oCurObj.data.sSoundClickFile })
+				}
+				return true;
+			}]]>
+</method>
+</methods>
+<params>
+<param objectid="MN4_HELP">
+<hidden_slide_visited>Visited slide</hidden_slide_visited>
+<hidden_slide_current>Current slide</hidden_slide_current>
+<hidden_slide_unvisited>Unvisited slide</hidden_slide_unvisited>
+<hidden_slide_closed>Slide - closed node</hidden_slide_closed>
+<hidden_slide_open>Slide - open node</hidden_slide_open>
+<hidden_obj_title>Objective Name</hidden_obj_title>
+<contenttype>richtext</contenttype>
+<fs_richtext></fs_richtext>
+<display_header_richtext>yes</display_header_richtext>
+<header_richtext><![CDATA[<p style="text-align: center;"><span style="font-family:clear_sans_mediumregular,arial,sans-serif"><span style="color:rgb(182, 11, 34); font-size:18px">Help</span></span></p>]]></header_richtext>
+<panel_text_richtext><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;"></span>]]></panel_text_richtext>
+<fs_contents></fs_contents>
+<display_header_contents>yes</display_header_contents>
+<header_contents><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">Contents</span>]]></header_contents>
+<fs_search></fs_search>
+<display_header_search>yes</display_header_search>
+<header_search><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">Search</span>]]></header_search>
+<search_tip>yes</search_tip>
+<search_tip_text><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">You can use * wildcards in conditions and quotes to define search phrase (but not simultaneously). Please take in account that not all module text are visible.</span>]]></search_tip_text>
+<search_case>no_user</search_case>
+<search_logic>OR_user</search_logic>
+<search_scope>slide</search_scope>
+<search_return_format>simple</search_return_format>
+<fs_glossary></fs_glossary>
+<display_header_glossary>yes</display_header_glossary>
+<header_glossary><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">Glossary</span>]]></header_glossary>
+<glossary_item_list></glossary_item_list>
+<fs_documents></fs_documents>
+<display_header_documents>yes</display_header_documents>
+<header_documents><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">Documents</span>]]></header_documents>
+<doc_list></doc_list>
+<fs_settings></fs_settings>
+<display_header_settings>yes</display_header_settings>
+<header_settings><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">Settings</span>]]></header_settings>
+<settings_tip>yes</settings_tip>
+<settings_tip_text><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;"></span>]]></settings_tip_text>
+<settings_display>main</settings_display>
+<mainobj_text><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">Main module objective</span>]]></mainobj_text>
+<allobj_text><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">Module objectives</span>]]></allobj_text>
+<score_style>scaled</score_style>
+<fs_calculator></fs_calculator>
+<display_header_calculator>yes</display_header_calculator>
+<header_calculator><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">Calculator</span>]]></header_calculator>
+<display_calculator_desc>no</display_calculator_desc>
+<calculator_desc><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;"></span>]]></calculator_desc>
+<fs_comment></fs_comment>
+<display_header_comment>yes</display_header_comment>
+<header_comment><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">Comment</span>]]></header_comment>
+<comment_display>text</comment_display>
+<no_comments><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">No comments</span>]]></no_comments>
+<tranin>6</tranin>
+<durin>800</durin>
+<tranout>6</tranout>
+<durout>800</durout>
+<nav_lock>yes</nav_lock>
+<modal>yes</modal>
+<fs_contents_2></fs_contents_2>
+<slide_icons>standard</slide_icons>
+<fs_slide_icons></fs_slide_icons>
+<i1_img></i1_img>
+<i2_img></i2_img>
+<i3_img></i3_img>
+<hier_type>none</hier_type>
+<fs_contents_hier_icons></fs_contents_hier_icons>
+<h1_img></h1_img>
+<h2_img></h2_img>
+<fs_glossary_2></fs_glossary_2>
+<display_letters>yes</display_letters>
+<glossary_default_text><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">Select element to view description</span>]]></glossary_default_text>
+<glossary_not_found><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">Requested item not found</span>]]></glossary_not_found>
+<glossary_items_col_width>30</glossary_items_col_width>
+<fs_settings_2></fs_settings_2>
+<settings_icons>standard</settings_icons>
+<fs_icons_statuses></fs_icons_statuses>
+<on_img></on_img>
+<oi_img></oi_img>
+<oc_img></oc_img>
+<ou_img></ou_img>
+<op_img></op_img>
+<of_img></of_img>
+<panel_padding>10</panel_padding>
+<panel_bordercolor>#B60B22</panel_bordercolor>
+<panel_borderwidth>2</panel_borderwidth>
+<panel_radius>0</panel_radius>
+<shadow_strength>normal</shadow_strength>
+<panel_bgtype>solid</panel_bgtype>
+<panel_bgcolor>#FFFFFF</panel_bgcolor>
+<fs_panel_gradient></fs_panel_gradient>
+<panel_gradientcolor>#DDEEFF</panel_gradientcolor>
+<fs_panel_bg_img></fs_panel_bg_img>
+<panel_bgimg></panel_bgimg>
+<panel_bgimg_repeat>repeat</panel_bgimg_repeat>
+<panel_bgimg_position>cm</panel_bgimg_position>
+<panel_bgimg_position_custom></panel_bgimg_position_custom>
+<contenttype_style>richtext</contenttype_style>
+<fs_style_none></fs_style_none>
+<fs_basic_font></fs_basic_font>
+<basic_font>Arial</basic_font>
+<basic_font_custom></basic_font_custom>
+<basic_font_style>normal</basic_font_style>
+<basic_font_size>11</basic_font_size>
+<fs_style_contents></fs_style_contents>
+<allowed_fill_color>#FFFFFF</allowed_fill_color>
+<allowed_font_color>#004080</allowed_font_color>
+<current_fill_color>#EEEEEE</current_fill_color>
+<current_font_color>#000000</current_font_color>
+<forbidden_fill_color>#FFFFFF</forbidden_fill_color>
+<forbidden_font_color>#999999</forbidden_font_color>
+<item_padding>5</item_padding>
+<fs_style_search></fs_style_search>
+<search_input_border_style>solid</search_input_border_style>
+<search_input_border_color>#004080</search_input_border_color>
+<search_input_border_width>1</search_input_border_width>
+<search_input_border_radius>5</search_input_border_radius>
+<search_input_bg_color>#FFFFFF</search_input_bg_color>
+<search_input_font_color>#666666</search_input_font_color>
+<highlight_bg_color>#FFEEDD</highlight_bg_color>
+<highlight_font_color>#CC0000</highlight_font_color>
+<search_button_bg_color>#CCCCCC</search_button_bg_color>
+<search_button_font_color>#666666</search_button_font_color>
+<search_button_border_style>solid</search_button_border_style>
+<search_button_border_color>#004080</search_button_border_color>
+<search_button_border_width>1</search_button_border_width>
+<search_button_border_radius>5</search_button_border_radius>
+<fs_style_glossary></fs_style_glossary>
+<gloss_border_style>solid</gloss_border_style>
+<gloss_border_width>1</gloss_border_width>
+<gloss_border_radius>5</gloss_border_radius>
+<gloss_padding>5</gloss_padding>
+<gloss_fill_type>solid</gloss_fill_type>
+<gloss_font_color_idle>#000000</gloss_font_color_idle>
+<gloss_font_color_selected>#FFFFFF</gloss_font_color_selected>
+<gloss_border_color_idle>#000000</gloss_border_color_idle>
+<gloss_border_color_selected>#FFFFFF</gloss_border_color_selected>
+<gloss_bg_color_idle>#EEEEEE</gloss_bg_color_idle>
+<gloss_bg_color_selected>#336699</gloss_bg_color_selected>
+<fs_gloss_gradient></fs_gloss_gradient>
+<gloss_gradient_color_idle>#FFFFFF</gloss_gradient_color_idle>
+<gloss_gradient_color_selected>#6699CC</gloss_gradient_color_selected>
+<fs_gloss_img></fs_gloss_img>
+<gloss_img_idle></gloss_img_idle>
+<gloss_img_selected></gloss_img_selected>
+<gloss_img_repeat>repeat</gloss_img_repeat>
+<gloss_img_position>cm</gloss_img_position>
+<gloss_img_position_custom></gloss_img_position_custom>
+<fs_style_settings></fs_style_settings>
+<sett_border_style>solid</sett_border_style>
+<sett_border_width>1</sett_border_width>
+<sett_border_color>#CCCCCC</sett_border_color>
+<sett_padding>5</sett_padding>
+<content_const>search</content_const>
+<title_close>Close window</title_close>
+<fs_const_contents></fs_const_contents>
+<msg_order_violation>You cannot jump to this slide until you visit previous slides</msg_order_violation>
+<fs_const_glossary></fs_const_glossary>
+<glossary_default_text><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">Select element to view description</span>]]></glossary_default_text>
+<glossary_not_found><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">Requested item not found</span>]]></glossary_not_found>
+<fs_const_search></fs_const_search>
+<search_text_button>Search</search_text_button>
+<search_text_logic>Search logic:</search_text_logic>
+<search_text_OR>Any word</search_text_OR>
+<search_text_AND>All words</search_text_AND>
+<search_text_case>Case:</search_text_case>
+<search_text_case_no>insensitive</search_text_case_no>
+<text_case_yes>sensitive</text_case_yes>
+<text_found>Slides found:</text_found>
+<text_notfound>No results found by entered query</text_notfound>
+<text_empty>Query is empty - nothing to search</text_empty>
+<fs_const_settings></fs_const_settings>
+<obj_header>Objective</obj_header>
+<obj_score>Score</obj_score>
+<obj_cs>Compl.</obj_cs>
+<obj_ss>Succ.</obj_ss>
+<status_n>Not attempted</status_n>
+<status_i>Incomplete</status_i>
+<status_c>Completed</status_c>
+<status_u>Unknown</status_u>
+<status_p>Passed</status_p>
+<status_f>Failed</status_f>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+<hide_close>no</hide_close>
+<search_text_case_yes>sensitive</search_text_case_yes>
+<search_text_found>Slides found:</search_text_found>
+<search_text_notfound>No results found</search_text_notfound>
+</param>
+<param objectid="MN4_CONTENTS">
+<hidden_slide_visited>Visited slide</hidden_slide_visited>
+<hidden_slide_current>Current slide</hidden_slide_current>
+<hidden_slide_unvisited>Unvisited slide</hidden_slide_unvisited>
+<hidden_slide_closed>Slide - closed node</hidden_slide_closed>
+<hidden_slide_open>Slide - open node</hidden_slide_open>
+<hidden_obj_title>Objective Name</hidden_obj_title>
+<contenttype>contents</contenttype>
+<fs_richtext></fs_richtext>
+<display_header_richtext>yes</display_header_richtext>
+<header_richtext><![CDATA[<p style="text-align: center;"><span style="color:#1C738E; font-family:arial; font-size:18px">Help</span></p>]]></header_richtext>
+<panel_text_richtext><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;"></span>]]></panel_text_richtext>
+<fs_contents></fs_contents>
+<display_header_contents>yes</display_header_contents>
+<header_contents><![CDATA[<p style="text-align: center;"><span style="font-family:clear_sans_mediumregular,arial,sans-serif"><span style="color:rgb(182, 11, 34); font-size:18px">Contents</span></span></p>]]></header_contents>
+<fs_search></fs_search>
+<display_header_search>yes</display_header_search>
+<header_search><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">Search</span>]]></header_search>
+<search_tip>yes</search_tip>
+<search_tip_text><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">You can use * wildcards in conditions and quotes to define search phrase (but not simultaneously). Please take in account that not all module text are visible.</span>]]></search_tip_text>
+<search_case>no_user</search_case>
+<search_logic>OR_user</search_logic>
+<search_scope>slide</search_scope>
+<search_return_format>simple</search_return_format>
+<fs_glossary></fs_glossary>
+<display_header_glossary>yes</display_header_glossary>
+<header_glossary><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">Glossary</span>]]></header_glossary>
+<glossary_item_list></glossary_item_list>
+<fs_documents></fs_documents>
+<display_header_documents>yes</display_header_documents>
+<header_documents><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">Documents</span>]]></header_documents>
+<doc_list></doc_list>
+<fs_settings></fs_settings>
+<display_header_settings>yes</display_header_settings>
+<header_settings><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">Settings</span>]]></header_settings>
+<settings_tip>yes</settings_tip>
+<settings_tip_text><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;"></span>]]></settings_tip_text>
+<settings_display>main</settings_display>
+<mainobj_text><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">Main module objective</span>]]></mainobj_text>
+<allobj_text><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">Module objectives</span>]]></allobj_text>
+<score_style>scaled</score_style>
+<fs_calculator></fs_calculator>
+<display_header_calculator>yes</display_header_calculator>
+<header_calculator><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">Calculator</span>]]></header_calculator>
+<display_calculator_desc>no</display_calculator_desc>
+<calculator_desc><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;"></span>]]></calculator_desc>
+<fs_comment></fs_comment>
+<display_header_comment>yes</display_header_comment>
+<header_comment><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">Comment</span>]]></header_comment>
+<comment_display>text</comment_display>
+<no_comments><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">No comments</span>]]></no_comments>
+<tranin>6</tranin>
+<durin>800</durin>
+<tranout>6</tranout>
+<durout>800</durout>
+<nav_lock>yes</nav_lock>
+<modal>yes</modal>
+<fs_contents_2></fs_contents_2>
+<slide_icons>standard</slide_icons>
+<fs_slide_icons></fs_slide_icons>
+<i1_img></i1_img>
+<i2_img></i2_img>
+<i3_img></i3_img>
+<hier_type>none</hier_type>
+<fs_contents_hier_icons></fs_contents_hier_icons>
+<h1_img></h1_img>
+<h2_img></h2_img>
+<fs_glossary_2></fs_glossary_2>
+<display_letters>yes</display_letters>
+<glossary_default_text><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">Select element to view description</span>]]></glossary_default_text>
+<glossary_not_found><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">Requested item not found</span>]]></glossary_not_found>
+<glossary_items_col_width>30</glossary_items_col_width>
+<fs_settings_2></fs_settings_2>
+<settings_icons>standard</settings_icons>
+<fs_icons_statuses></fs_icons_statuses>
+<on_img></on_img>
+<oi_img></oi_img>
+<oc_img></oc_img>
+<ou_img></ou_img>
+<op_img></op_img>
+<of_img></of_img>
+<panel_padding>10</panel_padding>
+<panel_bordercolor>#B60B22</panel_bordercolor>
+<panel_borderwidth>2</panel_borderwidth>
+<panel_radius>0</panel_radius>
+<shadow_strength>normal</shadow_strength>
+<panel_bgtype>solid</panel_bgtype>
+<panel_bgcolor>#FFFFFF</panel_bgcolor>
+<fs_panel_gradient></fs_panel_gradient>
+<panel_gradientcolor>#DDEEFF</panel_gradientcolor>
+<fs_panel_bg_img></fs_panel_bg_img>
+<panel_bgimg></panel_bgimg>
+<panel_bgimg_repeat>repeat</panel_bgimg_repeat>
+<panel_bgimg_position>cm</panel_bgimg_position>
+<panel_bgimg_position_custom></panel_bgimg_position_custom>
+<contenttype_style>contents</contenttype_style>
+<fs_style_none></fs_style_none>
+<fs_basic_font></fs_basic_font>
+<basic_font>clear_sans_mediumregular</basic_font>
+<basic_font_custom></basic_font_custom>
+<basic_font_style>normal</basic_font_style>
+<basic_font_size>11</basic_font_size>
+<fs_style_contents></fs_style_contents>
+<allowed_fill_color>#FFFFFF</allowed_fill_color>
+<allowed_font_color>#004080</allowed_font_color>
+<current_fill_color>#EEEEEE</current_fill_color>
+<current_font_color>#000000</current_font_color>
+<forbidden_fill_color>#FFFFFF</forbidden_fill_color>
+<forbidden_font_color>#999999</forbidden_font_color>
+<item_padding>5</item_padding>
+<fs_style_search></fs_style_search>
+<search_input_border_style>solid</search_input_border_style>
+<search_input_border_color>#004080</search_input_border_color>
+<search_input_border_width>1</search_input_border_width>
+<search_input_border_radius>5</search_input_border_radius>
+<search_input_bg_color>#FFFFFF</search_input_bg_color>
+<search_input_font_color>#666666</search_input_font_color>
+<highlight_bg_color>#FFEEDD</highlight_bg_color>
+<highlight_font_color>#CC0000</highlight_font_color>
+<search_button_bg_color>#CCCCCC</search_button_bg_color>
+<search_button_font_color>#666666</search_button_font_color>
+<search_button_border_style>solid</search_button_border_style>
+<search_button_border_color>#004080</search_button_border_color>
+<search_button_border_width>1</search_button_border_width>
+<search_button_border_radius>5</search_button_border_radius>
+<fs_style_glossary></fs_style_glossary>
+<gloss_border_style>solid</gloss_border_style>
+<gloss_border_width>1</gloss_border_width>
+<gloss_border_radius>5</gloss_border_radius>
+<gloss_padding>5</gloss_padding>
+<gloss_fill_type>solid</gloss_fill_type>
+<gloss_font_color_idle>#000000</gloss_font_color_idle>
+<gloss_font_color_selected>#FFFFFF</gloss_font_color_selected>
+<gloss_border_color_idle>#000000</gloss_border_color_idle>
+<gloss_border_color_selected>#FFFFFF</gloss_border_color_selected>
+<gloss_bg_color_idle>#EEEEEE</gloss_bg_color_idle>
+<gloss_bg_color_selected>#336699</gloss_bg_color_selected>
+<fs_gloss_gradient></fs_gloss_gradient>
+<gloss_gradient_color_idle>#FFFFFF</gloss_gradient_color_idle>
+<gloss_gradient_color_selected>#6699CC</gloss_gradient_color_selected>
+<fs_gloss_img></fs_gloss_img>
+<gloss_img_idle></gloss_img_idle>
+<gloss_img_selected></gloss_img_selected>
+<gloss_img_repeat>repeat</gloss_img_repeat>
+<gloss_img_position>cm</gloss_img_position>
+<gloss_img_position_custom></gloss_img_position_custom>
+<fs_style_settings></fs_style_settings>
+<sett_border_style>solid</sett_border_style>
+<sett_border_width>1</sett_border_width>
+<sett_border_color>#CCCCCC</sett_border_color>
+<sett_padding>5</sett_padding>
+<content_const>contents</content_const>
+<title_close>Close window</title_close>
+<fs_const_contents></fs_const_contents>
+<msg_order_violation>You cannot jump to this slide until you visit previous slides</msg_order_violation>
+<fs_const_glossary></fs_const_glossary>
+<glossary_default_text><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">Select element to view description</span>]]></glossary_default_text>
+<glossary_not_found><![CDATA[<span style="font-family: Arial;font-size: 12px; color: #000000;">Requested item not found</span>]]></glossary_not_found>
+<fs_const_search></fs_const_search>
+<search_text_button>Search</search_text_button>
+<search_text_logic>Search logic:</search_text_logic>
+<search_text_OR>Any word</search_text_OR>
+<search_text_AND>All words</search_text_AND>
+<search_text_case>Case:</search_text_case>
+<search_text_case_no>insensitive</search_text_case_no>
+<text_case_yes>sensitive</text_case_yes>
+<text_found>Slides found:</text_found>
+<text_notfound>No results found by entered query</text_notfound>
+<text_empty>Query is empty - nothing to search</text_empty>
+<fs_const_settings></fs_const_settings>
+<obj_header>Objective</obj_header>
+<obj_score>Score</obj_score>
+<obj_cs>Compl.</obj_cs>
+<obj_ss>Succ.</obj_ss>
+<status_n>Not attempted</status_n>
+<status_i>Incomplete</status_i>
+<status_c>Completed</status_c>
+<status_u>Unknown</status_u>
+<status_p>Passed</status_p>
+<status_f>Failed</status_f>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+<hide_close>no</hide_close>
+<search_text_case_yes>sensitive</search_text_case_yes>
+<search_text_found>Slides found:</search_text_found>
+<search_text_notfound>No results found</search_text_notfound>
+</param>
+<param objectid="OBJ_10">
+<color_profile>yellow</color_profile>
+<color1>#0080C0</color1>
+<color2>#53C7FF</color2>
+<stroke_color>#336699</stroke_color>
+<angle>0</angle>
+<border_width_t>1</border_width_t>
+<border_width_l>1</border_width_l>
+<border_width_r>1</border_width_r>
+<border_width_b>1</border_width_b>
+<radius_tl>10</radius_tl>
+<radius_tr>10</radius_tr>
+<radius_bl>10</radius_bl>
+<radius_br>10</radius_br>
+<shadow_strength>normal</shadow_strength>
+</param>
+<param objectid="MN4_TTL_BTN">
+<btn_text>START</btn_text>
+<btn_type>html</btn_type>
+<fs_image></fs_image>
+<n1_img></n1_img>
+<n2_img></n2_img>
+<fs_html></fs_html>
+<content>text</content>
+<fs_bg_img></fs_bg_img>
+<bg_img_1></bg_img_1>
+<bg_img_2></bg_img_2>
+<bg_position>center</bg_position>
+<bg_type>transparent</bg_type>
+<bg_color>#FFFFFF</bg_color>
+<gradient_color>#A6E1FF</gradient_color>
+<border_style>solid</border_style>
+<border_color>#B60B22</border_color>
+<border_width>5</border_width>
+<border_radius>20</border_radius>
+<fs_text></fs_text>
+<font>clear_sans_mediumregular</font>
+<font_custom></font_custom>
+<font_style>normal</font_style>
+<font_color>#620031</font_color>
+<font_size>18</font_size>
+<text_shadow_color>#FFFFFF</text_shadow_color>
+<text_shadow_strength>normal</text_shadow_strength>
+<shadow_strength>normal</shadow_strength>
+<action>go</action>
+<objectid></objectid>
+</param>
+<param objectid="OBJ_5">
+<hidden_slide_visited>Visited slide</hidden_slide_visited>
+<hidden_slide_current>Current slide</hidden_slide_current>
+<hidden_slide_unvisited>Unvisited slide</hidden_slide_unvisited>
+<hidden_slide_closed>Slide - closed node</hidden_slide_closed>
+<hidden_slide_open>Slide - open node</hidden_slide_open>
+<hidden_obj_title>Objective name</hidden_obj_title>
+<contenttype>richtext</contenttype>
+<fs_richtext></fs_richtext>
+<tab_text_richtext>Hint</tab_text_richtext>
+<alt_enabled_richtext>Hint</alt_enabled_richtext>
+<alt_disabled_richtext>Access denied</alt_disabled_richtext>
+<display_header_richtext>yes</display_header_richtext>
+<header_richtext><![CDATA[<span style="color:#000000; font-family:clear_sansregular, Arial, sans-serif; font-size: 12px;">Hint</span>]]></header_richtext>
+<panel_text_richtext><![CDATA[<span style="font-family: 'Times New Roman'; font-size: 28px; font-style: normal; font-variant: normal; line-height: 14.399999618530273px;">tidak kami hapuskan</span>]]></panel_text_richtext>
+<fs_contents></fs_contents>
+<tab_text_contents>Contents</tab_text_contents>
+<alt_enabled_contents>Contents</alt_enabled_contents>
+<alt_disabled_contents>Access denied</alt_disabled_contents>
+<display_header_contents>yes</display_header_contents>
+<header_contents><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Contents</span>]]></header_contents>
+<fs_search></fs_search>
+<tab_text_search>Find</tab_text_search>
+<alt_enabled_search>Find</alt_enabled_search>
+<alt_disabled_search>Access denied</alt_disabled_search>
+<display_header_search>yes</display_header_search>
+<header_search><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Find</span>]]></header_search>
+<search_tip>yes</search_tip>
+<search_tip_text><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">You can use * wildcards in conditions and quotes to define search phrase (but not simultaneously). Please take in account that not all module text are visible.</span>]]></search_tip_text>
+<search_case>no_user</search_case>
+<search_logic>OR_user</search_logic>
+<search_scope>slide</search_scope>
+<search_return_format>simple</search_return_format>
+<fs_glossary></fs_glossary>
+<tab_text_glossary>Glossary</tab_text_glossary>
+<alt_enabled_glossary>Glossary</alt_enabled_glossary>
+<alt_disabled_glossary>Access denied</alt_disabled_glossary>
+<display_header_glossary>yes</display_header_glossary>
+<header_glossary><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Glossary</span>]]></header_glossary>
+<glossary_item_list></glossary_item_list>
+<fs_documents></fs_documents>
+<tab_text_documents>Documents</tab_text_documents>
+<alt_enabled_documents>Documents</alt_enabled_documents>
+<alt_disabled_documents>Access denied</alt_disabled_documents>
+<display_header_documents>yes</display_header_documents>
+<header_documents><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Documents</span>]]></header_documents>
+<doc_list></doc_list>
+<fs_settings></fs_settings>
+<tab_text_settings>Parameters</tab_text_settings>
+<alt_enabled_settings>Parameters</alt_enabled_settings>
+<alt_disabled_settings>Access denied</alt_disabled_settings>
+<display_header_settings>yes</display_header_settings>
+<header_settings><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Parameters</span>]]></header_settings>
+<settings_tip>yes</settings_tip>
+<settings_tip_text><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;"></span>]]></settings_tip_text>
+<settings_display>main</settings_display>
+<mainobj_text><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Main module objective</span>]]></mainobj_text>
+<allobj_text><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Module objectives</span>]]></allobj_text>
+<score_style>scaled</score_style>
+<fs_calculator></fs_calculator>
+<tab_text_calculator>Calculator</tab_text_calculator>
+<alt_enabled_calculator>Calculator</alt_enabled_calculator>
+<alt_disabled_calculator>Access denied</alt_disabled_calculator>
+<display_header_calculator>yes</display_header_calculator>
+<header_calculator><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Calculator</span>]]></header_calculator>
+<display_calculator_desc>no</display_calculator_desc>
+<calculator_desc><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;"></span>]]></calculator_desc>
+<fs_comment></fs_comment>
+<tab_text_comment>Comment</tab_text_comment>
+<alt_enabled_comment>Comment</alt_enabled_comment>
+<alt_disabled_comment>Access denied</alt_disabled_comment>
+<display_header_comment>yes</display_header_comment>
+<header_comment><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Comment</span>]]></header_comment>
+<comment_display>text</comment_display>
+<no_comments><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">No comments</span>]]></no_comments>
+<tab_position>right</tab_position>
+<tab_offset>0</tab_offset>
+<tab_size_w>90</tab_size_w>
+<tab_size_h>25</tab_size_h>
+<panel_padding>10</panel_padding>
+<open_tab>no</open_tab>
+<nav_lock>yes</nav_lock>
+<modal>no</modal>
+<fs_contents_2></fs_contents_2>
+<slide_icons>standard</slide_icons>
+<fs_slide_icons></fs_slide_icons>
+<i1_img></i1_img>
+<i2_img></i2_img>
+<i3_img></i3_img>
+<hier_type>none</hier_type>
+<fs_contents_hier_icons></fs_contents_hier_icons>
+<h1_img></h1_img>
+<h2_img></h2_img>
+<fs_glossary_2></fs_glossary_2>
+<display_letters>yes</display_letters>
+<glossary_default_text><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Select item to display description</span>]]></glossary_default_text>
+<glossary_not_found><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Item not found</span>]]></glossary_not_found>
+<glossary_items_col_width>30</glossary_items_col_width>
+<fs_settings_2></fs_settings_2>
+<settings_icons>standard</settings_icons>
+<fs_icons_statuses></fs_icons_statuses>
+<on_img></on_img>
+<oi_img></oi_img>
+<oc_img></oc_img>
+<ou_img></ou_img>
+<op_img></op_img>
+<of_img></of_img>
+<panel_bordercolor>#0080C0</panel_bordercolor>
+<panel_borderwidth>1</panel_borderwidth>
+<panel_radius>0</panel_radius>
+<shadow_strength>normal</shadow_strength>
+<panel_bgtype>solid</panel_bgtype>
+<panel_bgcolor>#FFFFFF</panel_bgcolor>
+<panel_gradientcolor>#DDEEFF</panel_gradientcolor>
+<fs_panel_bg_img></fs_panel_bg_img>
+<panel_bgimg></panel_bgimg>
+<panel_bgimg_repeat>repeat</panel_bgimg_repeat>
+<panel_bgimg_position>cm</panel_bgimg_position>
+<panel_bgimg_position_custom></panel_bgimg_position_custom>
+<tab_type>custom</tab_type>
+<fs_tab_images></fs_tab_images>
+<n1_img></n1_img>
+<n2_img></n2_img>
+<n3_img></n3_img>
+<fs_tab_custom></fs_tab_custom>
+<tab_borderwidth>1</tab_borderwidth>
+<tab_radius>10</tab_radius>
+<tab_font>robotoregular</tab_font>
+<tab_font_custom></tab_font_custom>
+<tab_font_style>normal</tab_font_style>
+<tab_font_size>12</tab_font_size>
+<tab_text_transform>uppercase</tab_text_transform>
+<tab_text_direction>ltr</tab_text_direction>
+<inherit_color>yes</inherit_color>
+<fs_tab_colors></fs_tab_colors>
+<tab_bg_type>solid</tab_bg_type>
+<tab_bordercolor>#FF9900</tab_bordercolor>
+<tab_bordercolor_over>#FF9900</tab_bordercolor_over>
+<tab_fontcolor>#FF9900</tab_fontcolor>
+<tab_fontcolor_over>#FF9900</tab_fontcolor_over>
+<tab_bgcolor>#FFCC99</tab_bgcolor>
+<tab_bgcolor_over>#FFCC99</tab_bgcolor_over>
+<fs_tab_gradient></fs_tab_gradient>
+<tab_gradientcolor>#FF9900</tab_gradientcolor>
+<tab_gradientcolor_over>#FF9900</tab_gradientcolor_over>
+<fs_tab_bg_img></fs_tab_bg_img>
+<tab_bg_img></tab_bg_img>
+<tab_bg_img_over></tab_bg_img_over>
+<tab_bgimg_repeat>repeat</tab_bgimg_repeat>
+<tab_bgimg_position>cm</tab_bgimg_position>
+<tab_bgimg_position_custom></tab_bgimg_position_custom>
+<contenttype_style>richtext</contenttype_style>
+<fs_style_none></fs_style_none>
+<fs_basic_font></fs_basic_font>
+<basic_font>robotoregular</basic_font>
+<basic_font_custom></basic_font_custom>
+<basic_font_style>normal</basic_font_style>
+<basic_font_size>14</basic_font_size>
+<fs_style_contents></fs_style_contents>
+<allowed_fill_color>#FFFFFF</allowed_fill_color>
+<allowed_font_color>#004080</allowed_font_color>
+<current_fill_color>#EEEEEE</current_fill_color>
+<current_font_color>#000000</current_font_color>
+<forbidden_fill_color>#FFFFFF</forbidden_fill_color>
+<forbidden_font_color>#999999</forbidden_font_color>
+<item_padding>5</item_padding>
+<fs_style_search></fs_style_search>
+<search_input_border_style>solid</search_input_border_style>
+<search_input_border_color>#0080C0</search_input_border_color>
+<search_input_border_width>1</search_input_border_width>
+<search_input_border_radius>5</search_input_border_radius>
+<search_input_bg_color>#FFFFFF</search_input_bg_color>
+<search_input_font_color>#004080</search_input_font_color>
+<highlight_bg_color>#FFEE99</highlight_bg_color>
+<highlight_font_color>#CC0000</highlight_font_color>
+<search_button_bg_color>#0080C0</search_button_bg_color>
+<search_button_font_color>#FFFFFF</search_button_font_color>
+<search_button_border_style>solid</search_button_border_style>
+<search_button_border_color>#0080C0</search_button_border_color>
+<search_button_border_width>1</search_button_border_width>
+<search_button_border_radius>5</search_button_border_radius>
+<fs_style_glossary></fs_style_glossary>
+<gloss_border_style>solid</gloss_border_style>
+<gloss_border_width>1</gloss_border_width>
+<gloss_border_radius>5</gloss_border_radius>
+<gloss_padding>5</gloss_padding>
+<gloss_fill_type>solid</gloss_fill_type>
+<gloss_font_color_idle>#000000</gloss_font_color_idle>
+<gloss_font_color_selected>#FFFFFF</gloss_font_color_selected>
+<gloss_border_color_idle>#000000</gloss_border_color_idle>
+<gloss_border_color_selected>#FFFFFF</gloss_border_color_selected>
+<gloss_bg_color_idle>#EEEEEE</gloss_bg_color_idle>
+<gloss_bg_color_selected>#336699</gloss_bg_color_selected>
+<fs_gloss_gradient></fs_gloss_gradient>
+<gloss_gradient_color_idle>#FFFFFF</gloss_gradient_color_idle>
+<gloss_gradient_color_selected>#6699CC</gloss_gradient_color_selected>
+<fs_gloss_img></fs_gloss_img>
+<gloss_img_idle></gloss_img_idle>
+<gloss_img_selected></gloss_img_selected>
+<gloss_img_repeat>repeat</gloss_img_repeat>
+<gloss_img_position>cm</gloss_img_position>
+<gloss_img_position_custom></gloss_img_position_custom>
+<fs_style_settings></fs_style_settings>
+<sett_border_style>solid</sett_border_style>
+<sett_border_width>1</sett_border_width>
+<sett_border_color>#CCCCCC</sett_border_color>
+<sett_padding>5</sett_padding>
+<content_const>search</content_const>
+<fs_const_none></fs_const_none>
+<fs_const_contents></fs_const_contents>
+<msg_order_violation>You cannot jump to this slide until you visit previous slides</msg_order_violation>
+<fs_const_search></fs_const_search>
+<search_text_button>Search</search_text_button>
+<search_text_logic>Search inclusion:</search_text_logic>
+<search_text_OR>Any word</search_text_OR>
+<search_text_AND>All words</search_text_AND>
+<search_text_case>Case:</search_text_case>
+<search_text_case_no>insensitive</search_text_case_no>
+<search_text_case_yes>sensitive</search_text_case_yes>
+<search_text_found>Slides found:</search_text_found>
+<search_text_notfound>No results found</search_text_notfound>
+<fs_const_settings></fs_const_settings>
+<obj_header>Objective</obj_header>
+<obj_score>Score</obj_score>
+<obj_cs>Compl.</obj_cs>
+<obj_ss>Succ.</obj_ss>
+<status_n>Not attempted</status_n>
+<status_i>Incomplete</status_i>
+<status_c>Completed</status_c>
+<status_u>Unknown</status_u>
+<status_p>Passed</status_p>
+<status_f>Failed</status_f>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+</param>
+<param objectid="OBJ_7">
+<hidden_slide_visited>Visited slide</hidden_slide_visited>
+<hidden_slide_current>Current slide</hidden_slide_current>
+<hidden_slide_unvisited>Unvisited slide</hidden_slide_unvisited>
+<hidden_slide_closed>Slide - closed node</hidden_slide_closed>
+<hidden_slide_open>Slide - open node</hidden_slide_open>
+<hidden_obj_title>Objective name</hidden_obj_title>
+<contenttype>richtext</contenttype>
+<fs_richtext></fs_richtext>
+<tab_text_richtext>Hint</tab_text_richtext>
+<alt_enabled_richtext>Hint</alt_enabled_richtext>
+<alt_disabled_richtext>Access denied</alt_disabled_richtext>
+<display_header_richtext>yes</display_header_richtext>
+<header_richtext><![CDATA[<span style="color:#000000; font-family:clear_sansregular, Arial, sans-serif; font-size: 12px;">Hint</span>]]></header_richtext>
+<panel_text_richtext><![CDATA[<span style="font-family: 'Times New Roman'; font-size: 28px; font-style: normal; font-variant: normal; line-height: 14.399999618530273px;">Dari Sebuah Ayat</span>]]></panel_text_richtext>
+<fs_contents></fs_contents>
+<tab_text_contents>Contents</tab_text_contents>
+<alt_enabled_contents>Contents</alt_enabled_contents>
+<alt_disabled_contents>Access denied</alt_disabled_contents>
+<display_header_contents>yes</display_header_contents>
+<header_contents><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Contents</span>]]></header_contents>
+<fs_search></fs_search>
+<tab_text_search>Find</tab_text_search>
+<alt_enabled_search>Find</alt_enabled_search>
+<alt_disabled_search>Access denied</alt_disabled_search>
+<display_header_search>yes</display_header_search>
+<header_search><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Find</span>]]></header_search>
+<search_tip>yes</search_tip>
+<search_tip_text><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">You can use * wildcards in conditions and quotes to define search phrase (but not simultaneously). Please take in account that not all module text are visible.</span>]]></search_tip_text>
+<search_case>no_user</search_case>
+<search_logic>OR_user</search_logic>
+<search_scope>slide</search_scope>
+<search_return_format>simple</search_return_format>
+<fs_glossary></fs_glossary>
+<tab_text_glossary>Glossary</tab_text_glossary>
+<alt_enabled_glossary>Glossary</alt_enabled_glossary>
+<alt_disabled_glossary>Access denied</alt_disabled_glossary>
+<display_header_glossary>yes</display_header_glossary>
+<header_glossary><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Glossary</span>]]></header_glossary>
+<glossary_item_list></glossary_item_list>
+<fs_documents></fs_documents>
+<tab_text_documents>Documents</tab_text_documents>
+<alt_enabled_documents>Documents</alt_enabled_documents>
+<alt_disabled_documents>Access denied</alt_disabled_documents>
+<display_header_documents>yes</display_header_documents>
+<header_documents><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Documents</span>]]></header_documents>
+<doc_list></doc_list>
+<fs_settings></fs_settings>
+<tab_text_settings>Parameters</tab_text_settings>
+<alt_enabled_settings>Parameters</alt_enabled_settings>
+<alt_disabled_settings>Access denied</alt_disabled_settings>
+<display_header_settings>yes</display_header_settings>
+<header_settings><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Parameters</span>]]></header_settings>
+<settings_tip>yes</settings_tip>
+<settings_tip_text><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;"></span>]]></settings_tip_text>
+<settings_display>main</settings_display>
+<mainobj_text><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Main module objective</span>]]></mainobj_text>
+<allobj_text><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Module objectives</span>]]></allobj_text>
+<score_style>scaled</score_style>
+<fs_calculator></fs_calculator>
+<tab_text_calculator>Calculator</tab_text_calculator>
+<alt_enabled_calculator>Calculator</alt_enabled_calculator>
+<alt_disabled_calculator>Access denied</alt_disabled_calculator>
+<display_header_calculator>yes</display_header_calculator>
+<header_calculator><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Calculator</span>]]></header_calculator>
+<display_calculator_desc>no</display_calculator_desc>
+<calculator_desc><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;"></span>]]></calculator_desc>
+<fs_comment></fs_comment>
+<tab_text_comment>Comment</tab_text_comment>
+<alt_enabled_comment>Comment</alt_enabled_comment>
+<alt_disabled_comment>Access denied</alt_disabled_comment>
+<display_header_comment>yes</display_header_comment>
+<header_comment><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Comment</span>]]></header_comment>
+<comment_display>text</comment_display>
+<no_comments><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">No comments</span>]]></no_comments>
+<tab_position>right</tab_position>
+<tab_offset>0</tab_offset>
+<tab_size_w>90</tab_size_w>
+<tab_size_h>25</tab_size_h>
+<panel_padding>10</panel_padding>
+<open_tab>no</open_tab>
+<nav_lock>yes</nav_lock>
+<modal>no</modal>
+<fs_contents_2></fs_contents_2>
+<slide_icons>standard</slide_icons>
+<fs_slide_icons></fs_slide_icons>
+<i1_img></i1_img>
+<i2_img></i2_img>
+<i3_img></i3_img>
+<hier_type>none</hier_type>
+<fs_contents_hier_icons></fs_contents_hier_icons>
+<h1_img></h1_img>
+<h2_img></h2_img>
+<fs_glossary_2></fs_glossary_2>
+<display_letters>yes</display_letters>
+<glossary_default_text><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Select item to display description</span>]]></glossary_default_text>
+<glossary_not_found><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Item not found</span>]]></glossary_not_found>
+<glossary_items_col_width>30</glossary_items_col_width>
+<fs_settings_2></fs_settings_2>
+<settings_icons>standard</settings_icons>
+<fs_icons_statuses></fs_icons_statuses>
+<on_img></on_img>
+<oi_img></oi_img>
+<oc_img></oc_img>
+<ou_img></ou_img>
+<op_img></op_img>
+<of_img></of_img>
+<panel_bordercolor>#0080C0</panel_bordercolor>
+<panel_borderwidth>1</panel_borderwidth>
+<panel_radius>0</panel_radius>
+<shadow_strength>normal</shadow_strength>
+<panel_bgtype>solid</panel_bgtype>
+<panel_bgcolor>#FFFFFF</panel_bgcolor>
+<panel_gradientcolor>#DDEEFF</panel_gradientcolor>
+<fs_panel_bg_img></fs_panel_bg_img>
+<panel_bgimg></panel_bgimg>
+<panel_bgimg_repeat>repeat</panel_bgimg_repeat>
+<panel_bgimg_position>cm</panel_bgimg_position>
+<panel_bgimg_position_custom></panel_bgimg_position_custom>
+<tab_type>custom</tab_type>
+<fs_tab_images></fs_tab_images>
+<n1_img></n1_img>
+<n2_img></n2_img>
+<n3_img></n3_img>
+<fs_tab_custom></fs_tab_custom>
+<tab_borderwidth>1</tab_borderwidth>
+<tab_radius>10</tab_radius>
+<tab_font>robotoregular</tab_font>
+<tab_font_custom></tab_font_custom>
+<tab_font_style>normal</tab_font_style>
+<tab_font_size>12</tab_font_size>
+<tab_text_transform>uppercase</tab_text_transform>
+<tab_text_direction>ltr</tab_text_direction>
+<inherit_color>yes</inherit_color>
+<fs_tab_colors></fs_tab_colors>
+<tab_bg_type>solid</tab_bg_type>
+<tab_bordercolor>#FF9900</tab_bordercolor>
+<tab_bordercolor_over>#FF9900</tab_bordercolor_over>
+<tab_fontcolor>#FF9900</tab_fontcolor>
+<tab_fontcolor_over>#FF9900</tab_fontcolor_over>
+<tab_bgcolor>#FFCC99</tab_bgcolor>
+<tab_bgcolor_over>#FFCC99</tab_bgcolor_over>
+<fs_tab_gradient></fs_tab_gradient>
+<tab_gradientcolor>#FF9900</tab_gradientcolor>
+<tab_gradientcolor_over>#FF9900</tab_gradientcolor_over>
+<fs_tab_bg_img></fs_tab_bg_img>
+<tab_bg_img></tab_bg_img>
+<tab_bg_img_over></tab_bg_img_over>
+<tab_bgimg_repeat>repeat</tab_bgimg_repeat>
+<tab_bgimg_position>cm</tab_bgimg_position>
+<tab_bgimg_position_custom></tab_bgimg_position_custom>
+<contenttype_style>richtext</contenttype_style>
+<fs_style_none></fs_style_none>
+<fs_basic_font></fs_basic_font>
+<basic_font>robotoregular</basic_font>
+<basic_font_custom></basic_font_custom>
+<basic_font_style>normal</basic_font_style>
+<basic_font_size>14</basic_font_size>
+<fs_style_contents></fs_style_contents>
+<allowed_fill_color>#FFFFFF</allowed_fill_color>
+<allowed_font_color>#004080</allowed_font_color>
+<current_fill_color>#EEEEEE</current_fill_color>
+<current_font_color>#000000</current_font_color>
+<forbidden_fill_color>#FFFFFF</forbidden_fill_color>
+<forbidden_font_color>#999999</forbidden_font_color>
+<item_padding>5</item_padding>
+<fs_style_search></fs_style_search>
+<search_input_border_style>solid</search_input_border_style>
+<search_input_border_color>#0080C0</search_input_border_color>
+<search_input_border_width>1</search_input_border_width>
+<search_input_border_radius>5</search_input_border_radius>
+<search_input_bg_color>#FFFFFF</search_input_bg_color>
+<search_input_font_color>#004080</search_input_font_color>
+<highlight_bg_color>#FFEE99</highlight_bg_color>
+<highlight_font_color>#CC0000</highlight_font_color>
+<search_button_bg_color>#0080C0</search_button_bg_color>
+<search_button_font_color>#FFFFFF</search_button_font_color>
+<search_button_border_style>solid</search_button_border_style>
+<search_button_border_color>#0080C0</search_button_border_color>
+<search_button_border_width>1</search_button_border_width>
+<search_button_border_radius>5</search_button_border_radius>
+<fs_style_glossary></fs_style_glossary>
+<gloss_border_style>solid</gloss_border_style>
+<gloss_border_width>1</gloss_border_width>
+<gloss_border_radius>5</gloss_border_radius>
+<gloss_padding>5</gloss_padding>
+<gloss_fill_type>solid</gloss_fill_type>
+<gloss_font_color_idle>#000000</gloss_font_color_idle>
+<gloss_font_color_selected>#FFFFFF</gloss_font_color_selected>
+<gloss_border_color_idle>#000000</gloss_border_color_idle>
+<gloss_border_color_selected>#FFFFFF</gloss_border_color_selected>
+<gloss_bg_color_idle>#EEEEEE</gloss_bg_color_idle>
+<gloss_bg_color_selected>#336699</gloss_bg_color_selected>
+<fs_gloss_gradient></fs_gloss_gradient>
+<gloss_gradient_color_idle>#FFFFFF</gloss_gradient_color_idle>
+<gloss_gradient_color_selected>#6699CC</gloss_gradient_color_selected>
+<fs_gloss_img></fs_gloss_img>
+<gloss_img_idle></gloss_img_idle>
+<gloss_img_selected></gloss_img_selected>
+<gloss_img_repeat>repeat</gloss_img_repeat>
+<gloss_img_position>cm</gloss_img_position>
+<gloss_img_position_custom></gloss_img_position_custom>
+<fs_style_settings></fs_style_settings>
+<sett_border_style>solid</sett_border_style>
+<sett_border_width>1</sett_border_width>
+<sett_border_color>#CCCCCC</sett_border_color>
+<sett_padding>5</sett_padding>
+<content_const>search</content_const>
+<fs_const_none></fs_const_none>
+<fs_const_contents></fs_const_contents>
+<msg_order_violation>You cannot jump to this slide until you visit previous slides</msg_order_violation>
+<fs_const_search></fs_const_search>
+<search_text_button>Search</search_text_button>
+<search_text_logic>Search inclusion:</search_text_logic>
+<search_text_OR>Any word</search_text_OR>
+<search_text_AND>All words</search_text_AND>
+<search_text_case>Case:</search_text_case>
+<search_text_case_no>insensitive</search_text_case_no>
+<search_text_case_yes>sensitive</search_text_case_yes>
+<search_text_found>Slides found:</search_text_found>
+<search_text_notfound>No results found</search_text_notfound>
+<fs_const_settings></fs_const_settings>
+<obj_header>Objective</obj_header>
+<obj_score>Score</obj_score>
+<obj_cs>Compl.</obj_cs>
+<obj_ss>Succ.</obj_ss>
+<status_n>Not attempted</status_n>
+<status_i>Incomplete</status_i>
+<status_c>Completed</status_c>
+<status_u>Unknown</status_u>
+<status_p>Passed</status_p>
+<status_f>Failed</status_f>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+</param>
+<param objectid="OBJ_8">
+<hidden_slide_visited>Visited slide</hidden_slide_visited>
+<hidden_slide_current>Current slide</hidden_slide_current>
+<hidden_slide_unvisited>Unvisited slide</hidden_slide_unvisited>
+<hidden_slide_closed>Slide - closed node</hidden_slide_closed>
+<hidden_slide_open>Slide - open node</hidden_slide_open>
+<hidden_obj_title>Objective name</hidden_obj_title>
+<contenttype>richtext</contenttype>
+<fs_richtext></fs_richtext>
+<tab_text_richtext>Hint</tab_text_richtext>
+<alt_enabled_richtext>Hint</alt_enabled_richtext>
+<alt_disabled_richtext>Access denied</alt_disabled_richtext>
+<display_header_richtext>yes</display_header_richtext>
+<header_richtext><![CDATA[<span style="color:#000000; font-family:clear_sansregular, Arial, sans-serif; font-size: 12px;">Hint</span>]]></header_richtext>
+<panel_text_richtext><![CDATA[<span style="font-size: 28px; line-height: 14.399999618530273px;">Kami datangkan</span>]]></panel_text_richtext>
+<fs_contents></fs_contents>
+<tab_text_contents>Contents</tab_text_contents>
+<alt_enabled_contents>Contents</alt_enabled_contents>
+<alt_disabled_contents>Access denied</alt_disabled_contents>
+<display_header_contents>yes</display_header_contents>
+<header_contents><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Contents</span>]]></header_contents>
+<fs_search></fs_search>
+<tab_text_search>Find</tab_text_search>
+<alt_enabled_search>Find</alt_enabled_search>
+<alt_disabled_search>Access denied</alt_disabled_search>
+<display_header_search>yes</display_header_search>
+<header_search><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Find</span>]]></header_search>
+<search_tip>yes</search_tip>
+<search_tip_text><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">You can use * wildcards in conditions and quotes to define search phrase (but not simultaneously). Please take in account that not all module text are visible.</span>]]></search_tip_text>
+<search_case>no_user</search_case>
+<search_logic>OR_user</search_logic>
+<search_scope>slide</search_scope>
+<search_return_format>simple</search_return_format>
+<fs_glossary></fs_glossary>
+<tab_text_glossary>Glossary</tab_text_glossary>
+<alt_enabled_glossary>Glossary</alt_enabled_glossary>
+<alt_disabled_glossary>Access denied</alt_disabled_glossary>
+<display_header_glossary>yes</display_header_glossary>
+<header_glossary><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Glossary</span>]]></header_glossary>
+<glossary_item_list></glossary_item_list>
+<fs_documents></fs_documents>
+<tab_text_documents>Documents</tab_text_documents>
+<alt_enabled_documents>Documents</alt_enabled_documents>
+<alt_disabled_documents>Access denied</alt_disabled_documents>
+<display_header_documents>yes</display_header_documents>
+<header_documents><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Documents</span>]]></header_documents>
+<doc_list></doc_list>
+<fs_settings></fs_settings>
+<tab_text_settings>Parameters</tab_text_settings>
+<alt_enabled_settings>Parameters</alt_enabled_settings>
+<alt_disabled_settings>Access denied</alt_disabled_settings>
+<display_header_settings>yes</display_header_settings>
+<header_settings><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Parameters</span>]]></header_settings>
+<settings_tip>yes</settings_tip>
+<settings_tip_text><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;"></span>]]></settings_tip_text>
+<settings_display>main</settings_display>
+<mainobj_text><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Main module objective</span>]]></mainobj_text>
+<allobj_text><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Module objectives</span>]]></allobj_text>
+<score_style>scaled</score_style>
+<fs_calculator></fs_calculator>
+<tab_text_calculator>Calculator</tab_text_calculator>
+<alt_enabled_calculator>Calculator</alt_enabled_calculator>
+<alt_disabled_calculator>Access denied</alt_disabled_calculator>
+<display_header_calculator>yes</display_header_calculator>
+<header_calculator><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Calculator</span>]]></header_calculator>
+<display_calculator_desc>no</display_calculator_desc>
+<calculator_desc><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;"></span>]]></calculator_desc>
+<fs_comment></fs_comment>
+<tab_text_comment>Comment</tab_text_comment>
+<alt_enabled_comment>Comment</alt_enabled_comment>
+<alt_disabled_comment>Access denied</alt_disabled_comment>
+<display_header_comment>yes</display_header_comment>
+<header_comment><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Comment</span>]]></header_comment>
+<comment_display>text</comment_display>
+<no_comments><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">No comments</span>]]></no_comments>
+<tab_position>right</tab_position>
+<tab_offset>0</tab_offset>
+<tab_size_w>90</tab_size_w>
+<tab_size_h>25</tab_size_h>
+<panel_padding>10</panel_padding>
+<open_tab>no</open_tab>
+<nav_lock>yes</nav_lock>
+<modal>no</modal>
+<fs_contents_2></fs_contents_2>
+<slide_icons>standard</slide_icons>
+<fs_slide_icons></fs_slide_icons>
+<i1_img></i1_img>
+<i2_img></i2_img>
+<i3_img></i3_img>
+<hier_type>none</hier_type>
+<fs_contents_hier_icons></fs_contents_hier_icons>
+<h1_img></h1_img>
+<h2_img></h2_img>
+<fs_glossary_2></fs_glossary_2>
+<display_letters>yes</display_letters>
+<glossary_default_text><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Select item to display description</span>]]></glossary_default_text>
+<glossary_not_found><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Item not found</span>]]></glossary_not_found>
+<glossary_items_col_width>30</glossary_items_col_width>
+<fs_settings_2></fs_settings_2>
+<settings_icons>standard</settings_icons>
+<fs_icons_statuses></fs_icons_statuses>
+<on_img></on_img>
+<oi_img></oi_img>
+<oc_img></oc_img>
+<ou_img></ou_img>
+<op_img></op_img>
+<of_img></of_img>
+<panel_bordercolor>#0080C0</panel_bordercolor>
+<panel_borderwidth>1</panel_borderwidth>
+<panel_radius>0</panel_radius>
+<shadow_strength>normal</shadow_strength>
+<panel_bgtype>solid</panel_bgtype>
+<panel_bgcolor>#FFFFFF</panel_bgcolor>
+<panel_gradientcolor>#DDEEFF</panel_gradientcolor>
+<fs_panel_bg_img></fs_panel_bg_img>
+<panel_bgimg></panel_bgimg>
+<panel_bgimg_repeat>repeat</panel_bgimg_repeat>
+<panel_bgimg_position>cm</panel_bgimg_position>
+<panel_bgimg_position_custom></panel_bgimg_position_custom>
+<tab_type>custom</tab_type>
+<fs_tab_images></fs_tab_images>
+<n1_img></n1_img>
+<n2_img></n2_img>
+<n3_img></n3_img>
+<fs_tab_custom></fs_tab_custom>
+<tab_borderwidth>1</tab_borderwidth>
+<tab_radius>10</tab_radius>
+<tab_font>robotoregular</tab_font>
+<tab_font_custom></tab_font_custom>
+<tab_font_style>normal</tab_font_style>
+<tab_font_size>12</tab_font_size>
+<tab_text_transform>uppercase</tab_text_transform>
+<tab_text_direction>ltr</tab_text_direction>
+<inherit_color>yes</inherit_color>
+<fs_tab_colors></fs_tab_colors>
+<tab_bg_type>solid</tab_bg_type>
+<tab_bordercolor>#FF9900</tab_bordercolor>
+<tab_bordercolor_over>#FF9900</tab_bordercolor_over>
+<tab_fontcolor>#FF9900</tab_fontcolor>
+<tab_fontcolor_over>#FF9900</tab_fontcolor_over>
+<tab_bgcolor>#FFCC99</tab_bgcolor>
+<tab_bgcolor_over>#FFCC99</tab_bgcolor_over>
+<fs_tab_gradient></fs_tab_gradient>
+<tab_gradientcolor>#FF9900</tab_gradientcolor>
+<tab_gradientcolor_over>#FF9900</tab_gradientcolor_over>
+<fs_tab_bg_img></fs_tab_bg_img>
+<tab_bg_img></tab_bg_img>
+<tab_bg_img_over></tab_bg_img_over>
+<tab_bgimg_repeat>repeat</tab_bgimg_repeat>
+<tab_bgimg_position>cm</tab_bgimg_position>
+<tab_bgimg_position_custom></tab_bgimg_position_custom>
+<contenttype_style>richtext</contenttype_style>
+<fs_style_none></fs_style_none>
+<fs_basic_font></fs_basic_font>
+<basic_font>robotoregular</basic_font>
+<basic_font_custom></basic_font_custom>
+<basic_font_style>normal</basic_font_style>
+<basic_font_size>14</basic_font_size>
+<fs_style_contents></fs_style_contents>
+<allowed_fill_color>#FFFFFF</allowed_fill_color>
+<allowed_font_color>#004080</allowed_font_color>
+<current_fill_color>#EEEEEE</current_fill_color>
+<current_font_color>#000000</current_font_color>
+<forbidden_fill_color>#FFFFFF</forbidden_fill_color>
+<forbidden_font_color>#999999</forbidden_font_color>
+<item_padding>5</item_padding>
+<fs_style_search></fs_style_search>
+<search_input_border_style>solid</search_input_border_style>
+<search_input_border_color>#0080C0</search_input_border_color>
+<search_input_border_width>1</search_input_border_width>
+<search_input_border_radius>5</search_input_border_radius>
+<search_input_bg_color>#FFFFFF</search_input_bg_color>
+<search_input_font_color>#004080</search_input_font_color>
+<highlight_bg_color>#FFEE99</highlight_bg_color>
+<highlight_font_color>#CC0000</highlight_font_color>
+<search_button_bg_color>#0080C0</search_button_bg_color>
+<search_button_font_color>#FFFFFF</search_button_font_color>
+<search_button_border_style>solid</search_button_border_style>
+<search_button_border_color>#0080C0</search_button_border_color>
+<search_button_border_width>1</search_button_border_width>
+<search_button_border_radius>5</search_button_border_radius>
+<fs_style_glossary></fs_style_glossary>
+<gloss_border_style>solid</gloss_border_style>
+<gloss_border_width>1</gloss_border_width>
+<gloss_border_radius>5</gloss_border_radius>
+<gloss_padding>5</gloss_padding>
+<gloss_fill_type>solid</gloss_fill_type>
+<gloss_font_color_idle>#000000</gloss_font_color_idle>
+<gloss_font_color_selected>#FFFFFF</gloss_font_color_selected>
+<gloss_border_color_idle>#000000</gloss_border_color_idle>
+<gloss_border_color_selected>#FFFFFF</gloss_border_color_selected>
+<gloss_bg_color_idle>#EEEEEE</gloss_bg_color_idle>
+<gloss_bg_color_selected>#336699</gloss_bg_color_selected>
+<fs_gloss_gradient></fs_gloss_gradient>
+<gloss_gradient_color_idle>#FFFFFF</gloss_gradient_color_idle>
+<gloss_gradient_color_selected>#6699CC</gloss_gradient_color_selected>
+<fs_gloss_img></fs_gloss_img>
+<gloss_img_idle></gloss_img_idle>
+<gloss_img_selected></gloss_img_selected>
+<gloss_img_repeat>repeat</gloss_img_repeat>
+<gloss_img_position>cm</gloss_img_position>
+<gloss_img_position_custom></gloss_img_position_custom>
+<fs_style_settings></fs_style_settings>
+<sett_border_style>solid</sett_border_style>
+<sett_border_width>1</sett_border_width>
+<sett_border_color>#CCCCCC</sett_border_color>
+<sett_padding>5</sett_padding>
+<content_const>search</content_const>
+<fs_const_none></fs_const_none>
+<fs_const_contents></fs_const_contents>
+<msg_order_violation>You cannot jump to this slide until you visit previous slides</msg_order_violation>
+<fs_const_search></fs_const_search>
+<search_text_button>Search</search_text_button>
+<search_text_logic>Search inclusion:</search_text_logic>
+<search_text_OR>Any word</search_text_OR>
+<search_text_AND>All words</search_text_AND>
+<search_text_case>Case:</search_text_case>
+<search_text_case_no>insensitive</search_text_case_no>
+<search_text_case_yes>sensitive</search_text_case_yes>
+<search_text_found>Slides found:</search_text_found>
+<search_text_notfound>No results found</search_text_notfound>
+<fs_const_settings></fs_const_settings>
+<obj_header>Objective</obj_header>
+<obj_score>Score</obj_score>
+<obj_cs>Compl.</obj_cs>
+<obj_ss>Succ.</obj_ss>
+<status_n>Not attempted</status_n>
+<status_i>Incomplete</status_i>
+<status_c>Completed</status_c>
+<status_u>Unknown</status_u>
+<status_p>Passed</status_p>
+<status_f>Failed</status_f>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+</param>
+<param objectid="OBJ_9">
+<hidden_slide_visited>Visited slide</hidden_slide_visited>
+<hidden_slide_current>Current slide</hidden_slide_current>
+<hidden_slide_unvisited>Unvisited slide</hidden_slide_unvisited>
+<hidden_slide_closed>Slide - closed node</hidden_slide_closed>
+<hidden_slide_open>Slide - open node</hidden_slide_open>
+<hidden_obj_title>Objective name</hidden_obj_title>
+<contenttype>richtext</contenttype>
+<fs_richtext></fs_richtext>
+<tab_text_richtext>Hint</tab_text_richtext>
+<alt_enabled_richtext>Hint</alt_enabled_richtext>
+<alt_disabled_richtext>Access denied</alt_disabled_richtext>
+<display_header_richtext>yes</display_header_richtext>
+<header_richtext><![CDATA[<span style="color:#000000; font-family:clear_sansregular, Arial, sans-serif; font-size: 12px;">Hint</span>]]></header_richtext>
+<panel_text_richtext><![CDATA[<p>dengan yang lebih baik</p>]]></panel_text_richtext>
+<fs_contents></fs_contents>
+<tab_text_contents>Contents</tab_text_contents>
+<alt_enabled_contents>Contents</alt_enabled_contents>
+<alt_disabled_contents>Access denied</alt_disabled_contents>
+<display_header_contents>yes</display_header_contents>
+<header_contents><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Contents</span>]]></header_contents>
+<fs_search></fs_search>
+<tab_text_search>Find</tab_text_search>
+<alt_enabled_search>Find</alt_enabled_search>
+<alt_disabled_search>Access denied</alt_disabled_search>
+<display_header_search>yes</display_header_search>
+<header_search><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Find</span>]]></header_search>
+<search_tip>yes</search_tip>
+<search_tip_text><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">You can use * wildcards in conditions and quotes to define search phrase (but not simultaneously). Please take in account that not all module text are visible.</span>]]></search_tip_text>
+<search_case>no_user</search_case>
+<search_logic>OR_user</search_logic>
+<search_scope>slide</search_scope>
+<search_return_format>simple</search_return_format>
+<fs_glossary></fs_glossary>
+<tab_text_glossary>Glossary</tab_text_glossary>
+<alt_enabled_glossary>Glossary</alt_enabled_glossary>
+<alt_disabled_glossary>Access denied</alt_disabled_glossary>
+<display_header_glossary>yes</display_header_glossary>
+<header_glossary><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Glossary</span>]]></header_glossary>
+<glossary_item_list></glossary_item_list>
+<fs_documents></fs_documents>
+<tab_text_documents>Documents</tab_text_documents>
+<alt_enabled_documents>Documents</alt_enabled_documents>
+<alt_disabled_documents>Access denied</alt_disabled_documents>
+<display_header_documents>yes</display_header_documents>
+<header_documents><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Documents</span>]]></header_documents>
+<doc_list></doc_list>
+<fs_settings></fs_settings>
+<tab_text_settings>Parameters</tab_text_settings>
+<alt_enabled_settings>Parameters</alt_enabled_settings>
+<alt_disabled_settings>Access denied</alt_disabled_settings>
+<display_header_settings>yes</display_header_settings>
+<header_settings><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Parameters</span>]]></header_settings>
+<settings_tip>yes</settings_tip>
+<settings_tip_text><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;"></span>]]></settings_tip_text>
+<settings_display>main</settings_display>
+<mainobj_text><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Main module objective</span>]]></mainobj_text>
+<allobj_text><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Module objectives</span>]]></allobj_text>
+<score_style>scaled</score_style>
+<fs_calculator></fs_calculator>
+<tab_text_calculator>Calculator</tab_text_calculator>
+<alt_enabled_calculator>Calculator</alt_enabled_calculator>
+<alt_disabled_calculator>Access denied</alt_disabled_calculator>
+<display_header_calculator>yes</display_header_calculator>
+<header_calculator><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Calculator</span>]]></header_calculator>
+<display_calculator_desc>no</display_calculator_desc>
+<calculator_desc><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;"></span>]]></calculator_desc>
+<fs_comment></fs_comment>
+<tab_text_comment>Comment</tab_text_comment>
+<alt_enabled_comment>Comment</alt_enabled_comment>
+<alt_disabled_comment>Access denied</alt_disabled_comment>
+<display_header_comment>yes</display_header_comment>
+<header_comment><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Comment</span>]]></header_comment>
+<comment_display>text</comment_display>
+<no_comments><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">No comments</span>]]></no_comments>
+<tab_position>right</tab_position>
+<tab_offset>0</tab_offset>
+<tab_size_w>90</tab_size_w>
+<tab_size_h>25</tab_size_h>
+<panel_padding>10</panel_padding>
+<open_tab>no</open_tab>
+<nav_lock>yes</nav_lock>
+<modal>no</modal>
+<fs_contents_2></fs_contents_2>
+<slide_icons>standard</slide_icons>
+<fs_slide_icons></fs_slide_icons>
+<i1_img></i1_img>
+<i2_img></i2_img>
+<i3_img></i3_img>
+<hier_type>none</hier_type>
+<fs_contents_hier_icons></fs_contents_hier_icons>
+<h1_img></h1_img>
+<h2_img></h2_img>
+<fs_glossary_2></fs_glossary_2>
+<display_letters>yes</display_letters>
+<glossary_default_text><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Select item to display description</span>]]></glossary_default_text>
+<glossary_not_found><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 12px; color: #000000;">Item not found</span>]]></glossary_not_found>
+<glossary_items_col_width>30</glossary_items_col_width>
+<fs_settings_2></fs_settings_2>
+<settings_icons>standard</settings_icons>
+<fs_icons_statuses></fs_icons_statuses>
+<on_img></on_img>
+<oi_img></oi_img>
+<oc_img></oc_img>
+<ou_img></ou_img>
+<op_img></op_img>
+<of_img></of_img>
+<panel_bordercolor>#0080C0</panel_bordercolor>
+<panel_borderwidth>1</panel_borderwidth>
+<panel_radius>0</panel_radius>
+<shadow_strength>normal</shadow_strength>
+<panel_bgtype>solid</panel_bgtype>
+<panel_bgcolor>#FFFFFF</panel_bgcolor>
+<panel_gradientcolor>#DDEEFF</panel_gradientcolor>
+<fs_panel_bg_img></fs_panel_bg_img>
+<panel_bgimg></panel_bgimg>
+<panel_bgimg_repeat>repeat</panel_bgimg_repeat>
+<panel_bgimg_position>cm</panel_bgimg_position>
+<panel_bgimg_position_custom></panel_bgimg_position_custom>
+<tab_type>custom</tab_type>
+<fs_tab_images></fs_tab_images>
+<n1_img></n1_img>
+<n2_img></n2_img>
+<n3_img></n3_img>
+<fs_tab_custom></fs_tab_custom>
+<tab_borderwidth>1</tab_borderwidth>
+<tab_radius>10</tab_radius>
+<tab_font>robotoregular</tab_font>
+<tab_font_custom></tab_font_custom>
+<tab_font_style>normal</tab_font_style>
+<tab_font_size>12</tab_font_size>
+<tab_text_transform>uppercase</tab_text_transform>
+<tab_text_direction>ltr</tab_text_direction>
+<inherit_color>yes</inherit_color>
+<fs_tab_colors></fs_tab_colors>
+<tab_bg_type>solid</tab_bg_type>
+<tab_bordercolor>#FF9900</tab_bordercolor>
+<tab_bordercolor_over>#FF9900</tab_bordercolor_over>
+<tab_fontcolor>#FF9900</tab_fontcolor>
+<tab_fontcolor_over>#FF9900</tab_fontcolor_over>
+<tab_bgcolor>#FFCC99</tab_bgcolor>
+<tab_bgcolor_over>#FFCC99</tab_bgcolor_over>
+<fs_tab_gradient></fs_tab_gradient>
+<tab_gradientcolor>#FF9900</tab_gradientcolor>
+<tab_gradientcolor_over>#FF9900</tab_gradientcolor_over>
+<fs_tab_bg_img></fs_tab_bg_img>
+<tab_bg_img></tab_bg_img>
+<tab_bg_img_over></tab_bg_img_over>
+<tab_bgimg_repeat>repeat</tab_bgimg_repeat>
+<tab_bgimg_position>cm</tab_bgimg_position>
+<tab_bgimg_position_custom></tab_bgimg_position_custom>
+<contenttype_style>richtext</contenttype_style>
+<fs_style_none></fs_style_none>
+<fs_basic_font></fs_basic_font>
+<basic_font>robotoregular</basic_font>
+<basic_font_custom></basic_font_custom>
+<basic_font_style>normal</basic_font_style>
+<basic_font_size>14</basic_font_size>
+<fs_style_contents></fs_style_contents>
+<allowed_fill_color>#FFFFFF</allowed_fill_color>
+<allowed_font_color>#004080</allowed_font_color>
+<current_fill_color>#EEEEEE</current_fill_color>
+<current_font_color>#000000</current_font_color>
+<forbidden_fill_color>#FFFFFF</forbidden_fill_color>
+<forbidden_font_color>#999999</forbidden_font_color>
+<item_padding>5</item_padding>
+<fs_style_search></fs_style_search>
+<search_input_border_style>solid</search_input_border_style>
+<search_input_border_color>#0080C0</search_input_border_color>
+<search_input_border_width>1</search_input_border_width>
+<search_input_border_radius>5</search_input_border_radius>
+<search_input_bg_color>#FFFFFF</search_input_bg_color>
+<search_input_font_color>#004080</search_input_font_color>
+<highlight_bg_color>#FFEE99</highlight_bg_color>
+<highlight_font_color>#CC0000</highlight_font_color>
+<search_button_bg_color>#0080C0</search_button_bg_color>
+<search_button_font_color>#FFFFFF</search_button_font_color>
+<search_button_border_style>solid</search_button_border_style>
+<search_button_border_color>#0080C0</search_button_border_color>
+<search_button_border_width>1</search_button_border_width>
+<search_button_border_radius>5</search_button_border_radius>
+<fs_style_glossary></fs_style_glossary>
+<gloss_border_style>solid</gloss_border_style>
+<gloss_border_width>1</gloss_border_width>
+<gloss_border_radius>5</gloss_border_radius>
+<gloss_padding>5</gloss_padding>
+<gloss_fill_type>solid</gloss_fill_type>
+<gloss_font_color_idle>#000000</gloss_font_color_idle>
+<gloss_font_color_selected>#FFFFFF</gloss_font_color_selected>
+<gloss_border_color_idle>#000000</gloss_border_color_idle>
+<gloss_border_color_selected>#FFFFFF</gloss_border_color_selected>
+<gloss_bg_color_idle>#EEEEEE</gloss_bg_color_idle>
+<gloss_bg_color_selected>#336699</gloss_bg_color_selected>
+<fs_gloss_gradient></fs_gloss_gradient>
+<gloss_gradient_color_idle>#FFFFFF</gloss_gradient_color_idle>
+<gloss_gradient_color_selected>#6699CC</gloss_gradient_color_selected>
+<fs_gloss_img></fs_gloss_img>
+<gloss_img_idle></gloss_img_idle>
+<gloss_img_selected></gloss_img_selected>
+<gloss_img_repeat>repeat</gloss_img_repeat>
+<gloss_img_position>cm</gloss_img_position>
+<gloss_img_position_custom></gloss_img_position_custom>
+<fs_style_settings></fs_style_settings>
+<sett_border_style>solid</sett_border_style>
+<sett_border_width>1</sett_border_width>
+<sett_border_color>#CCCCCC</sett_border_color>
+<sett_padding>5</sett_padding>
+<content_const>search</content_const>
+<fs_const_none></fs_const_none>
+<fs_const_contents></fs_const_contents>
+<msg_order_violation>You cannot jump to this slide until you visit previous slides</msg_order_violation>
+<fs_const_search></fs_const_search>
+<search_text_button>Search</search_text_button>
+<search_text_logic>Search inclusion:</search_text_logic>
+<search_text_OR>Any word</search_text_OR>
+<search_text_AND>All words</search_text_AND>
+<search_text_case>Case:</search_text_case>
+<search_text_case_no>insensitive</search_text_case_no>
+<search_text_case_yes>sensitive</search_text_case_yes>
+<search_text_found>Slides found:</search_text_found>
+<search_text_notfound>No results found</search_text_notfound>
+<fs_const_settings></fs_const_settings>
+<obj_header>Objective</obj_header>
+<obj_score>Score</obj_score>
+<obj_cs>Compl.</obj_cs>
+<obj_ss>Succ.</obj_ss>
+<status_n>Not attempted</status_n>
+<status_i>Incomplete</status_i>
+<status_c>Completed</status_c>
+<status_u>Unknown</status_u>
+<status_p>Passed</status_p>
+<status_f>Failed</status_f>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+</param>
+</params>
+<objectives>
+<objective module="yes" id="total" name="Main module objective" cs="i" ss="u" scoremax="100" scoremin="0"/>
+</objectives>
+<runtimechecks>
+</runtimechecks>
+</module>

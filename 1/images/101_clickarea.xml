@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+'*	101_clickarea.xml
+'*	Copyright (c) Websoft, 2007.  All rights reserved.
+--><params>
+	<object>
+		<label>Click area</label>
+		<width>200</width>
+		<height>100</height>
+		<description>Rectangular click area with highlighting</description>
+		<default_color_bg>bg_color</default_color_bg>
+		<default_color_border>border_color</default_color_border>
+		<state_extension>false</state_extension>
+	</object>
+	<page name="Highlight" w="260" h="200">
+	    <param type="edit" id="hidden.label" text="" def="Click area" x="10" y="-50" w="110" h="13"/>
+		
+		<param type="label" id="lab_bg_color" text="Fill color" x="10" y="10" w="120" h="13"/>
+		<param type="color" id="bg_color" text="" def="#FF9900" x="130" y="8" w="40" h="13"/>
+		<param type="label" id="lab_border_color" text="Border color" x="10" y="26" w="120" h="13"/>
+		<param type="color" id="border_color" text="" def="#CC6600" x="130" y="24" w="40" h="13"/>
+		<param type="label" id="lab_borderstyle" text="Border style" x="10" y="42" w="120" h="13"/>
+		<param type="select" id="borderstyle" text="" def="solid" x="130" y="40" w="120" h="13">
+			<items>
+				<item id="none" label="None"/>
+				<item id="solid" label="Solid"/>
+				<item id="dotted" label="Dotted"/>
+				<item id="dashed" label="Dashed"/>
+				<item id="double" label="Double"/>
+				<item id="ridge" label="Ridge"/>
+				<item id="groove" label="Groove"/>
+				<item id="inset" label="Inset"/>
+				<item id="outset" label="Outset"/>
+			</items>
+		</param>
+				
+		<param type="label" id="lab_borderwidth" text="Border width" x="10" y="58" w="120" h="13"/>
+		<param type="spinner" id="borderwidth" text="" def="3" x="130" y="56" w="32" h="13" min="0" max="99"/>
+		<param type="label" id="lab_borderwidth2" text="px" x="165" y="58" w="30" h="13"/>
+		<param type="label" id="lab_radius" text="Radius" x="10" y="74" w="120" h="13"/>
+		<param type="spinner" id="radius" text="" def="10" x="130" y="72" w="32" h="13" min="0" max="99"/>
+		<param type="label" id="lab_radius2" text="px" x="165" y="74" w="30" h="13"/>
+		<param type="label" id="lab_opacity" text="Opacity" x="10" y="90" w="120" h="13"/>
+		<param type="spinner" id="opacity" text="" def="50" x="130" y="88" w="32" h="13" min="0" max="100"/>
+		<param type="label" id="lab_opacity2" text="%" x="165" y="90" w="20" h="13"/>
+		<param type="label" id="lab_highlight_type" text="Highlight" x="10" y="106" w="120" h="13"/>
+		<param type="select" id="highlight_type" text="" def="blink" x="130" y="104" w="120" h="13">
+			<items>
+				<item id="simple" label="No highlight">
+                    <events>
+                        <event name="selendok" target="lab_timer" action="disable"/>
+						<event name="selendok" target="timer" action="disable"/>
+						<event name="selendok" target="lab_timer2" action="disable"/>
+					</events>
+				</item>
+				<item id="blink" label="Blink">
+                    <events>
+                        <event name="selendok" target="lab_timer" action="enable"/>
+						<event name="selendok" target="timer" action="enable"/>
+						<event name="selendok" target="lab_timer2" action="enable"/>
+					</events>
+				</item>
+				<item id="pulse" label="Pulsate">
+                    <events>
+                        <event name="selendok" target="lab_timer" action="enable"/>
+						<event name="selendok" target="timer" action="enable"/>
+						<event name="selendok" target="lab_timer2" action="enable"/>
+					</events>
+				</item>
+			</items>
+		</param>
+		<param type="label" id="lab_timer" text="Duration" x="10" y="122" w="120" h="13"/>
+		<param type="time" id="timer" text="" def="500" x="130" y="120" w="32" h="13" min="100" max="9999"/>
+		<param type="label" id="lab_timer2" text="sec" x="165" y="122" w="30" h="13"/>
+		<param type="check" id="preview" text="Preview in Edit mode" def="no" x="10" y="136" w="240" h="13">
+			<events>
+				<event name="check" target="lab_line_txt" action="show"/>
+				<event name="check" target="lab_txt1" action="show"/>
+				<event name="check" target="lab_txt2" action="show"/>
+				<event name="uncheck" target="lab_line_txt" action="hide"/>
+				<event name="uncheck" target="lab_txt1" action="hide"/>
+				<event name="uncheck" target="lab_txt2" action="hide"/>
+			</events>
+		</param>
+    </page>
+	<methods>
+		<method name="Constructor" label="_Constructor" access="private">
+            <params>
+            </params>
+            <body>
+			<![CDATA[function Constructor(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				oCurObj.data = { bActive: false, sHLType: oCurObj.jxParams.find("highlight_type").text(), nDuration: +oCurObj.jxParams.find("timer").text() };
+				jCurObjDiv.css({ "cursor": "default" });
+				switch(oCurObj.data.sHLType)
+				{
+					case "blink":
+					{
+						oCurObj.HLOn = function ()
+						{
+							if(oCurObj.data.bActive)
+							{
+								jCurObjDiv.animate({ "opacity": 1 }, 100);
+								oCurObj.iHLTimer = setTimeout(function () { oCurObj.HLOff(); }, oCurObj.data.nDuration);
+							}
+						};
+						oCurObj.HLOff = function ()
+						{
+							if(oCurObj.data.bActive)
+							{
+								jCurObjDiv.animate({ "opacity": 0 }, 100);
+								oCurObj.iHLTimer = setTimeout(function () { oCurObj.HLOn(); }, oCurObj.data.nDuration);
+							}
+						};
+						break;
+					}
+					case "pulse":
+					{
+						oCurObj.HLOn = function ()
+						{
+							if(oCurObj.data.bActive)
+							{
+								var iX = Math.floor(0.03*oCurObj.current.w);
+								var iY = Math.floor(0.03*oCurObj.current.h);
+								jCurObjDiv.find(".cl-highlight").animate({ "left": -iX + "px", "top": -iY + "px", "zoom": 1.06 }, 100);
+								oCurObj.iHLTimer = setTimeout(function () { oCurObj.HLOff(); }, oCurObj.data.nDuration);
+							}
+						};
+						oCurObj.HLOff = function ()
+						{
+							if(oCurObj.data.bActive)
+							{
+								jCurObjDiv.find(".cl-highlight").css({ "zoom": 1.0, "left": "0", "top": "0" });
+								oCurObj.iHLTimer = setTimeout(function () { oCurObj.HLOn(); }, oCurObj.data.nDuration);
+							}
+						};
+						break;
+					}
+					case "none":
+					{
+						oCurObj.HLOn = function ()
+						{
+							if(oCurObj.data.bActive)
+							{
+								jCurObjDiv.show();
+								oCurObj.iHLTimer = setTimeout(function () { oCurObj.HLOff(); }, oCurObj.data.nDuration);
+							}
+						};
+						oCurObj.HLOff = function ()
+						{
+							if(oCurObj.data.bActive)
+							{
+								jCurObjDiv.hide();
+								oCurObj.iHLTimer = setTimeout(function () { oCurObj.HLOn(); }, oCurObj.data.nDuration);
+							}
+						};
+						break;
+					}
+				}
+				return true;
+			}]]>
+            </body>
+        </method>
+		<method name="HighlightOn" label="HIGHLIGHT ON" access="public">
+            <params>
+            </params>
+            <body>
+			<![CDATA[function HighlightOn(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj.data.bActive) return false;
+				jCurObjDiv.find(".cl-empty").css({ "display": "none" });
+				jCurObjDiv.find(".cl-highlight").css({ "display": "block" });
+				oCurObj.data.bActive = true;
+				oCurObj.HLOn();
+				return true;
+			}]]>
+            </body>
+        </method>
+		<method name="HighlightOff" label="HIGHLIGHT OFF" access="public">
+            <params>
+            </params>
+            <body>
+			<![CDATA[function HighlightOff(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(!oCurObj.data.bActive) return false;
+				jCurObjDiv.find(".cl-empty").css({ "display": "block" });
+				jCurObjDiv.find(".cl-highlight").css({ "display": "none" });
+				oCurObj.data.bActive = false;
+				return true;
+			}]]>
+            </body>
+        </method>
+	</methods>
+</params>

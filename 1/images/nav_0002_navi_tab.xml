@@ -1,0 +1,3622 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+'*	nav_0002_navi_tab.xml
+--><params>
+	<object>
+		<label>Navigation Tab</label>
+		<width>500</width>
+		<height>460</height>
+		<description>Configurable Navigation Tab</description>
+		<state_extension>false</state_extension>
+	</object>
+    <page name="Main" w="520" h="260">
+		<param type="edit" id="hidden_slide_visited" text="" def="Visited slide" x="-50" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_slide_current" text="" def="Current slide" x="-50" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_slide_unvisited" text="" def="Unvisited slide" x="-50" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_slide_closed" text="" def="Slide - closed node" x="-50" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_slide_open" text="" def="Slide - open node" x="-50" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_obj_title" text="" def="Objective name" x="-50" y="-50" w="1" h="1"/>
+
+		<param type="line" id="line_v1" text="" def="" x="260" y="10" w="1" h="240"/>
+
+		<param type="label" id="lab_contenttype" text="Role" def="" x="10" y="10" w="120" h="13"/>
+		<param type="select" id="contenttype" text="" def="richtext" x="130" y="8" w="120" h="13">
+			<items>
+				<item id="richtext" label="Description">
+					<events>
+						<event name="selendok" target="fs_contents" action="hide"/>
+						<event name="selendok" target="fs_contents_2" action="hide"/>
+						<event name="selendok" target="fs_search" action="hide"/>
+						<event name="selendok" target="fs_glossary" action="hide"/>
+						<event name="selendok" target="fs_glossary_2" action="hide"/>
+						<event name="selendok" target="fs_documents" action="hide"/>
+						<event name="selendok" target="fs_settings" action="hide"/>
+						<event name="selendok" target="fs_settings_2" action="hide"/>
+						<event name="selendok" target="fs_calculator" action="hide"/>
+						<event name="selendok" target="fs_comment" action="hide"/>
+						<event name="selendok" target="fs_richtext" action="show"/>
+					</events>
+				</item>
+				<item id="contents" label="Contents">
+					<events>
+						<event name="selendok" target="fs_search" action="hide"/>
+						<event name="selendok" target="fs_glossary" action="hide"/>
+						<event name="selendok" target="fs_glossary_2" action="hide"/>
+						<event name="selendok" target="fs_documents" action="hide"/>
+						<event name="selendok" target="fs_settings" action="hide"/>
+						<event name="selendok" target="fs_settings_2" action="hide"/>
+						<event name="selendok" target="fs_calculator" action="hide"/>
+						<event name="selendok" target="fs_comment" action="hide"/>
+						<event name="selendok" target="fs_richtext" action="hide"/>
+						<event name="selendok" target="fs_contents" action="show"/>
+						<event name="selendok" target="fs_contents_2" action="show"/>
+					</events>
+				</item>
+				<item id="search" label="Find">
+					<events>
+						<event name="selendok" target="fs_glossary" action="hide"/>
+						<event name="selendok" target="fs_glossary_2" action="hide"/>
+						<event name="selendok" target="fs_documents" action="hide"/>
+						<event name="selendok" target="fs_settings" action="hide"/>
+						<event name="selendok" target="fs_settings_2" action="hide"/>
+						<event name="selendok" target="fs_calculator" action="hide"/>
+						<event name="selendok" target="fs_comment" action="hide"/>
+						<event name="selendok" target="fs_richtext" action="hide"/>
+						<event name="selendok" target="fs_contents" action="hide"/>
+						<event name="selendok" target="fs_contents_2" action="hide"/>
+						<event name="selendok" target="fs_search" action="show"/>
+					</events>
+				</item>
+				<item id="glossary" label="Glossary">
+					<events>
+						<event name="selendok" target="fs_documents" action="hide"/>
+						<event name="selendok" target="fs_settings" action="hide"/>
+						<event name="selendok" target="fs_settings_2" action="hide"/>
+						<event name="selendok" target="fs_calculator" action="hide"/>
+						<event name="selendok" target="fs_comment" action="hide"/>
+						<event name="selendok" target="fs_richtext" action="hide"/>
+						<event name="selendok" target="fs_contents" action="hide"/>
+						<event name="selendok" target="fs_contents_2" action="hide"/>
+						<event name="selendok" target="fs_search" action="hide"/>
+						<event name="selendok" target="fs_glossary" action="show"/>
+						<event name="selendok" target="fs_glossary_2" action="show"/>
+					</events>
+				</item>
+				<item id="documents" label="Documents">
+					<events>
+						<event name="selendok" target="fs_glossary" action="hide"/>
+						<event name="selendok" target="fs_glossary_2" action="hide"/>
+						<event name="selendok" target="fs_settings" action="hide"/>
+						<event name="selendok" target="fs_settings_2" action="hide"/>
+						<event name="selendok" target="fs_calculator" action="hide"/>
+						<event name="selendok" target="fs_comment" action="hide"/>
+						<event name="selendok" target="fs_richtext" action="hide"/>
+						<event name="selendok" target="fs_contents" action="hide"/>
+						<event name="selendok" target="fs_contents_2" action="hide"/>
+						<event name="selendok" target="fs_search" action="hide"/>
+						<event name="selendok" target="fs_documents" action="show"/>
+					</events>
+				</item>
+				<item id="settings" label="Settings">
+					<events>
+						<event name="selendok" target="fs_glossary" action="hide"/>
+						<event name="selendok" target="fs_glossary_2" action="hide"/>
+						<event name="selendok" target="fs_documents" action="hide"/>
+						<event name="selendok" target="fs_calculator" action="hide"/>
+						<event name="selendok" target="fs_comment" action="hide"/>
+						<event name="selendok" target="fs_richtext" action="hide"/>
+						<event name="selendok" target="fs_contents" action="hide"/>
+						<event name="selendok" target="fs_contents_2" action="hide"/>
+						<event name="selendok" target="fs_search" action="hide"/>
+						<event name="selendok" target="fs_settings" action="show"/>
+						<event name="selendok" target="fs_settings_2" action="show"/>
+					</events>
+				</item>
+				<item id="calculator" label="Calculator">
+					<events>
+						<event name="selendok" target="fs_glossary" action="hide"/>
+						<event name="selendok" target="fs_glossary_2" action="hide"/>
+						<event name="selendok" target="fs_documents" action="hide"/>
+						<event name="selendok" target="fs_settings" action="hide"/>
+						<event name="selendok" target="fs_settings_2" action="hide"/>
+						<event name="selendok" target="fs_comment" action="hide"/>
+						<event name="selendok" target="fs_richtext" action="hide"/>
+						<event name="selendok" target="fs_contents" action="hide"/>
+						<event name="selendok" target="fs_contents_2" action="hide"/>
+						<event name="selendok" target="fs_search" action="hide"/>
+						<event name="selendok" target="fs_calculator" action="show"/>
+					</events>
+				</item>
+				<item id="comment" label="Comment">
+					<events>
+						<event name="selendok" target="fs_glossary" action="hide"/>
+						<event name="selendok" target="fs_glossary_2" action="hide"/>
+						<event name="selendok" target="fs_documents" action="hide"/>
+						<event name="selendok" target="fs_settings" action="hide"/>
+						<event name="selendok" target="fs_settings_2" action="hide"/>
+						<event name="selendok" target="fs_calculator" action="hide"/>
+						<event name="selendok" target="fs_richtext" action="hide"/>
+						<event name="selendok" target="fs_contents" action="hide"/>
+						<event name="selendok" target="fs_contents_2" action="hide"/>
+						<event name="selendok" target="fs_search" action="hide"/>
+						<event name="selendok" target="fs_comment" action="show"/>
+					</events>
+				</item>
+			</items>
+		</param>
+
+		<param type="label" id="lab_tab_text" text="Text" x="10" y="26" w="120" h="13"/>
+		<param type="label" id="lab_alt_enabled" text="Enabled mode tooltip" x="10" y="42" w="120" h="13"/>
+		<param type="label" id="lab_alt_disabled" text="Disabled mode tooltip" x="10" y="58" w="120" h="13"/>
+
+		<param type="fieldset" id="fs_richtext">
+			<param type="edit" id="tab_text_richtext" text="" def="Help" x="130" y="24" w="120" h="13"/>
+			<param type="edit" id="alt_enabled_richtext" text="" def="Help" x="130" y="40" w="120" h="13"/>
+			<param type="edit" id="alt_disabled_richtext" text="" def="Access denied" x="130" y="56" w="120" h="13"/>
+			<param type="check" id="display_header_richtext" text="Header" def="yes" x="10" y="72" w="120" h="13">
+				<events>
+					<event name="check" target="header_richtext" action="enable"/>
+					<event name="uncheck" target="header_richtext" action="disable"/>
+				</events>
+			</param>
+			<param type="textedit" id="header_richtext" text="" def="Help" x="130" y="72" w="103" h="13"/>
+			<param type="label" id="lab_panel_text_richtext" text="Text" x="10" y="90" w="120" h="13"/>
+			<param type="textedit" id="panel_text_richtext" text="" def="" x="130" y="88" w="103" h="13"/>
+		</param>
+
+		<param type="fieldset" id="fs_contents">
+			<param type="edit" id="tab_text_contents" text="" def="Contents" x="130" y="24" w="120" h="13"/>
+			<param type="edit" id="alt_enabled_contents" text="" def="Contents" x="130" y="40" w="120" h="13"/>
+			<param type="edit" id="alt_disabled_contents" text="" def="Access denied" x="130" y="56" w="120" h="13"/>
+			<param type="check" id="display_header_contents" text="Header" def="yes" x="10" y="72" w="120" h="13">
+				<events>
+					<event name="check" target="header_contents" action="enable"/>
+					<event name="uncheck" target="header_contents" action="disable"/>
+				</events>
+			</param>
+			<param type="textedit" id="header_contents" text="" def="Contents" x="130" y="72" w="103" h="13"/>
+
+		</param>
+
+		<param type="fieldset" id="fs_search">
+			<param type="edit" id="tab_text_search" text="" def="Find" x="130" y="24" w="120" h="13"/>
+			<param type="edit" id="alt_enabled_search" text="" def="Find" x="130" y="40" w="120" h="13"/>
+			<param type="edit" id="alt_disabled_search" text="" def="Access denied" x="130" y="56" w="120" h="13"/>
+			<param type="check" id="display_header_search" text="Header" def="yes" x="10" y="72" w="120" h="13">
+				<events>
+					<event name="check" target="header_search" action="enable"/>
+					<event name="uncheck" target="header_search" action="disable"/>
+				</events>
+			</param>
+			<param type="textedit" id="header_search" text="" def="Find" x="130" y="72" w="103" h="13"/>
+			<param type="check" id="search_tip" text="Instruction" def="yes" x="10" y="88" w="120" h="13">
+				<events>
+					<event name="check" target="search_tip_text" action="enable"/>
+					<event name="uncheck" target="search_tip_text" action="disable"/>
+				</events>
+			</param>
+			<param type="textedit" id="search_tip_text" text="" def="You can use * wildcards in conditions and quotes to define search phrase (but not simultaneously). Please take in account that not all module text are visible." x="130" y="88" w="103" h="13"/>
+			<param type="label" id="lab_search_case" text="Case sensitive" def="" x="10" y="106" w="120" h="13"/>
+			<param type="select" id="search_case" text="" def="no_user" x="130" y="104" w="120" h="13">
+				<items>
+					<item id="no" label="No, choice disabled"/>
+					<item id="no_user" label="No, choice enabled"/>
+					<item id="yes" label="Yes, choice disabled"/>
+					<item id="yes_user" label="Yes, choice enabled"/>
+				</items>
+			</param>
+			<param type="label" id="lab_search_logic" text="Search logic" def="" x="10" y="122" w="120" h="13"/>
+			<param type="select" id="search_logic" text="" def="OR_user" x="130" y="120" w="120" h="13">
+				<items>
+					<item id="OR" label="Any word, choice disabled"/>
+					<item id="OR_user" label="Any word, choice enabled"/>
+					<item id="AND" label="All words, choice disabled"/>
+					<item id="AND_user" label="All words, choice enabled"/>
+				</items>
+			</param>
+			<param type="label" id="lab_search_scope" text="Search logic scope" def="" x="10" y="138" w="120" h="13"/>
+			<param type="select" id="search_scope" text="" def="slide" x="130" y="136" w="120" h="13">
+				<items>
+					<item id="slide" label="Slide"/>
+					<item id="object" label="Object"/>
+				</items>
+			</param>
+			<param type="label" id="lab_search_return_format" text="Search results" def="" x="10" y="154" w="120" h="13"/>
+			<param type="select" id="search_return_format" text="" def="simple" x="130" y="152" w="120" h="13">
+				<items>
+					<item id="simple" label="Link only"/>
+					<item id="extended" label="Link and fragment"/>
+				</items>
+			</param>
+		</param>
+		<param type="fieldset" id="fs_glossary">
+			<param type="edit" id="tab_text_glossary" text="" def="Glossary" x="130" y="24" w="120" h="13"/>
+			<param type="edit" id="alt_enabled_glossary" text="" def="Glossary" x="130" y="40" w="120" h="13"/>
+			<param type="edit" id="alt_disabled_glossary" text="" def="Access denied" x="130" y="56" w="120" h="13"/>
+			<param type="check" id="display_header_glossary" text="Header" def="yes" x="10" y="72" w="120" h="13">
+				<events>
+					<event name="check" target="header_glossary" action="enable"/>
+					<event name="uncheck" target="header_glossary" action="disable"/>
+				</events>
+			</param>
+			<param type="textedit" id="header_glossary" text="" def="Glossary" x="130" y="72" w="103" h="13"/>
+			<param type="label" id="lab_glossary_item_list" text="Elements list" def="" x="10" y="90" w="120" h="13"/>
+			<param type="list" id="glossary_item_list" text="" def="" x="10" y="88" w="240" h="160">
+				<params w="260" h="82">
+					<param type="label" id="lab_e_code" text="Code" def="" x="10" y="10" w="120" h="13"/>
+					<param type="edit" id="e_code" text="Code" def="" x="130" y="8" w="120" h="13"/>
+					<param type="label" id="lab_e_item" text="Text" def="" x="10" y="26" w="120" h="13"/>
+					<param type="edit" id="e_item" text="Element" def="" x="130" y="24" w="120" h="13"/>
+					<param type="label" id="lab_e_text" text="Description" def="" x="10" y="42" w="120" h="13"/>
+					<param type="textedit" id="e_text" text="Description" def="" x="130" y="40" w="103" h="13"/>
+					<param type="line" id="" text="" def="" x="10" y="58" w="240" h="1"/>
+					<param type="button" id="OK" text="OK" def="" x="145" y="64" w="50" h="14"/>
+					<param type="button" id="CANCEL" text="Cancel" def="" x="200" y="64" w="50" h="14"/>
+				</params>
+			</param>
+		</param>
+		<param type="fieldset" id="fs_documents">
+			<param type="edit" id="tab_text_documents" text="" def="Documents" x="130" y="24" w="120" h="13"/>
+			<param type="edit" id="alt_enabled_documents" text="" def="Documents" x="130" y="40" w="120" h="13"/>
+			<param type="edit" id="alt_disabled_documents" text="" def="Access denied" x="130" y="56" w="120" h="13"/>
+			<param type="check" id="display_header_documents" text="Header" def="yes" x="10" y="72" w="120" h="13">
+				<events>
+					<event name="check" target="header_documents" action="enable"/>
+					<event name="uncheck" target="header_documents" action="disable"/>
+				</events>
+			</param>
+			<param type="textedit" id="header_documents" text="" def="Documents" x="130" y="72" w="103" h="13"/>
+			<param type="label" id="lab_doc_list" text="Elements list" def="" x="10" y="90" w="120" h="13"/>
+			<param type="list" id="doc_list" text="" def="" x="10" y="88" w="240" h="160">
+				<params w="260" h="90">
+					<param type="label" id="lab_doc_file" text="File" def="" x="10" y="10" w="120" h="13"/>
+					<param type="file" id="doc_file" text="File" def="" x="130" y="8" w="103" h="13"/>
+					<param type="label" id="lab_doc_link_text" text="Link text" def="" x="10" y="26" w="120" h="13"/>
+					<param type="edit" id="doc_link_text" text="Link" def="Document" x="130" y="24" w="120" h="13"/>
+					<param type="label" id="lab_doc_desc" text="Description" def="" x="10" y="42" w="120" h="13"/>
+					<param type="edit" id="doc_desc" text="Description" def="" x="130" y="40" w="120" h="13" listcolumn="0"/>
+					<param type="line" id="" text="" def="" x="10" y="60" w="220" h="2"/>
+					<param type="button" id="OK" text="OK" def="" x="125" y="64" w="50" h="14"/>
+					<param type="button" id="CANCEL" text="Cancel" def="" x="180" y="64" w="50" h="14"/>
+				</params>
+			</param>
+		</param>
+		<param type="fieldset" id="fs_settings">
+			<param type="edit" id="tab_text_settings" text="" def="Parameters" x="130" y="24" w="120" h="13"/>
+			<param type="edit" id="alt_enabled_settings" text="" def="Parameters" x="130" y="40" w="120" h="13"/>
+			<param type="edit" id="alt_disabled_settings" text="" def="Access denied" x="130" y="56" w="120" h="13"/>
+			<param type="check" id="display_header_settings" text="Header" def="yes" x="10" y="72" w="120" h="13">
+				<events>
+					<event name="check" target="header_settings" action="enable"/>
+					<event name="uncheck" target="header_settings" action="disable"/>
+				</events>
+			</param>
+			<param type="textedit" id="header_settings" text="" def="Parameters" x="130" y="72" w="103" h="13"/>
+			<param type="check" id="settings_tip" text="Instruction" def="yes" x="10" y="88" w="120" h="13">
+				<events>
+					<event name="check" target="settings_tip_text" action="enable"/>
+					<event name="uncheck" target="settings_tip_text" action="disable"/>
+				</events>
+			</param>
+			<param type="textedit" id="settings_tip_text" text="" def="" x="130" y="88" w="103" h="13"/>
+			<param type="label" id="lab_settings_display" text="Objectives" x="10" y="106" w="120" h="13"/>
+			<param type="select" id="settings_display" text="" def="main" x="130" y="104" w="120" h="13">
+				<items>
+					<item id="main" label="Main objective">
+						<events>
+							<event name="selendok" target="lab_mainobj_text" action="enable"/>
+							<event name="selendok" target="mainobj_text" action="enable"/>
+							<event name="selendok" target="lab_allobj_text" action="disable"/>
+							<event name="selendok" target="allobj_text" action="disable"/>
+						</events>
+					</item>
+					<item id="other" label="All objectives except main">
+						<events>
+							<event name="selendok" target="lab_mainobj_text" action="disable"/>
+							<event name="selendok" target="mainobj_text" action="disable"/>
+							<event name="selendok" target="lab_allobj_text" action="enable"/>
+							<event name="selendok" target="allobj_text" action="enable"/>
+						</events>
+					</item>
+					<item id="all" label="All objectives">
+						<events>
+							<event name="selendok" target="lab_mainobj_text" action="enable"/>
+							<event name="selendok" target="mainobj_text" action="enable"/>
+							<event name="selendok" target="lab_allobj_text" action="enable"/>
+							<event name="selendok" target="allobj_text" action="enable"/>
+						</events>
+					</item>
+				</items>
+			</param>
+			<param type="label" id="lab_mainobj_text" text="Main objective header" x="10" y="122" w="120" h="13"/>
+			<param type="textedit" id="mainobj_text" text="" def="Main module objective" x="130" y="120" w="103" h="13"/>
+			<param type="label" id="lab_allobj_text" text="Other objectives header" x="10" y="138" w="120" h="13"/>
+			<param type="textedit" id="allobj_text" text="" def="Module objectives" x="130" y="136" w="103" h="13"/>
+
+			<param type="label" id="lab_score_style" text="Score" x="10" y="154" w="120" h="13"/>
+			<param type="select" id="score_style" text="" def="scaled" x="130" y="152" w="120" h="13">
+				<items>
+					<item id="scaled" label="Percentage (%)"/>
+					<item id="raw" label="Value"/>
+					<item id="rawmax" label="Value (max)"/>
+				</items>
+			</param>
+		</param>
+		<param type="fieldset" id="fs_calculator">
+			<param type="edit" id="tab_text_calculator" text="" def="Calculator" x="130" y="24" w="120" h="13"/>
+			<param type="edit" id="alt_enabled_calculator" text="" def="Calculator" x="130" y="40" w="120" h="13"/>
+			<param type="edit" id="alt_disabled_calculator" text="" def="Access denied" x="130" y="56" w="120" h="13"/>
+			<param type="check" id="display_header_calculator" text="Header" def="yes" x="10" y="72" w="120" h="13">
+				<events>
+					<event name="check" target="header_calculator" action="enable"/>
+					<event name="uncheck" target="header_calculator" action="disable"/>
+				</events>
+			</param>
+			<param type="textedit" id="header_calculator" text="" def="Calculator" x="130" y="72" w="103" h="13"/>
+			<param type="check" id="display_calculator_desc" text="Instruction" def="no" x="10" y="88" w="120" h="13">
+				<events>
+					<event name="check" target="calculator_desc" action="enable"/>
+					<event name="uncheck" target="calculator_desc" action="disable"/>
+				</events>
+			</param>
+			<param type="textedit" id="calculator_desc" text="" def="" x="130" y="88" w="103" h="13"/>
+		</param>
+		<param type="fieldset" id="fs_comment">
+			<param type="edit" id="tab_text_comment" text="" def="Comment" x="130" y="24" w="120" h="13"/>
+			<param type="edit" id="alt_enabled_comment" text="" def="Comment" x="130" y="40" w="120" h="13"/>
+			<param type="edit" id="alt_disabled_comment" text="" def="Access denied" x="130" y="56" w="120" h="13"/>
+			<param type="check" id="display_header_comment" text="Header" def="yes" x="10" y="72" w="120" h="13">
+				<events>
+					<event name="check" target="header_comment" action="enable"/>
+					<event name="uncheck" target="header_comment" action="disable"/>
+				</events>
+			</param>
+			<param type="textedit" id="header_comment" text="" def="Comment" x="130" y="72" w="103" h="13"/>
+			<param type="label" id="lab_comment_display" text="When no comment" x="10" y="90" w="120" h="13"/>
+			<param type="select" id="comment_display" text="" def="text" x="130" y="88" w="120" h="13">
+				<items>
+					<item id="text" label="Display message">
+						<events>
+							<event name="selendok" target="lab_no_comments" action="enable"/>
+							<event name="selendok" target="no_comments" action="enable"/>
+						</events>
+					</item>
+					<item id="disable" label="Disable">
+						<events>
+							<event name="selendok" target="lab_no_comments" action="disable"/>
+							<event name="selendok" target="no_comments" action="disable"/>
+						</events>
+					</item>
+					<item id="hide" label="Hide">
+						<events>
+							<event name="selendok" target="lab_no_comments" action="disable"/>
+							<event name="selendok" target="no_comments" action="disable"/>
+						</events>
+					</item>
+				</items>
+			</param>
+			<param type="label" id="lab_no_comments" text="Text if no comments" x="10" y="106" w="120" h="13"/>
+			<param type="textedit" id="no_comments" text="" def="No comments" x="130" y="104" w="103" h="13"/>
+		</param>
+
+
+		<param type="label" id="lab_tab_position" text="Tab" def="" x="270" y="10" w="120" h="13"/>
+		<param type="select" id="tab_position" text="" def="right" x="390" y="8" w="120" h="13">
+			<items>
+				<item id="right" label="Right">
+					<events>
+						<event name="selendok" target="lab_taboffset_h" action="hide"></event>
+						<event name="selendok" target="lab_taboffset_v" action="show"></event>
+					</events>
+				</item>
+				<item id="left" label="Left">
+					<events>
+						<event name="selendok" target="lab_taboffset_h" action="hide"></event>
+						<event name="selendok" target="lab_taboffset_v" action="show"></event>
+					</events>
+				</item>
+				<item id="top" label="Top">
+					<events>
+						<event name="selendok" target="lab_taboffset_h" action="show"></event>
+						<event name="selendok" target="lab_taboffset_v" action="hide"></event>
+					</events>
+				</item>
+				<item id="bottom" label="Bottom">
+					<events>
+						<event name="selendok" target="lab_taboffset_h" action="show"></event>
+						<event name="selendok" target="lab_taboffset_v" action="hide"></event>
+					</events>
+				</item>
+			</items>
+		</param>
+		<param type="label" id="lab_tab_offset" text="Offset" def="" x="270" y="26" w="120" h="13"/>
+		<param type="spinner" id="tab_offset" text="" def="0" x="390" y="24" w="32" h="13" min="0" max="9999"/>
+		<param type="label" id="lab_taboffset_h" text="px left" def="" x="425" y="26" w="75" h="13"/>
+		<param type="label" id="lab_taboffset_v" text="px top" def="" x="425" y="26" w="75" h="13"/>
+		<param type="label" id="lab_tabsize_h" text="Size" def="" x="270" y="42" w="120" h="13"/>
+		<param type="spinner" id="tab_size_w" text="" def="90" x="390" y="40" w="32" h="13" min="1" max="9999"/>
+		<param type="label" id="lab_tabsize2" text="x" def="" x="432" y="42" w="8" h="13"/>
+		<param type="spinner" id="tab_size_h" text="" def="25" x="445" y="40" w="32" h="13" min="1" max="9999"/>
+		<param type="label" id="lab_tabsize3" text="px" def="" x="480" y="42" w="50" h="13"/>
+		<param type="label" id="lab_panel_padding" text="Panel padding" def="" x="270" y="58" w="120" h="13"/>
+		<param type="spinner" id="panel_padding" text="" def="10" x="390" y="56" w="32" h="13" min="0" max="99"/>
+		<param type="label" id="lab_panel_padding2" text="px" def="" x="425" y="58" w="50" h="13"/>
+		<param type="check" id="open_tab" text="Display panel in Edit mode" def="no" x="270" y="72" w="240" h="13"/>
+		<param type="check" id="nav_lock" text="Strict Navigation mode" def="yes" x="270" y="88" w="240" h="13"/>
+		<param type="check" id="modal" text="Display as modal" def="no" x="270" y="104" w="300" h="13"/>
+		<param type="fieldset" id="fs_contents_2">
+			<param type="label" id="lab_slide_icons" text="Slide icons" def="" x="270" y="122" w="120" h="13"/>
+			<param type="select" id="slide_icons" text="" def="standard" x="390" y="120" w="120" h="13">
+				<items>
+					<item id="none" label="None">
+						<events>
+							<event name="selendok" target="fs_slide_icons" action="disable"/>
+						</events>
+					</item>
+					<item id="standard" label="Standard">
+						<events>
+							<event name="selendok" target="fs_slide_icons" action="disable"/>
+						</events>
+					</item>
+					<item id="custom" label="Custom">
+						<events>
+							<event name="selendok" target="fs_slide_icons" action="enable"/>
+						</events>
+					</item>
+				</items>
+			</param>
+			<param type="fieldset" id="fs_slide_icons">
+				<param type="label" id="lab_i1_img" text="Unvisited slide" def="" x="270" y="138" w="120" h="13"/>
+				<param type="file" id="i1_img" text="" def="" x="390" y="136" w="103" h="13" ext="Images (*.png;*.jpg;*.jpeg;*.gif)|*.png;*.jpg;*.jpeg;*.gif|PNG (*.png)|*.png|JPEG (*.jpg;*.jpeg)|*.jpg;*.jpeg|GIF (*.gif)|*.gif|All files (*.*)|*.*|||"/>
+				<param type="label" id="lab_i2_img" text="Current slide" def="" x="270" y="154" w="120" h="13"/>
+				<param type="file" id="i2_img" text="" def="" x="390" y="152" w="103" h="13" ext="Images (*.png;*.jpg;*.jpeg;*.gif)|*.png;*.jpg;*.jpeg;*.gif|PNG (*.png)|*.png|JPEG (*.jpg;*.jpeg)|*.jpg;*.jpeg|GIF (*.gif)|*.gif|All files (*.*)|*.*|||"/>
+				<param type="label" id="lab_i3_img" text="Visited slide" def="" x="270" y="170" w="120" h="13"/>
+				<param type="file" id="i3_img" text="" def="" x="390" y="168" w="103" h="13" ext="Images (*.png;*.jpg;*.jpeg;*.gif)|*.png;*.jpg;*.jpeg;*.gif|PNG (*.png)|*.png|JPEG (*.jpg;*.jpeg)|*.jpg;*.jpeg|GIF (*.gif)|*.gif|All files (*.*)|*.*|||"/>
+			</param>
+			<param type="label" id="lab_hier_type" text="Hierarchy" def="" x="270" y="186" w="120" h="13"/>
+			<param type="select" id="hier_type" text="" def="none" x="390" y="184" w="120" h="13">
+				<items>
+					<item id="none" label="None">
+						<events>
+							<event name="selendok" target="fs_contents_hier_icons" action="disable"/>
+						</events>
+					</item>
+					<item id="standard" label="Standard">
+						<events>
+							<event name="selendok" target="fs_contents_hier_icons" action="disable"/>
+						</events>
+					</item>
+					<item id="custom" label="Custom">
+						<events>
+							<event name="selendok" target="fs_contents_hier_icons" action="enable"/>
+						</events>
+					</item>
+				</items>
+			</param>
+
+			<param type="fieldset" id="fs_contents_hier_icons">
+				<param type="label" id="lab_h1_img" text="Closed node" def="" x="270" y="202" w="120" h="13"/>
+				<param type="file" id="h1_img" text="" def="" x="390" y="200" w="103" h="13" ext="Images (*.png;*.jpg;*.jpeg;*.gif)|*.png;*.jpg;*.jpeg;*.gif|PNG (*.png)|*.png|JPEG (*.jpg;*.jpeg)|*.jpg;*.jpeg|GIF (*.gif)|*.gif|All files (*.*)|*.*|||"/>
+				<param type="label" id="lab_h2_img" text="Open node" def="" x="270" y="218" w="120" h="13"/>
+				<param type="file" id="h2_img" text="" def="" x="390" y="216" w="103" h="13" ext="Images (*.png;*.jpg;*.jpeg;*.gif)|*.png;*.jpg;*.jpeg;*.gif|PNG (*.png)|*.png|JPEG (*.jpg;*.jpeg)|*.jpg;*.jpeg|GIF (*.gif)|*.gif|All files (*.*)|*.*|||"/>
+			</param>
+		</param>
+		<param type="fieldset" id="fs_glossary_2">
+			<param type="check" id="display_letters" text="Display first letter selection ribbon" def="yes" x="270" y="120" w="240" h="13"/>
+			<param type="label" id="lab_glossary_default_text" text="Default text" def="" x="270" y="138" w="120" h="13"/>
+			<param type="textedit" id="glossary_default_text" text="" def="Select item to display description" x="390" y="136" w="103" h="13"/>
+			<param type="label" id="lab_glossary_not_found" text="Item not found" def="" x="270" y="154" w="120" h="13"/>
+			<param type="textedit" id="glossary_not_found" text="" def="Item not found" x="390" y="152" w="103" h="13"/>
+			<param type="label" id="lab_glossary_items_col_width" text="Column width" def="" x="270" y="170" w="120" h="13"/>
+			<param type="spinner" id="glossary_items_col_width" text="" def="30" x="390" y="168" w="24" h="13" min="10" max="90"/>
+			<param type="label" id="lab_glossary_items_col_pc" text="%" def="" x="418" y="170" w="20" h="13"/>
+		</param>
+		<param type="fieldset" id="fs_settings_2">
+			<param type="label" id="lab_settings_icons" text="Statuses icons" x="270" y="122" w="120" h="13"/>
+			<param type="select" id="settings_icons" text="" def="standard" x="390" y="120" w="120" h="13">
+				<items>
+					<item id="standard" label="Standard">
+						<events>
+							<event name="selendok" target="fs_icons_statuses" action="disable"/>
+						</events>
+					</item>
+					<item id="custom" label="Custom">
+						<events>
+							<event name="selendok" target="fs_icons_statuses" action="enable"/>
+						</events>
+					</item>
+				</items>
+			</param>
+			<param type="fieldset" id="fs_icons_statuses">
+				<param type="label" id="lab_on_img" text="Not attempted" x="270" y="138" w="120" h="13"/>
+				<param type="file" id="on_img" text="" def="" x="390" y="136" w="103" h="13" ext="Images (*.png;*.jpg;*.jpeg;*.gif)|*.png;*.jpg;*.jpeg;*.gif|PNG (*.png)|*.png|JPEG (*.jpg;*.jpeg)|*.jpg;*.jpeg|GIF (*.gif)|*.gif|All files (*.*)|*.*|||"/>
+				<param type="label" id="lab_oi_img" text="Incomplete" x="270" y="154" w="120" h="13"/>
+				<param type="file" id="oi_img" text="" def="" x="390" y="152" w="103" h="13" ext="Images (*.png;*.jpg;*.jpeg;*.gif)|*.png;*.jpg;*.jpeg;*.gif|PNG (*.png)|*.png|JPEG (*.jpg;*.jpeg)|*.jpg;*.jpeg|GIF (*.gif)|*.gif|All files (*.*)|*.*|||"/>
+				<param type="label" id="lab_oc_img" text="Completed" x="270" y="170" w="120" h="13"/>
+				<param type="file" id="oc_img" text="" def="" x="390" y="168" w="103" h="13" ext="Images (*.png;*.jpg;*.jpeg;*.gif)|*.png;*.jpg;*.jpeg;*.gif|PNG (*.png)|*.png|JPEG (*.jpg;*.jpeg)|*.jpg;*.jpeg|GIF (*.gif)|*.gif|All files (*.*)|*.*|||"/>
+				<param type="label" id="lab_ou_img" text="Unknown" x="270" y="186" w="120" h="13"/>
+				<param type="file" id="ou_img" text="" def="" x="390" y="184" w="103" h="13" ext="Images (*.png;*.jpg;*.jpeg;*.gif)|*.png;*.jpg;*.jpeg;*.gif|PNG (*.png)|*.png|JPEG (*.jpg;*.jpeg)|*.jpg;*.jpeg|GIF (*.gif)|*.gif|All files (*.*)|*.*|||"/>
+				<param type="label" id="lab_op_img" text="Passed" x="270" y="202" w="120" h="13"/>
+				<param type="file" id="op_img" text="" def="" x="390" y="200" w="103" h="13" ext="Images (*.png;*.jpg;*.jpeg;*.gif)|*.png;*.jpg;*.jpeg;*.gif|PNG (*.png)|*.png|JPEG (*.jpg;*.jpeg)|*.jpg;*.jpeg|GIF (*.gif)|*.gif|All files (*.*)|*.*|||"/>
+				<param type="label" id="lab_of_img" text="Failed" x="270" y="218" w="120" h="13"/>
+				<param type="file" id="of_img" text="" def="" x="390" y="216" w="103" h="13" ext="Images (*.png;*.jpg;*.jpeg;*.gif)|*.png;*.jpg;*.jpeg;*.gif|PNG (*.png)|*.png|JPEG (*.jpg;*.jpeg)|*.jpg;*.jpeg|GIF (*.gif)|*.gif|All files (*.*)|*.*|||"/>
+			</param>
+		</param>
+	</page>
+    <page name="Display" w="520" h="260">
+
+		<param type="line" id="line_v2" text="" def="" x="260" y="10" w="1" h="240"/>
+
+		<param type="label" id="lab_panel" text="Panel" def="" x="10" y="10" w="120" h="13"/>
+		<param type="label" id="lab_panel_border" text="Border" def="" x="10" y="26" w="120" h="13"/>
+		<param type="color" id="panel_bordercolor" text="" def="#0080C0" x="130" y="24" w="40" h="13"/>
+		<param type="spinner" id="panel_borderwidth" text="" def="1" x="190" y="24" w="32" h="13" min="0" max="49"/>
+		<param type="label" id="lab_panel_borderwidth" text="px" def="" x="225" y="26" w="20" h="13"/>
+		<param type="label" id="lab_panel_borderradius" text="Radius" def="" x="10" y="42" w="120" h="13"/>
+		<param type="spinner" id="panel_radius" text="" def="0" x="130" y="40" w="32" h="13" min="0" max="99"/>
+		<param type="label" id="lab_panel_borderradius2" text="px" def="" x="165" y="42" w="50" h="13"/>
+		<param type="label" id="lab_shadow_strength" text="Shadow" def="" x="10" y="58" w="120" h="13"/>
+		<param type="select" id="shadow_strength" text="" def="normal" x="130" y="56" w="120" h="13">
+			<items>
+				<item id="none" label="None"/>
+				<item id="extralight" label="Extra light"/>
+				<item id="light" label="Light"/>
+				<item id="normal" label="Normal"/>
+				<item id="dark" label="Intense"/>
+				<item id="extradark" label="Very intense"/>
+			</items>
+		</param>
+		<param type="label" id="lab_panel_bg" text="Fill" def="" x="10" y="74" w="120" h="13"/>
+		<param type="select" id="panel_bgtype" text="" def="solid" x="130" y="72" w="120" h="13">
+			<items>
+				<item id="solid" label="Solid">
+					<events>
+						<event name="selendok" target="panel_gradientcolor" action="hide"></event>
+						<event name="selendok" target="fs_panel_bg_img" action="hide"></event>
+					</events>
+				</item>
+				<item id="vertical" label="Vertical gradient">
+					<events>
+						<event name="selendok" target="panel_gradientcolor" action="show"></event>
+						<event name="selendok" target="fs_panel_bg_img" action="hide"></event>
+					</events>
+				</item>
+				<item id="horizontal" label="Horizontal gradient">
+					<events>
+						<event name="selendok" target="panel_gradientcolor" action="show"></event>
+						<event name="selendok" target="fs_panel_bg_img" action="hide"></event>
+					</events>
+				</item>
+				<item id="image" label="Background image">
+					<events>
+						<event name="selendok" target="panel_gradientcolor" action="hide"></event>
+						<event name="selendok" target="fs_panel_bg_img" action="show"></event>
+					</events>
+				</item>
+			</items>
+		</param>
+
+		<param type="color" id="panel_bgcolor" text="" def="#FFFFFF" x="130" y="88" w="40" h="13"/>
+
+		<param type="color" id="panel_gradientcolor" text="" def="#DDEEFF" x="190" y="88" w="40" h="13"/>
+
+		<param type="fieldset" id="fs_panel_bg_img">
+			<param type="label" id="lab_panel_bgimg" text="Background image" def="" x="10" y="106" w="120" h="11"/>
+			<param type="file" id="panel_bgimg" text="" def="" x="130" y="104" w="103" h="13" ext="Images (*.png;*.jpg;*.jpeg;*.gif)|*.png;*.jpg;*.jpeg;*.gif|PNG (*.png)|*.png|JPEG (*.jpg;*.jpeg)|*.jpg;*.jpeg|GIF (*.gif)|*.gif|All files (*.*)|*.*|||"/>
+
+			<param type="label" id="lab_panel_bgimg_repeat" text="Background repeat" def="" x="10" y="122" w="120" h="11"/>
+			<param type="select" id="panel_bgimg_repeat" text="" def="repeat" x="130" y="120" w="120" h="13">
+				<items>
+					<item id="repeat" label="Both directions"/>
+					<item id="repeat-y" label="Vertical"/>
+					<item id="repeat-x" label="Horizontal"/>
+					<item id="no-repeat" label="No repeat"/>
+				</items>
+			</param>
+			<param type="label" id="lab_panel_bgimg_position" text="Initial position" def="" x="10" y="138" w="120" h="11"/>
+			<param type="select" id="panel_bgimg_position" text="" def="cm" x="130" y="136" w="120" h="13">
+				<items>
+					<item id="lt" label="Left top">
+						<events>
+							<event name="selendok" target="panel_bgimg_position_custom" action="disable"></event>
+						</events>
+					</item>
+					<item id="lm" label="Left middle">
+						<events>
+							<event name="selendok" target="panel_bgimg_position_custom" action="disable"></event>
+						</events>
+					</item>
+					<item id="lb" label="Left bottom">
+						<events>
+							<event name="selendok" target="panel_bgimg_position_custom" action="disable"></event>
+						</events>
+					</item>
+					<item id="ct" label="Top center">
+						<events>
+							<event name="selendok" target="panel_bgimg_position_custom" action="disable"></event>
+						</events>
+					</item>
+					<item id="cm" label="Middle center">
+						<events>
+							<event name="selendok" target="panel_bgimg_position_custom" action="disable"></event>
+						</events>
+					</item>
+					<item id="cb" label="Bottom center">
+						<events>
+							<event name="selendok" target="panel_bgimg_position_custom" action="disable"></event>
+						</events>
+					</item>
+					<item id="rt" label="Right top">
+						<events>
+							<event name="selendok" target="panel_bgimg_position_custom" action="disable"></event>
+						</events>
+					</item>
+					<item id="rm" label="Right middle">
+						<events>
+							<event name="selendok" target="panel_bgimg_position_custom" action="disable"></event>
+						</events>
+					</item>
+					<item id="rb" label="Right bottom">
+						<events>
+							<event name="selendok" target="panel_bgimg_position_custom" action="disable"></event>
+						</events>
+					</item>
+					<item id="custom" label="Custom">
+						<events>
+							<event name="selendok" target="panel_bgimg_position_custom" action="enable"></event>
+						</events>
+					</item>
+				</items>
+			</param>
+			<param type="edit" id="panel_bgimg_position_custom" text="" def="" x="130" y="152" w="120" h="13"/>
+		</param>
+
+		<param type="label" id="lab_tab" text="Tab" def="" x="270" y="10" w="120" h="13"/>
+		<param type="select" id="tab_type" text="" def="custom" x="390" y="8" w="120" h="13">
+			<items>
+				<item id="custom" label="Customizable">
+					<events>
+						<event name="selendok" target="fs_tab_images" action="hide"/>
+						<event name="selendok" target="fs_tab_custom" action="show"/>
+					</events>
+				</item>
+				<item id="image" label="Image set">
+					<events>
+						<event name="selendok" target="fs_tab_custom" action="hide"/>
+						<event name="selendok" target="fs_tab_images" action="show"/>
+					</events>
+				</item>
+			</items>
+		</param>
+
+
+
+		<param type="fieldset" id="fs_tab_images">
+			<param type="label" id="lab_n1_img" text="Idle" def="" x="270" y="26" w="120" h="13"/>
+			<param type="file" id="n1_img" text="" def="" x="390" y="24" w="103" h="13" ext="Images (*.png;*.jpg;*.jpeg;*.gif)|*.png;*.jpg;*.jpeg;*.gif|PNG (*.png)|*.png|JPEG (*.jpg;*.jpeg)|*.jpg;*.jpeg|GIF (*.gif)|*.gif|All files (*.*)|*.*|||"/>
+			<param type="label" id="lab_n2_img" text="Mouse over" def="" x="270" y="42" w="120" h="13"/>
+			<param type="file" id="n2_img" text="" def="" x="390" y="40" w="103" h="13" ext="Images (*.png;*.jpg;*.jpeg;*.gif)|*.png;*.jpg;*.jpeg;*.gif|PNG (*.png)|*.png|JPEG (*.jpg;*.jpeg)|*.jpg;*.jpeg|GIF (*.gif)|*.gif|All files (*.*)|*.*|||"/>
+			<param type="label" id="lab_n3_img" text="Disabled" def="" x="270" y="58" w="120" h="13"/>
+			<param type="file" id="n3_img" text="" def="" x="390" y="56" w="103" h="13" ext="Images (*.png;*.jpg;*.jpeg;*.gif)|*.png;*.jpg;*.jpeg;*.gif|PNG (*.png)|*.png|JPEG (*.jpg;*.jpeg)|*.jpg;*.jpeg|GIF (*.gif)|*.gif|All files (*.*)|*.*|||"/>
+		</param>
+
+		<param type="fieldset" id="fs_tab_custom">
+			<param type="label" id="lab_tab_borderwidth" text="Border" def="" x="270" y="26" w="120" h="13"/>
+			<param type="spinner" id="tab_borderwidth" text="" def="1" x="390" y="24" w="32" h="13" min="0" max="99"/>
+			<param type="label" id="lab_tab_borderwidth2" text="px" def="" x="425" y="26" w="20" h="13"/>
+			<param type="spinner" id="tab_radius" text="" def="10" x="445" y="24" w="32" h="13" min="0" max="100"/>
+			<param type="label" id="lab_tab_borderwidth2" text="px radius" def="" x="480" y="26" w="40" h="13"/>
+
+			<param type="label" id="lab_tab_font" text="Font" x="270" y="42" w="120" h="13"/>
+			<param type="line" id="line_tab_font" text="" def="" x="268" y="52" w="244" h="56"/>
+			<param type="select" id="tab_font" text="" def="robotoregular" x="280" y="58" w="108" h="13">
+				<items>
+					<item id="Arial" label="Arial">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="ArialBlack" label="Arial Black">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="ArialNarrow" label="Arial Narrow">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="ComicSansMS" label="Comic Sans MS">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="CourierNew" label="Courier New">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="Georgia" label="Georgia">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="Impact" label="Impact">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="LucidaConsole" label="Lucida Console">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="LucidaSansUnicode" label="Lucida Sans Unicode">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="Palatino" label="Palatino">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="Tahoma" label="Tahoma">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="Times" label="Times New Roman">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="TrebuchetMS" label="Trebuchet MS">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="Verdana" label="Verdana">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="clear_sans_lightregular" label="WF Clear Sans Light">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="clear_sans_mediumregular" label="WF Clear Sans Medium">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="clear_sansregular" label="WF Clear Sans Regular">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="clear_sans_thinregular" label="WF Clear Sans Thin">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="droid_sans_monoregular" label="WF Droid Sans Mono">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="droid_sansregular" label="WF Droid Sans Regular">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="droid_serifregular" label="WF Droid Serif Regular">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="Fira_Mono" label="WF Fira Mono">
+						<events>
+							<event name="selendok" target="font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="Fira_Sans" label="WF Fira Sans">
+						<events>
+							<event name="selendok" target="font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="FiraSansLight" label="WF Fira Sans Light">
+						<events>
+							<event name="selendok" target="font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="FiraSansMedium" label="WF Fira Sans Medium">
+						<events>
+							<event name="selendok" target="font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="Fregat_Sans" label="WF Fregat Sans">
+						<events>
+							<event name="selendok" target="font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="Lato_Sans" label="WF Lato Sans">
+						<events>
+							<event name="selendok" target="font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="LatoSansLight" label="WF Lato Sans Light">
+						<events>
+							<event name="selendok" target="font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="nerisblack" label="WF Neris Black">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="nerislight" label="WF Neris Light">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="nerissemibold" label="WF Neris SemiBold">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="neristhin" label="WF Neris Thin">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="noto_sansregular" label="WF Noto Sans Regular">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="noto_serifregular" label="WF Noto Serif Regular">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="open_sanscondensed_light" label="WF Open Sans Condensed Light">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="open_sansextrabold" label="WF Open Sans Extra Bold">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="open_sanslight" label="WF Open Sans Light">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="open_sansregular" label="WF Open Sans Regular">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="open_sanssemibold" label="WF Open Sans SemiBold">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="permiansanstypefaceregular" label="WF Permian Sans Regular">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="permianseriftypefaceregular" label="WF Permian Serif Regular">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="permianslabseriftypefaceRg" label="WF Permian Slab Serif Regular">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="robotoblack" label="WF Roboto Black">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="roboto_condensedregular" label="WF Roboto Condensed">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="roboto_condensedlight" label="WF Roboto Condensed Light">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="robotolight" label="WF Roboto Light">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="robotomedium" label="WF Roboto Medium">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="robotoregular" label="WF Roboto Regular">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="robotothin" label="WF Roboto Thin">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="roboto_slablight" label="WF Roboto Slab Light">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="roboto_slabregular" label="WF Roboto Slab Regular">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="roboto_slabthin" label="WF Roboto Slab Thin">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="custom" label="Custom">
+						<events>
+							<event name="selendok" target="tab_font_custom" action="enable"/>
+						</events>
+					</item>
+				</items>
+			</param>
+			<param type="edit" id="tab_font_custom" text="" def="" x="390" y="58" w="110" h="13"/>
+			<param type="select" id="tab_font_style" text="" def="normal" x="280" y="74" w="108" h="13">
+				<items>
+					<item id="normal" label="Normal"/>
+					<item id="bold" label="Bold"/>
+					<item id="italic" label="Italic"/>
+					<item id="bolditalic" label="Bold italic"/>
+				</items>
+			</param>
+			<param type="spinner" id="tab_font_size" text="" def="12" x="390" y="74" w="28" h="13" min="4" max="99"/>
+			<param type="label" id="lab_tab_font_size_px" text="px" x="422" y="76" w="20" h="13"/>
+			<param type="select" id="tab_text_transform" text="" def="uppercase" x="280" y="90" w="108" h="13">
+				<items>
+					<item id="none" label="No text transform"/>
+					<item id="uppercase" label="Uppercase"/>
+					<item id="lowercase" label="Lowercase"/>
+					<item id="small-caps" label="Small caps"/>
+					<item id="capitalize" label="Capitalize"/>
+				</items>
+			</param>
+			<param type="select" id="tab_text_direction" text="" def="ltr" x="390" y="90" w="110" h="13">
+				<items>
+					<item id="ltr" label="Left-to-right"/>
+					<item id="ltr180" label="Left-to-right 180"/>
+					<item id="rtl" label="Right-to-left"/>
+					<item id="rtl180" label="Right-to-left 180"/>
+				</items>
+			</param>
+
+			<param type="check" id="inherit_color" text="Auto colors by border color" def="yes" x="270" y="110" w="240" h="13">
+				<events>
+					<event name="check" target="fs_tab_colors" action="hide"/>
+					<event name="uncheck" target="fs_tab_colors" action="show"/>
+				</events>
+			</param>
+
+			<param type="fieldset" id="fs_tab_colors">
+				<param type="label" id="lab_tab_bg_type" text="Fill" def="" x="270" y="128" w="120" h="13"/>
+				<param type="select" id="tab_bg_type" text="" def="solid" x="390" y="126" w="120" h="13">
+					<items>
+						<item id="solid" label="Solid">
+							<events>
+								<event name="selendok" target="fs_tab_gradient" action="hide"></event>
+								<event name="selendok" target="fs_tab_bg_img" action="hide"></event>
+							</events>
+						</item>
+						<item id="vertical" label="Vertical gradient">
+							<events>
+								<event name="selendok" target="fs_tab_gradient" action="show"></event>
+								<event name="selendok" target="fs_tab_bg_img" action="hide"></event>
+							</events>
+						</item>
+						<item id="horizontal" label="Horizontal gradient">
+							<events>
+								<event name="selendok" target="fs_tab_gradient" action="show"></event>
+								<event name="selendok" target="fs_tab_bg_img" action="hide"></event>
+							</events>
+						</item>
+						<item id="image" label="Background image">
+							<events>
+								<event name="selendok" target="fs_tab_gradient" action="hide"></event>
+								<event name="selendok" target="fs_tab_bg_img" action="show"></event>
+							</events>
+						</item>
+					</items>
+				</param>
+
+
+				<param type="label" id="lab_tab_idle" text="Normal" def="" x="390" y="144" w="60" h="13"/>
+				<param type="label" id="lab_tab_over" text="Mouse over" def="" x="450" y="144" w="60" h="13"/>
+
+				<param type="label" id="lab_tab_bordercolor" text="Border color" def="" x="270" y="158" w="120" h="13"/>
+				<param type="color" id="tab_bordercolor" text="" def="#FF9900" x="390" y="156" w="40" h="13"/>
+				<param type="color" id="tab_bordercolor_over" text="" def="#FF9900" x="450" y="156" w="40" h="13"/>
+
+				<param type="label" id="lab_tab_fontcolor" text="Font color" def="" x="270" y="174" w="120" h="13"/>
+				<param type="color" id="tab_fontcolor" text="" def="#FF9900" x="390" y="172" w="40" h="13"/>
+				<param type="color" id="tab_fontcolor_over" text="" def="#FF9900" x="450" y="172" w="40" h="13"/>
+
+
+				<param type="label" id="lab_tab_bgcolor" text="Fill color" def="" x="270" y="190" w="120" h="13"/>
+				<param type="color" id="tab_bgcolor" text="" def="#FFCC99" x="390" y="188" w="40" h="13"/>
+				<param type="color" id="tab_bgcolor_over" text="" def="#FFCC99" x="450" y="188" w="40" h="13"/>
+
+				<param type="fieldset" id="fs_tab_gradient">
+					<param type="label" id="lab_tab_gradientcolor" text="Gradient color" def="" x="270" y="206" w="120" h="13"/>
+					<param type="color" id="tab_gradientcolor" text="" def="#FF9900" x="390" y="204" w="40" h="13"/>
+					<param type="color" id="tab_gradientcolor_over" text="" def="#FF9900" x="450" y="204" w="40" h="13"/>
+				</param>
+				<param type="fieldset" id="fs_tab_bg_img">
+					<param type="label" id="lab_tab_bg_img" text="Background image" def="" x="270" y="206" w="120" h="13"/>
+					<param type="file" id="tab_bg_img" text="" def="" x="390" y="204" w="40" h="13" ext="Images (*.png;*.jpg;*.jpeg;*.gif)|*.png;*.jpg;*.jpeg;*.gif|PNG (*.png)|*.png|JPEG (*.jpg;*.jpeg)|*.jpg;*.jpeg|GIF (*.gif)|*.gif|All files (*.*)|*.*|||"/>
+					<param type="file" id="tab_bg_img_over" text="" def="" x="450" y="204" w="40" h="13" ext="Images (*.png;*.jpg;*.jpeg;*.gif)|*.png;*.jpg;*.jpeg;*.gif|PNG (*.png)|*.png|JPEG (*.jpg;*.jpeg)|*.jpg;*.jpeg|GIF (*.gif)|*.gif|All files (*.*)|*.*|||"/>
+					<param type="select" id="tab_bgimg_repeat" text="" def="repeat" x="270" y="220" w="118" h="13">
+						<items>
+							<item id="repeat" label="Both directions"/>
+							<item id="repeat-y" label="Vertical"/>
+							<item id="repeat-x" label="Horizontal"/>
+							<item id="no-repeat" label="No repeat"/>
+						</items>
+					</param>
+					<param type="select" id="tab_bgimg_position" text="" def="cm" x="390" y="220" w="120" h="13">
+						<items>
+							<item id="lt" label="Left top">
+								<events>
+									<event name="selendok" target="tab_bgimg_position_custom" action="disable"></event>
+								</events>
+							</item>
+							<item id="lm" label="Left middle">
+								<events>
+									<event name="selendok" target="tab_bgimg_position_custom" action="disable"></event>
+								</events>
+							</item>
+							<item id="lb" label="Left bottom">
+								<events>
+									<event name="selendok" target="tab_bgimg_position_custom" action="disable"></event>
+								</events>
+							</item>
+							<item id="ct" label="Top center">
+								<events>
+									<event name="selendok" target="tab_bgimg_position_custom" action="disable"></event>
+								</events>
+							</item>
+							<item id="cm" label="Middle center">
+								<events>
+									<event name="selendok" target="tab_bgimg_position_custom" action="disable"></event>
+								</events>
+							</item>
+							<item id="cb" label="Bottom center">
+								<events>
+									<event name="selendok" target="tab_bgimg_position_custom" action="disable"></event>
+								</events>
+							</item>
+							<item id="rt" label="Right top">
+								<events>
+									<event name="selendok" target="tab_bgimg_position_custom" action="disable"></event>
+								</events>
+							</item>
+							<item id="rm" label="Right middle">
+								<events>
+									<event name="selendok" target="tab_bgimg_position_custom" action="disable"></event>
+								</events>
+							</item>
+							<item id="rb" label="Right bottom">
+								<events>
+									<event name="selendok" target="tab_bgimg_position_custom" action="disable"></event>
+								</events>
+							</item>
+							<item id="custom" label="Custom">
+								<events>
+									<event name="selendok" target="tab_bgimg_position_custom" action="enable"></event>
+								</events>
+							</item>
+						</items>
+					</param>
+					<param type="edit" id="tab_bgimg_position_custom" text="" def="" x="390" y="236" w="120" h="13"/>
+				</param>
+			</param>
+
+		</param>
+
+    </page>
+	<page name="Styles" w="520" h="260">
+		<param type="line" id="line_v6" text="" def="" x="260" y="10" w="1" h="240"/>
+		<param type="label" id="lab_contenttype_style" text="Role" def="" x="10" y="10" w="120" h="13"/>
+		<param type="select" id="contenttype_style" text="" def="richtext" x="130" y="8" w="120" h="13">
+			<items>
+				<item id="richtext" label="Arbitrary text">
+					<events>
+						<event name="selendok" target="fs_style_none" action="show"/>
+						<event name="selendok" target="fs_basic_font" action="hide"/>
+						<event name="selendok" target="fs_style_contents" action="hide"/>
+						<event name="selendok" target="fs_style_search" action="hide"/>
+						<event name="selendok" target="fs_style_glossary" action="hide"/>
+						<event name="selendok" target="fs_style_settings" action="hide"/>
+					</events>
+				</item>
+				<item id="contents" label="Contents">
+					<events>
+						<event name="selendok" target="fs_style_none" action="hide"/>
+						<event name="selendok" target="fs_basic_font" action="show"/>
+						<event name="selendok" target="fs_style_contents" action="show"/>
+						<event name="selendok" target="fs_style_search" action="hide"/>
+						<event name="selendok" target="fs_style_glossary" action="hide"/>
+						<event name="selendok" target="fs_style_settings" action="hide"/>
+					</events>
+				</item>
+				<item id="search" label="Find">
+					<events>
+						<event name="selendok" target="fs_style_none" action="hide"/>
+						<event name="selendok" target="fs_basic_font" action="show"/>
+						<event name="selendok" target="fs_style_contents" action="hide"/>
+						<event name="selendok" target="fs_style_search" action="show"/>
+						<event name="selendok" target="fs_style_glossary" action="hide"/>
+						<event name="selendok" target="fs_style_settings" action="hide"/>
+					</events>
+				</item>
+				<item id="glossary" label="Glossary">
+					<events>
+						<event name="selendok" target="fs_style_none" action="hide"/>
+						<event name="selendok" target="fs_basic_font" action="show"/>
+						<event name="selendok" target="fs_style_contents" action="hide"/>
+						<event name="selendok" target="fs_style_search" action="hide"/>
+						<event name="selendok" target="fs_style_glossary" action="show"/>
+						<event name="selendok" target="fs_style_settings" action="hide"/>
+					</events>
+				</item>
+				<item id="documents" label="Documents">
+					<events>
+						<event name="selendok" target="fs_style_none" action="hide"/>
+						<event name="selendok" target="fs_basic_font" action="show"/>
+						<event name="selendok" target="fs_style_contents" action="hide"/>
+						<event name="selendok" target="fs_style_search" action="hide"/>
+						<event name="selendok" target="fs_style_glossary" action="hide"/>
+						<event name="selendok" target="fs_style_settings" action="hide"/>
+					</events>
+				</item>
+				<item id="settings" label="Settings">
+					<events>
+						<event name="selendok" target="fs_style_none" action="hide"/>
+						<event name="selendok" target="fs_basic_font" action="show"/>
+						<event name="selendok" target="fs_style_contents" action="hide"/>
+						<event name="selendok" target="fs_style_search" action="hide"/>
+						<event name="selendok" target="fs_style_glossary" action="hide"/>
+						<event name="selendok" target="fs_style_settings" action="show"/>
+					</events>
+				</item>
+				<item id="calculator" label="Calculator">
+					<events>
+						<event name="selendok" target="fs_style_none" action="show"/>
+						<event name="selendok" target="fs_style_contents" action="hide"/>
+						<event name="selendok" target="fs_style_search" action="hide"/>
+						<event name="selendok" target="fs_style_glossary" action="hide"/>
+						<event name="selendok" target="fs_style_settings" action="hide"/>
+					</events>
+				</item>
+				<item id="comment" label="Comment">
+					<events>
+						<event name="selendok" target="fs_style_none" action="show"/>
+						<event name="selendok" target="fs_basic_font" action="hide"/>
+						<event name="selendok" target="fs_style_contents" action="hide"/>
+						<event name="selendok" target="fs_style_search" action="hide"/>
+						<event name="selendok" target="fs_style_glossary" action="hide"/>
+						<event name="selendok" target="fs_style_settings" action="hide"/>
+					</events>
+				</item>
+			</items>
+		</param>
+		<param type="fieldset" id="fs_style_none">
+			<param type="label" id="lab_style_none" text="No parameters for selected role" x="10" y="26" w="240" h="13"/>
+		</param>
+		<param type="fieldset" id="fs_basic_font">
+			<param type="label" id="lab_basic_font" text="Font" x="10" y="24" w="120" h="13"/>
+			<param type="line" id="line_basic_font" text="" def="" x="8" y="34" w="244" h="40"/>
+			<param type="select" id="basic_font" text="" def="robotoregular" x="20" y="40" w="108" h="13">
+				<items>
+					<item id="Arial" label="Arial">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="ArialBlack" label="Arial Black">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="ArialNarrow" label="Arial Narrow">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="ComicSansMS" label="Comic Sans MS">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="CourierNew" label="Courier New">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="Georgia" label="Georgia">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="Impact" label="Impact">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="LucidaConsole" label="Lucida Console">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="LucidaSansUnicode" label="Lucida Sans Unicode">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="Palatino" label="Palatino">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="Tahoma" label="Tahoma">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="Times" label="Times New Roman">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="TrebuchetMS" label="Trebuchet MS">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="Verdana" label="Verdana">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="clear_sans_lightregular" label="WF Clear Sans Light">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="clear_sans_mediumregular" label="WF Clear Sans Medium">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="clear_sansregular" label="WF Clear Sans Regular">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="clear_sans_thinregular" label="WF Clear Sans Thin">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="droid_sans_monoregular" label="WF Droid Sans Mono">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="droid_sansregular" label="WF Droid Sans Regular">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="droid_serifregular" label="WF Droid Serif Regular">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="Fira_Mono" label="WF Fira Mono">
+						<events>
+							<event name="selendok" target="font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="Fira_Sans" label="WF Fira Sans">
+						<events>
+							<event name="selendok" target="font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="FiraSansLight" label="WF Fira Sans Light">
+						<events>
+							<event name="selendok" target="font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="FiraSansMedium" label="WF Fira Sans Medium">
+						<events>
+							<event name="selendok" target="font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="Fregat_Sans" label="WF Fregat Sans">
+						<events>
+							<event name="selendok" target="font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="Lato_Sans" label="WF Lato Sans">
+						<events>
+							<event name="selendok" target="font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="LatoSansLight" label="WF Lato Sans Light">
+						<events>
+							<event name="selendok" target="font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="nerisblack" label="WF Neris Black">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="nerislight" label="WF Neris Light">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="nerissemibold" label="WF Neris SemiBold">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="neristhin" label="WF Neris Thin">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="noto_sansregular" label="WF Noto Sans Regular">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="noto_serifregular" label="WF Noto Serif Regular">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="open_sanscondensed_light" label="WF Open Sans Condensed Light">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="open_sansextrabold" label="WF Open Sans Extra Bold">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="open_sanslight" label="WF Open Sans Light">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="open_sansregular" label="WF Open Sans Regular">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="open_sanssemibold" label="WF Open Sans SemiBold">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="permiansanstypefaceregular" label="WF Permian Sans Regular">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="permianseriftypefaceregular" label="WF Permian Serif Regular">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="permianslabseriftypefaceRg" label="WF Permian Slab Serif Regular">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="robotoblack" label="WF Roboto Black">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="roboto_condensedregular" label="WF Roboto Condensed">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="roboto_condensedlight" label="WF Roboto Condensed Light">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="robotolight" label="WF Roboto Light">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="robotomedium" label="WF Roboto Medium">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="robotoregular" label="WF Roboto Regular">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="robotothin" label="WF Roboto Thin">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="roboto_slablight" label="WF Roboto Slab Light">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="roboto_slabregular" label="WF Roboto Slab Regular">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="roboto_slabthin" label="WF Roboto Slab Thin">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="disable"/>
+						</events>
+					</item>
+					<item id="custom" label="Custom">
+						<events>
+							<event name="selendok" target="basic_font_custom" action="enable"/>
+						</events>
+					</item>
+				</items>
+			</param>
+			<param type="edit" id="basic_font_custom" text="" def="" x="130" y="40" w="110" h="13"/>
+			<param type="select" id="basic_font_style" text="" def="normal" x="20" y="56" w="108" h="13">
+				<items>
+					<item id="normal" label="Normal"/>
+					<item id="bold" label="Bold"/>
+					<item id="italic" label="Italic"/>
+					<item id="bolditalic" label="Bold italic"/>
+				</items>
+			</param>
+			<param type="spinner" id="basic_font_size" text="" def="14" x="130" y="56" w="28" h="13" min="4" max="99"/>
+			<param type="label" id="lab_basic_font_size_px" text="px" x="162" y="58" w="20" h="13"/>
+		</param>
+		<param type="fieldset" id="fs_style_contents">
+			<param type="label" id="lab_item_fill_header" text="Fill" x="130" y="76" w="120" h="13"/>
+			<param type="label" id="lab_item_font_header" text="Font" x="190" y="76" w="120" h="13"/>
+			<param type="label" id="lab_allowed" text="Transition enabled" x="10" y="92" w="120" h="13"/>
+			<param type="color" id="allowed_fill_color" text="" def="#FFFFFF" x="130" y="90" w="40" h="13"/>
+			<param type="color" id="allowed_font_color" text="" def="#004080" x="190" y="90" w="40" h="13"/>
+			<param type="label" id="lab_current" text="Current" x="10" y="108" w="120" h="13"/>
+			<param type="color" id="current_fill_color" text="" def="#EEEEEE" x="130" y="106" w="40" h="13"/>
+			<param type="color" id="current_font_color" text="" def="#000000" x="190" y="106" w="40" h="13"/>
+			<param type="label" id="lab_forbidden" text="Transition disabled" x="10" y="124" w="120" h="13"/>
+			<param type="color" id="forbidden_fill_color" text="" def="#FFFFFF" x="130" y="122" w="40" h="13"/>
+			<param type="color" id="forbidden_font_color" text="" def="#999999" x="190" y="122" w="40" h="13"/>
+			<param type="label" id="lab_item_padding" text="Element padding" def="" x="10" y="140" w="120" h="13"/>
+			<param type="spinner" id="item_padding" text="" def="5" x="130" y="138" w="32" h="13" min="0" max="99"/>
+			<param type="label" id="lab_item_padding_px" text="px" def="" x="165" y="138" w="50" h="13"/>
+		</param>
+		<param type="fieldset" id="fs_style_search">
+			<param type="label" id="lab_search_field" text="Search field" def="" x="10" y="76" w="120" h="13"/>
+			<param type="line" id="line_sf" text="" def="" x="6" y="86" w="248" h="1"/>
+
+			<param type="label" id="lab_search_input_border" text="Border" x="10" y="94" w="120" h="13"/>
+			<param type="line" id="line_search_input_border" text="" def="" x="8" y="104" w="244" h="40"/>
+			<param type="select" id="search_input_border_style" text="" def="solid" x="20" y="110" w="108" h="13">
+				<items>
+					<item id="none" label="None">
+						<events>
+							<event name="selendok" target="search_input_border_color" action="disable"/>
+							<event name="selendok" target="search_input_border_width" action="disable"/>
+							<event name="selendok" target="lab_search_input_border_width_px" action="disable"/>
+						</events>
+					</item>
+					<item id="solid" label="Solid">
+						<events>
+							<event name="selendok" target="search_input_border_color" action="enable"/>
+							<event name="selendok" target="search_input_border_width" action="enable"/>
+							<event name="selendok" target="lab_search_input_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="dotted" label="Dotted">
+						<events>
+							<event name="selendok" target="search_input_border_color" action="enable"/>
+							<event name="selendok" target="search_input_border_width" action="enable"/>
+							<event name="selendok" target="lab_search_input_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="dashed" label="Dashed">
+						<events>
+							<event name="selendok" target="search_input_border_color" action="enable"/>
+							<event name="selendok" target="search_input_border_width" action="enable"/>
+							<event name="selendok" target="lab_search_input_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="double" label="Double">
+						<events>
+							<event name="selendok" target="search_input_border_color" action="enable"/>
+							<event name="selendok" target="search_input_border_width" action="enable"/>
+							<event name="selendok" target="lab_search_input_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="ridge" label="Ridge">
+						<events>
+							<event name="selendok" target="search_input_border_color" action="enable"/>
+							<event name="selendok" target="search_input_border_width" action="enable"/>
+							<event name="selendok" target="lab_search_input_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="groove" label="Groove">
+						<events>
+							<event name="selendok" target="search_input_border_color" action="enable"/>
+							<event name="selendok" target="search_input_border_width" action="enable"/>
+							<event name="selendok" target="lab_search_input_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="inset" label="Inset">
+						<events>
+							<event name="selendok" target="search_input_border_color" action="enable"/>
+							<event name="selendok" target="search_input_border_width" action="enable"/>
+							<event name="selendok" target="lab_search_input_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="outset" label="Outset">
+						<events>
+							<event name="selendok" target="search_input_border_color" action="enable"/>
+							<event name="selendok" target="search_input_border_width" action="enable"/>
+							<event name="selendok" target="lab_search_input_border_width_px" action="enable"/>
+						</events>
+					</item>
+				</items>
+			</param>
+			<param type="color" id="search_input_border_color" text="" def="#0080C0" x="130" y="110" w="40" h="13"/>
+			<param type="spinner" id="search_input_border_width" text="" def="1" x="190" y="110" w="28" h="13" min="0" max="49"/>
+			<param type="label" id="lab_search_input_border_width_px" text="px" x="222" y="112" w="20" h="13"/>
+			<param type="label" id="lab_search_input_border_radius" text="Radius" x="20" y="128" w="110" h="13"/>
+			<param type="spinner" id="search_input_border_radius" text="" def="5" x="130" y="126" w="28" h="13" min="0" max="49"/>
+			<param type="label" id="lab_search_input_border_radius_px" text="px" x="165" y="126" w="30" h="13"/>
+
+			<param type="label" id="lab_search_input_bg_color" text="Fill color" def="" x="10" y="148" w="120" h="13"/>
+			<param type="color" id="search_input_bg_color" text="" def="#FFFFFF" x="130" y="146" w="40" h="13"/>
+			<param type="label" id="lab_search_input_font_color" text="Font color" def="" x="10" y="164" w="120" h="13"/>
+			<param type="color" id="search_input_font_color" text="" def="#004080" x="130" y="162" w="40" h="13"/>
+
+			<param type="label" id="lab_search_res" text="Results" def="" x="10" y="186" w="120" h="13"/>
+			<param type="line" id="line_sres" text="" def="" x="6" y="196" w="248" h="1"/>
+			<param type="label" id="lab_highlight" text="Highlight" def="" x="10" y="206" w="120" h="13"/>
+			<param type="color" id="highlight_bg_color" text="" def="#FFEE99" x="130" y="204" w="40" h="13"/>
+			<param type="color" id="highlight_font_color" text="" def="#CC0000" x="190" y="204" w="40" h="13"/>
+
+			<param type="label" id="lab_search_button" text="Button" def="" x="270" y="10" w="178" h="13"/>
+			<param type="line" id="line_sb" text="" def="" x="268" y="20" w="244" h="1"/>
+			<param type="label" id="lab_search_button_bg_color" text="Fill color" def="" x="270" y="26" w="120" h="13"/>
+			<param type="color" id="search_button_bg_color" text="" def="#0080C0" x="390" y="24" w="40" h="13"/>
+			<param type="label" id="lab_search_button_font_color" text="Font color" def="" x="270" y="42" w="120" h="13"/>
+			<param type="color" id="search_button_font_color" text="" def="#FFFFFF" x="390" y="40" w="40" h="13"/>
+
+			<param type="label" id="lab_search_button_border" text="Border" x="270" y="58" w="120" h="13"/>
+			<param type="line" id="line_search_button_border" text="" def="" x="268" y="68" w="244" h="40"/>
+			<param type="select" id="search_button_border_style" text="" def="solid" x="280" y="74" w="108" h="13">
+				<items>
+					<item id="none" label="None">
+						<events>
+							<event name="selendok" target="search_button_border_color" action="disable"/>
+							<event name="selendok" target="search_button_border_width" action="disable"/>
+							<event name="selendok" target="lab_search_button_border_width_px" action="disable"/>
+						</events>
+					</item>
+					<item id="solid" label="Solid">
+						<events>
+							<event name="selendok" target="search_button_border_color" action="enable"/>
+							<event name="selendok" target="search_button_border_width" action="enable"/>
+							<event name="selendok" target="lab_search_button_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="dotted" label="Dotted">
+						<events>
+							<event name="selendok" target="search_button_border_color" action="enable"/>
+							<event name="selendok" target="search_button_border_width" action="enable"/>
+							<event name="selendok" target="lab_search_button_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="dashed" label="Dashed">
+						<events>
+							<event name="selendok" target="search_button_border_color" action="enable"/>
+							<event name="selendok" target="search_button_border_width" action="enable"/>
+							<event name="selendok" target="lab_search_button_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="double" label="Double">
+						<events>
+							<event name="selendok" target="search_button_border_color" action="enable"/>
+							<event name="selendok" target="search_button_border_width" action="enable"/>
+							<event name="selendok" target="lab_search_button_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="ridge" label="Ridge">
+						<events>
+							<event name="selendok" target="search_button_border_color" action="enable"/>
+							<event name="selendok" target="search_button_border_width" action="enable"/>
+							<event name="selendok" target="lab_search_button_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="groove" label="Groove">
+						<events>
+							<event name="selendok" target="search_button_border_color" action="enable"/>
+							<event name="selendok" target="search_button_border_width" action="enable"/>
+							<event name="selendok" target="lab_search_button_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="inset" label="Inset">
+						<events>
+							<event name="selendok" target="search_button_border_color" action="enable"/>
+							<event name="selendok" target="search_button_border_width" action="enable"/>
+							<event name="selendok" target="lab_search_button_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="outset" label="Outset">
+						<events>
+							<event name="selendok" target="search_button_border_color" action="enable"/>
+							<event name="selendok" target="search_button_border_width" action="enable"/>
+							<event name="selendok" target="lab_search_button_border_width_px" action="enable"/>
+						</events>
+					</item>
+				</items>
+			</param>
+			<param type="color" id="search_button_border_color" text="" def="#0080C0" x="390" y="74" w="40" h="13"/>
+			<param type="spinner" id="search_button_border_width" text="" def="1" x="450" y="74" w="28" h="13" min="0" max="49"/>
+			<param type="label" id="lab_search_button_border_width_px" text="px" x="482" y="76" w="20" h="13"/>
+			<param type="label" id="lab_search_button_border_radius" text="Radius" x="280" y="92" w="110" h="13"/>
+			<param type="spinner" id="search_button_border_radius" text="" def="5" x="390" y="90" w="28" h="13" min="0" max="49"/>
+			<param type="label" id="lab_search_button_border_radius_px" text="px" x="425" y="92" w="30" h="13"/>
+		</param>
+		<param type="fieldset" id="fs_style_glossary">
+
+			<param type="label" id="lab_gloss_border" text="Border" x="10" y="76" w="120" h="13"/>
+			<param type="line" id="line_gloss_border" text="" def="" x="8" y="86" w="244" h="40"/>
+			<param type="select" id="gloss_border_style" text="" def="solid" x="20" y="92" w="108" h="13">
+				<items>
+					<item id="none" label="None">
+						<events>
+							<event name="selendok" target="gloss_border_color" action="disable"/>
+							<event name="selendok" target="gloss_border_width" action="disable"/>
+							<event name="selendok" target="lab_gloss_border_width_px" action="disable"/>
+						</events>
+					</item>
+					<item id="solid" label="Solid">
+						<events>
+							<event name="selendok" target="gloss_border_color" action="enable"/>
+							<event name="selendok" target="gloss_border_width" action="enable"/>
+							<event name="selendok" target="lab_gloss_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="dotted" label="Dotted">
+						<events>
+							<event name="selendok" target="gloss_border_color" action="enable"/>
+							<event name="selendok" target="gloss_border_width" action="enable"/>
+							<event name="selendok" target="lab_gloss_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="dashed" label="Dashed">
+						<events>
+							<event name="selendok" target="gloss_border_color" action="enable"/>
+							<event name="selendok" target="gloss_border_width" action="enable"/>
+							<event name="selendok" target="lab_gloss_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="double" label="Double">
+						<events>
+							<event name="selendok" target="gloss_border_color" action="enable"/>
+							<event name="selendok" target="gloss_border_width" action="enable"/>
+							<event name="selendok" target="lab_gloss_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="ridge" label="Ridge">
+						<events>
+							<event name="selendok" target="gloss_border_color" action="enable"/>
+							<event name="selendok" target="gloss_border_width" action="enable"/>
+							<event name="selendok" target="lab_gloss_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="groove" label="Groove">
+						<events>
+							<event name="selendok" target="gloss_border_color" action="enable"/>
+							<event name="selendok" target="gloss_border_width" action="enable"/>
+							<event name="selendok" target="lab_gloss_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="inset" label="Inset">
+						<events>
+							<event name="selendok" target="gloss_border_color" action="enable"/>
+							<event name="selendok" target="gloss_border_width" action="enable"/>
+							<event name="selendok" target="lab_gloss_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="outset" label="Outset">
+						<events>
+							<event name="selendok" target="gloss_border_color" action="enable"/>
+							<event name="selendok" target="gloss_border_width" action="enable"/>
+							<event name="selendok" target="lab_gloss_border_width_px" action="enable"/>
+						</events>
+					</item>
+				</items>
+			</param>
+			<param type="spinner" id="gloss_border_width" text="" def="1" x="130" y="92" w="28" h="13" min="0" max="49"/>
+			<param type="label" id="lab_gloss_border_width_px" text="px" x="162" y="94" w="20" h="13"/>
+			<param type="label" id="lab_gloss_border_radius" text="Radius" x="20" y="110" w="110" h="13"/>
+			<param type="spinner" id="gloss_border_radius" text="" def="5" x="130" y="108" w="28" h="13" min="0" max="49"/>
+			<param type="label" id="lab_gloss_border_radius_px" text="px" x="165" y="110" w="30" h="13"/>
+
+			<param type="label" id="lab_gloss_padding" text="Element padding" def="" x="10" y="134" w="120" h="13"/>
+			<param type="spinner" id="gloss_padding" text="" def="5" x="130" y="132" w="32" h="13" min="0" max="99"/>
+			<param type="label" id="lab_gloss_padding_px" text="px" def="" x="165" y="134" w="50" h="13"/>
+
+			<param type="label" id="lab_glossary_fill_type" text="Fill type" def="" x="270" y="10" w="120" h="13"/>
+			<param type="select" id="gloss_fill_type" text="" def="solid" x="390" y="8" w="120" h="13">
+				<items>
+					<item id="none" label="Transparent">
+						<events>
+							<event name="selendok" target="fs_gloss_gradient" action="disable"/>
+							<event name="selendok" target="fs_gloss_img" action="disable"/>
+						</events>
+					</item>
+					<item id="solid" label="Solid">
+						<events>
+							<event name="selendok" target="fs_gloss_gradient" action="disable"/>
+							<event name="selendok" target="fs_gloss_img" action="disable"/>
+						</events>
+					</item>
+					<item id="grad_v" label="Vertical gradient">
+						<events>
+							<event name="selendok" target="fs_gloss_gradient" action="enable"/>
+							<event name="selendok" target="fs_gloss_img" action="disable"/>
+						</events>
+					</item>
+					<item id="grad_h" label="Horizontal gradient">
+						<events>
+							<event name="selendok" target="fs_gloss_gradient" action="enable"/>
+							<event name="selendok" target="fs_gloss_img" action="disable"/>
+						</events>
+					</item>
+					<item id="image" label="Image">
+						<events>
+							<event name="selendok" target="fs_gloss_gradient" action="disable"/>
+							<event name="selendok" target="fs_gloss_img" action="enable"/>
+						</events>
+					</item>
+				</items>
+			</param>
+
+			<param type="label" id="lab_gloss_idle" text="Normal" x="390" y="26" w="60" h="13"/>
+			<param type="label" id="lab_gloss_selected" text="Selected" x="450" y="26" w="60" h="13"/>
+			<param type="label" id="lab_gloss_font_color" text="Font color" def="" x="270" y="42" w="120" h="13"/>
+			<param type="color" id="gloss_font_color_idle" text="" def="#000000" x="390" y="40" w="40" h="13"/>
+			<param type="color" id="gloss_font_color_selected" text="" def="#FFFFFF" x="450" y="40" w="40" h="13"/>
+			<param type="label" id="lab_gloss_border_color" text="Border color" def="" x="270" y="58" w="120" h="13"/>
+			<param type="color" id="gloss_border_color_idle" text="" def="#000000" x="390" y="56" w="40" h="13"/>
+			<param type="color" id="gloss_border_color_selected" text="" def="#FFFFFF" x="450" y="56" w="40" h="13"/>
+			<param type="label" id="lab_gloss_bg_color" text="Fill color" def="" x="270" y="74" w="120" h="13"/>
+			<param type="color" id="gloss_bg_color_idle" text="" def="#EEEEEE" x="390" y="72" w="40" h="13"/>
+			<param type="color" id="gloss_bg_color_selected" text="" def="#336699" x="450" y="72" w="40" h="13"/>
+
+			<param type="fieldset" id="fs_gloss_gradient">
+				<param type="label" id="lab_gloss_gradient_color" text="Gradient color" def="" x="270" y="90" w="120" h="13"/>
+				<param type="color" id="gloss_gradient_color_idle" text="" def="#FFFFFF" x="390" y="88" w="40" h="13"/>
+				<param type="color" id="gloss_gradient_color_selected" text="" def="#6699CC" x="450" y="88" w="40" h="13"/>
+			</param>
+			<param type="fieldset" id="fs_gloss_img">
+				<param type="label" id="lab_gloss_img" text="Background image" def="" x="270" y="106" w="120" h="13"/>
+				<param type="file" id="gloss_img_idle" text="" def="" x="390" y="104" w="40" h="13" ext="Images (*.png;*.jpg;*.jpeg;*.gif)|*.png;*.jpg;*.jpeg;*.gif|PNG (*.png)|*.png|JPEG (*.jpg;*.jpeg)|*.jpg;*.jpeg|GIF (*.gif)|*.gif|All files (*.*)|*.*|||"/>
+				<param type="file" id="gloss_img_selected" text="" def="" x="450" y="104" w="40" h="13" ext="Images (*.png;*.jpg;*.jpeg;*.gif)|*.png;*.jpg;*.jpeg;*.gif|PNG (*.png)|*.png|JPEG (*.jpg;*.jpeg)|*.jpg;*.jpeg|GIF (*.gif)|*.gif|All files (*.*)|*.*|||"/>
+				<param type="select" id="gloss_img_repeat" text="" def="repeat" x="270" y="120" w="118" h="13">
+					<items>
+						<item id="repeat" label="Both directions"/>
+						<item id="repeat-y" label="Vertical"/>
+						<item id="repeat-x" label="Horizontal"/>
+						<item id="no-repeat" label="No repeat"/>
+					</items>
+				</param>
+				<param type="select" id="gloss_img_position" text="" def="cm" x="390" y="120" w="120" h="13">
+					<items>
+						<item id="lt" label="Left top">
+							<events>
+								<event name="selendok" target="gloss_img_position_custom" action="disable"></event>
+							</events>
+						</item>
+						<item id="lm" label="Left middle">
+							<events>
+								<event name="selendok" target="gloss_img_position_custom" action="disable"></event>
+							</events>
+						</item>
+						<item id="lb" label="Left bottom">
+							<events>
+								<event name="selendok" target="gloss_img_position_custom" action="disable"></event>
+							</events>
+						</item>
+						<item id="ct" label="Top center">
+							<events>
+								<event name="selendok" target="gloss_img_position_custom" action="disable"></event>
+							</events>
+						</item>
+						<item id="cm" label="Middle center">
+							<events>
+								<event name="selendok" target="gloss_img_position_custom" action="disable"></event>
+							</events>
+						</item>
+						<item id="cb" label="Bottom center">
+							<events>
+								<event name="selendok" target="gloss_img_position_custom" action="disable"></event>
+							</events>
+						</item>
+						<item id="rt" label="Right top">
+							<events>
+								<event name="selendok" target="gloss_img_position_custom" action="disable"></event>
+							</events>
+						</item>
+						<item id="rm" label="Right middle">
+							<events>
+								<event name="selendok" target="gloss_img_position_custom" action="disable"></event>
+							</events>
+						</item>
+						<item id="rb" label="Right bottom">
+							<events>
+								<event name="selendok" target="gloss_img_position_custom" action="disable"></event>
+							</events>
+						</item>
+						<item id="custom" label="Custom">
+							<events>
+								<event name="selendok" target="gloss_img_position_custom" action="enable"></event>
+							</events>
+						</item>
+					</items>
+				</param>
+				<param type="edit" id="gloss_img_position_custom" text="" def="" x="390" y="136" w="120" h="13"/>
+			</param>
+		</param>
+
+
+		<param type="fieldset" id="fs_style_settings">
+
+			<param type="label" id="lab_sett_border" text="Border" x="10" y="76" w="120" h="13"/>
+			<param type="line" id="line_sett_border" text="" def="" x="8" y="86" w="244" h="40"/>
+			<param type="select" id="sett_border_style" text="" def="solid" x="20" y="92" w="108" h="13">
+				<items>
+					<item id="none" label="None">
+						<events>
+							<event name="selendok" target="sett_border_color" action="disable"/>
+							<event name="selendok" target="sett_border_width" action="disable"/>
+							<event name="selendok" target="lab_sett_border_width_px" action="disable"/>
+						</events>
+					</item>
+					<item id="solid" label="Solid">
+						<events>
+							<event name="selendok" target="sett_border_color" action="enable"/>
+							<event name="selendok" target="sett_border_width" action="enable"/>
+							<event name="selendok" target="lab_sett_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="dotted" label="Dotted">
+						<events>
+							<event name="selendok" target="sett_border_color" action="enable"/>
+							<event name="selendok" target="sett_border_width" action="enable"/>
+							<event name="selendok" target="lab_sett_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="dashed" label="Dashed">
+						<events>
+							<event name="selendok" target="sett_border_color" action="enable"/>
+							<event name="selendok" target="sett_border_width" action="enable"/>
+							<event name="selendok" target="lab_sett_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="double" label="Double">
+						<events>
+							<event name="selendok" target="sett_border_color" action="enable"/>
+							<event name="selendok" target="sett_border_width" action="enable"/>
+							<event name="selendok" target="lab_sett_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="ridge" label="Ridge">
+						<events>
+							<event name="selendok" target="sett_border_color" action="enable"/>
+							<event name="selendok" target="sett_border_width" action="enable"/>
+							<event name="selendok" target="lab_sett_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="groove" label="Groove">
+						<events>
+							<event name="selendok" target="sett_border_color" action="enable"/>
+							<event name="selendok" target="sett_border_width" action="enable"/>
+							<event name="selendok" target="lab_sett_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="inset" label="Inset">
+						<events>
+							<event name="selendok" target="sett_border_color" action="enable"/>
+							<event name="selendok" target="sett_border_width" action="enable"/>
+							<event name="selendok" target="lab_sett_border_width_px" action="enable"/>
+						</events>
+					</item>
+					<item id="outset" label="Outset">
+						<events>
+							<event name="selendok" target="sett_border_color" action="enable"/>
+							<event name="selendok" target="sett_border_width" action="enable"/>
+							<event name="selendok" target="lab_sett_border_width_px" action="enable"/>
+						</events>
+					</item>
+				</items>
+			</param>
+			<param type="spinner" id="sett_border_width" text="" def="1" x="130" y="92" w="28" h="13" min="0" max="49"/>
+			<param type="label" id="lab_sett_border_width_px" text="px" x="162" y="94" w="20" h="13"/>
+			<param type="color" id="sett_border_color" text="" def="#CCCCCC" x="130" y="108" w="40" h="13"/>
+
+			<param type="label" id="lab_sett_padding" text="Element padding" def="" x="10" y="134" w="120" h="13"/>
+			<param type="spinner" id="sett_padding" text="" def="5" x="130" y="132" w="32" h="13" min="0" max="99"/>
+			<param type="label" id="lab_sett_padding_px" text="px" def="" x="165" y="134" w="50" h="13"/>
+		</param>
+	</page>
+	<page name="Text" w="520" h="260">
+
+		<param type="line" id="line_v3" text="" def="" x="260" y="10" w="1" h="240"/>
+
+		<param type="label" id="lab_content_const" text="Role" def="" x="10" y="10" w="120" h="13"/>
+		<param type="select" id="content_const" text="" def="search" x="130" y="8" w="120" h="13">
+			<items>
+				<item id="richtext" label="Arbitrary text">
+					<events>
+						<event name="selendok" target="fs_const_none" action="show"/>
+						<event name="selendok" target="fs_const_contents" action="hide"/>
+						<event name="selendok" target="fs_const_search" action="hide"/>
+						<event name="selendok" target="fs_const_settings" action="hide"/>
+					</events>
+				</item>
+				<item id="contents" label="Contents">
+					<events>
+						<event name="selendok" target="fs_const_none" action="show"/>
+						<event name="selendok" target="fs_const_contents" action="show"/>
+						<event name="selendok" target="fs_const_search" action="hide"/>
+						<event name="selendok" target="fs_const_settings" action="hide"/>
+					</events>
+				</item>
+				<item id="search" label="Find">
+					<events>
+						<event name="selendok" target="fs_const_none" action="hide"/>
+						<event name="selendok" target="fs_const_contents" action="hide"/>
+						<event name="selendok" target="fs_const_search" action="show"/>
+						<event name="selendok" target="fs_const_settings" action="hide"/>
+					</events>
+				</item>
+				<item id="glossary" label="Glossary">
+					<events>
+						<event name="selendok" target="fs_const_none" action="hide"/>
+						<event name="selendok" target="fs_const_contents" action="hide"/>
+						<event name="selendok" target="fs_const_search" action="hide"/>
+						<event name="selendok" target="fs_const_settings" action="hide"/>
+					</events>
+				</item>
+				<item id="documents" label="Documents">
+					<events>
+						<event name="selendok" target="fs_const_none" action="show"/>
+						<event name="selendok" target="fs_const_contents" action="hide"/>
+						<event name="selendok" target="fs_const_search" action="hide"/>
+						<event name="selendok" target="fs_const_settings" action="hide"/>
+					</events>
+				</item>
+				<item id="settings" label="Settings">
+					<events>
+						<event name="selendok" target="fs_const_none" action="hide"/>
+						<event name="selendok" target="fs_const_contents" action="hide"/>
+						<event name="selendok" target="fs_const_search" action="hide"/>
+						<event name="selendok" target="fs_const_settings" action="show"/>
+					</events>
+				</item>
+				<item id="calculator" label="Calculator">
+					<events>
+						<event name="selendok" target="fs_const_none" action="show"/>
+						<event name="selendok" target="fs_const_contents" action="hide"/>
+						<event name="selendok" target="fs_const_search" action="hide"/>
+						<event name="selendok" target="fs_const_settings" action="hide"/>
+					</events>
+				</item>
+				<item id="comment" label="Comment">
+					<events>
+						<event name="selendok" target="fs_const_none" action="show"/>
+						<event name="selendok" target="fs_const_contents" action="hide"/>
+						<event name="selendok" target="fs_const_search" action="hide"/>
+						<event name="selendok" target="fs_const_settings" action="hide"/>
+					</events>
+				</item>
+			</items>
+		</param>
+		<param type="fieldset" id="fs_const_none">
+			<param type="label" id="lab_const_none" text="No parameters for selected role" x="10" y="26" w="240" h="13"/>
+		</param>
+		<param type="fieldset" id="fs_const_contents">
+			<param type="label" id="lab_msg_order_violation" text="Strict slide order message" def="" x="10" y="26" w="120" h="13"/>
+			<param type="edit" id="msg_order_violation" text="" def="You cannot jump to this slide until you visit previous slides" x="130" y="24" w="120" h="13"/>
+		</param>
+		<param type="fieldset" id="fs_const_search">
+			<param type="label" id="lab_search_text_button" text="Button text" def="" x="10" y="26" w="120" h="13"/>
+			<param type="edit" id="search_text_button" text="" def="Search" x="130" y="24" w="120" h="13"/>
+			<param type="label" id="lab_search_text_button" text="Search logic" def="" x="10" y="42" w="120" h="13"/>
+			<param type="edit" id="search_text_logic" text="" def="Search inclusion:" x="130" y="40" w="120" h="13"/>
+			<param type="label" id="lab_search_text_OR" text="Any word" def="" x="10" y="58" w="120" h="13"/>
+			<param type="edit" id="search_text_OR" text="" def="Any word" x="130" y="56" w="120" h="13"/>
+			<param type="label" id="lab_search_text_AND" text="All words" def="" x="10" y="74" w="120" h="13"/>
+			<param type="edit" id="search_text_AND" text="" def="All words" x="130" y="72" w="120" h="13"/>
+			<param type="label" id="lab_search_text_case" text="Case sensitive" def="" x="10" y="90" w="120" h="13"/>
+			<param type="edit" id="search_text_case" text="" def="Case:" x="130" y="88" w="120" h="13"/>
+			<param type="label" id="lab_search_text_case_no" text="Insensitive" def="" x="10" y="106" w="120" h="13"/>
+			<param type="edit" id="search_text_case_no" text="" def="insensitive" x="130" y="104" w="120" h="13"/>
+			<param type="label" id="lab_search_text_case_yes" text="Sensitive" def="" x="10" y="122" w="120" h="13"/>
+			<param type="edit" id="search_text_case_yes" text="" def="sensitive" x="130" y="120" w="120" h="13"/>
+			<param type="label" id="lab_search_text_found" text="Found" def="" x="10" y="138" w="120" h="13"/>
+			<param type="edit" id="search_text_found" text="" def="Slides found:" x="130" y="136" w="120" h="13"/>
+			<param type="label" id="lab_search_text_notfound" text="No results" def="" x="10" y="154" w="120" h="13"/>
+			<param type="edit" id="search_text_notfound" text="" def="No results found" x="130" y="152" w="120" h="13"/>
+		</param>
+		<param type="fieldset" id="fs_const_settings">
+
+			<param type="label" id="lab_search_constants" text="Column headers" def="" x="130" y="26" w="120" h="13"/>
+			<param type="line" id="line_031" text="" def="" x="10" y="36" w="240" h="1"/>
+			<param type="label" id="lab_obj_header" text="Objectives" def="" x="10" y="42" w="120" h="13"/>
+			<param type="edit" id="obj_header" text="" def="Objective" x="130" y="40" w="120" h="13"/>
+			<param type="label" id="lab_obj_score" text="Score" def="" x="10" y="58" w="120" h="13"/>
+			<param type="edit" id="obj_score" text="" def="Score" x="130" y="56" w="120" h="13"/>
+			<param type="label" id="lab_obj_cs" text="Completion status" def="" x="10" y="74" w="120" h="13"/>
+			<param type="edit" id="obj_cs" text="" def="Compl." x="130" y="72" w="120" h="13"/>
+			<param type="label" id="lab_obj_ss" text="Success status" def="" x="10" y="90" w="120" h="13"/>
+			<param type="edit" id="obj_ss" text="" def="Succ." x="130" y="88" w="120" h="13"/>
+
+			<param type="label" text="Status tooltips" x="130" y="106" w="120" h="13"/>
+			<param type="line" id="line_032" x="10" y="116" w="240" h="1"/>
+			<param type="label" id="lab_status_n" text="Not attempted" def="" x="10" y="122" w="120" h="13"/>
+			<param type="edit" id="status_n" text="" def="Not attempted" x="130" y="120" w="120" h="13"/>
+			<param type="label" id="lab_status_i" text="Incomplete" def="" x="10" y="138" w="120" h="13"/>
+			<param type="edit" id="status_i" text="" def="Incomplete" x="130" y="136" w="120" h="13"/>
+			<param type="label" id="lab_status_c" text="Completed" def="" x="10" y="154" w="120" h="13"/>
+			<param type="edit" id="status_c" text="" def="Completed" x="130" y="152" w="120" h="13"/>
+			<param type="label" id="lab_status_u" text="Unknown" def="" x="10" y="170" w="120" h="13"/>
+			<param type="edit" id="status_u" text="" def="Unknown" x="130" y="168" w="120" h="13"/>
+			<param type="label" id="lab_status_p" text="Passed" def="" x="10" y="186" w="120" h="13"/>
+			<param type="edit" id="status_p" text="" def="Passed" x="130" y="184" w="120" h="13"/>
+			<param type="label" id="lab_status_f" text="Failed" def="" x="10" y="202" w="120" h="13"/>
+			<param type="edit" id="status_f" text="" def="Failed" x="130" y="200" w="120" h="13"/>
+		</param>
+	</page>
+    <page name="Sound" w="520" h="260">
+
+		<param type="line" id="LINE_snd_1" text="" def="" x="5" y="8" w="310" h="48"/>
+		<param type="line" id="LINE_snd_2" text="" def="" x="5" y="24" w="310" h="32"/>
+		<param type="label" id="lab_snd_click" text="Mouse click" def="" x="15" y="12" w="120" h="11"/>
+		<param type="select" id="sound_click" text="" def="none" x="15" y="34" w="113" h="13">
+			<items>
+				<item id="none" label="No sound">
+					<events>
+						<event name="selendok" target="sound_click_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="click1" label="Standard 1">
+					<events>
+						<event name="selendok" target="sound_click_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="click2" label="Standard 2">
+					<events>
+						<event name="selendok" target="sound_click_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="click3" label="Standard 3">
+					<events>
+						<event name="selendok" target="sound_click_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="click4" label="Standard 4">
+					<events>
+						<event name="selendok" target="sound_click_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="custom" label="Custom">
+					<events>
+						<event name="selendok" target="sound_click_file_custom" action="enable"/>
+					</events>
+				</item>
+			</items>
+		</param>
+		<param type="file" id="sound_click_file_custom" text="" def="" x="130" y="34" w="158" h="13" ext="Sound files(*.mp3;*.ogg;*.oga;*.webm;*.wav;*.swf)|*.mp3;*.ogg;*.oga;*.webm;*.wav;*.swf|MP3 (*.mp3)|*.mp3|OGG (*.oga;*.ogg)|*.ogg;*.oga;|WebM (*.webm)|*.webm|WAV (*.wav)|*.wav|All files (*.*)|*.*|||"/>
+
+		<param type="line" id="LINE_snd_3" text="" def="" x="5" y="62" w="310" h="48"/>
+		<param type="line" id="LINE_snd_4" text="" def="" x="5" y="78" w="310" h="32"/>
+		<param type="label" id="lab_snd_over" text="Mouse over" def="" x="15" y="66" w="120" h="11"/>
+		<param type="select" id="sound_over" text="" def="none" x="15" y="88" w="113" h="13">
+			<items>
+				<item id="none" label="No sound">
+					<events>
+						<event name="selendok" target="sound_over_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="over1" label="Standard 1">
+					<events>
+						<event name="selendok" target="sound_over_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="over2" label="Standard 2">
+					<events>
+						<event name="selendok" target="sound_over_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="over3" label="Standard 3">
+					<events>
+						<event name="selendok" target="sound_over_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="over4" label="Standard 4">
+					<events>
+						<event name="selendok" target="sound_over_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="custom" label="Custom">
+					<events>
+						<event name="selendok" target="sound_over_file_custom" action="enable"/>
+					</events>
+				</item>
+			</items>
+		</param>
+		<param type="file" id="sound_over_file_custom" text="" def="" x="130" y="88" w="158" h="13" ext="Sound files(*.mp3;*.ogg;*.oga;*.webm;*.wav;*.swf)|*.mp3;*.ogg;*.oga;*.webm;*.wav;*.swf|MP3 (*.mp3)|*.mp3|OGG (*.oga;*.ogg)|*.ogg;*.oga;|WebM (*.webm)|*.webm|WAV (*.wav)|*.wav|All files (*.*)|*.*|||"/>
+    </page>
+	<methods>
+		<method name="Constructor" label="_Constructor" access="private">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function Constructor(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurDiv = $(oCurObj.div);
+				var jContainer = jCurDiv.find(".cl-container");
+				var iFullH = jContainer.find(".cl-body")[0].offsetHeight;
+				var iPadding = +oCurObj.jxParams.children("panel_padding").text();
+				var jHeader = jContainer.find(".cl-body-header");
+				jContainer.find(".cl-body-contents").css({ "height": ((jHeader.length!=0) ? (iFullH - jHeader[0].offsetHeight - 3*iPadding) : (iFullH - 2*iPadding)) + "px" });
+				oCurObj.initial.nZ = 5000;
+				oCurObj.initial.sClip = jContainer.attr("data-clip-tab");
+				jCurDiv.css({ "z-index": 5000, "clip": oCurObj.initial.sClip });
+				var sTabPosition = oCurObj.jxParams.children("tab_position").text();
+				var iDiff = parseFloat(jContainer.attr("data-distance"));
+				oCurObj.data =
+				{
+					bModal: (oCurObj.jxParams.children("modal").text()=="yes"),
+					bNaviStrict: (oCurObj.jxParams.children("nav_lock").text()=="yes"),
+					bNaviLockedByAction: false,
+					bSearchTip: (oCurObj.jxParams.children("search_tip").text()=="yes"),
+					iDiff: iDiff,
+					sSlideId: "",
+					sTabPosition: sTabPosition,
+					sClipOpen: "rect(auto,auto,auto,auto)",
+					sRole: oCurObj.jxParams.children("contenttype").text(),
+					sState: "enabled",
+					sPosition: "closed",
+					bCustomTab: (oCurObj.jxParams.children("standard").text()!="yes"),
+					sSoundClick: oCurObj.jxParams.children("sound_click").text(),
+					sSoundOver: oCurObj.jxParams.children("sound_over").text()
+				};
+				if(oCurObj.data.sSoundClick=="custom")
+				{
+					oCurObj.data.sSoundClickFile = oCurObj.jxParams.children("sound_click_file_custom").text();
+				}
+				if(oCurObj.data.sSoundOver=="custom")
+				{
+					oCurObj.data.sSoundOverFile = oCurObj.jxParams.children("sound_over_file_custom").text();
+				}
+				switch(sTabPosition)
+				{
+					case "left":
+					{
+						oCurObj.data.nBaseLeft = iDiff;
+						oCurObj.data.nOpenLeft = 0;
+						oCurObj.data.nOverLeft = oCurObj.data.nBaseLeft - 2;
+						jCurDiv.find(".cl-container").css({ "left": oCurObj.data.nBaseLeft + "px" });
+						break;
+					}
+					case "right":
+					{
+						oCurObj.data.nBaseLeft = -1*iDiff;
+						oCurObj.data.nOpenLeft = 0;
+						oCurObj.data.nOverLeft = oCurObj.data.nBaseLeft + 2;
+						jCurDiv.find(".cl-container").css({ "left": oCurObj.data.nBaseLeft + "px" });
+						break;
+					}
+					case "top":
+					{
+						oCurObj.data.nBaseTop = iDiff;
+						oCurObj.data.nOpenTop = 0;
+						oCurObj.data.nOverTop = oCurObj.data.nBaseTop - 2;
+						jCurDiv.find(".cl-container").css({ "top": oCurObj.data.nBaseTop + "px" });
+						break;
+					}
+					case "bottom":
+					{
+						oCurObj.data.nBaseTop = -1*iDiff;
+						oCurObj.data.nOpenTop = 0;
+						oCurObj.data.nOverTop = oCurObj.data.nBaseTop + 2;
+						jCurDiv.find(".cl-container").css({ "top": oCurObj.data.nBaseTop + "px" });
+						break;
+					}
+				}
+				CLO[argobj.pid].CallMethod({ sMethod: "InitRole" });
+				if(CL.bTouch)
+				{
+					jCurDiv.find(".cl-tab").mousedown(function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e } }); }).mouseup(function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e } }); });
+				}
+				else
+				{
+					jCurDiv.find(".cl-tab").mouseover(function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e } }); }).mouseout(function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e } }); }).mousedown(function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e } }); }).mouseup(function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e } }); });
+				}
+				CL.Event.Subscribe({ aList: [ { sId: argobj.pid, sEvtName: "EVENT_SLIDE_OPENED" }, { sId: argobj.pid, sEvtName: "EVENT_SLIDE_COMPLETE" }, { sId: argobj.pid, sEvtName: "EVENT_NAVIGATION" } ] });
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="HandleEvt" label="_HandleEvt" access="private">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function HandleEvt(oEvtHandler, oArg)
+			{
+				if(CLO[argobj.pid]==null || CLO[argobj.pid].div==null) return false;
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(CLO[argobj.pid].div);
+				switch(argobj.evt)
+				{
+					case "EVENT_SLIDE_OPENED":
+					{
+						oCurObj.CallMethod({ sMethod: "Close" });
+						if(oCurObj.data.sRole=="contents" || oCurObj.data.sRole=="settings" || oCurObj.data.sRole=="comment")
+						{
+							oCurObj.CallMethod({ sMethod: "Update" });
+						}
+						if(oCurObj.data.sSlideId!=CLZ.sCurrentSlideId)
+						{
+							oCurObj.data.sSlideId = CLZ.sCurrentSlideId;
+							oCurObj.data.bNaviLockedByAction = false;
+						}
+						oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviStrict || oCurObj.data.bNaviLockedByAction) ? "Disable" : "Enable") });
+						break;
+					}
+					case "EVENT_SLIDE_COMPLETE":
+					{
+						oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviLockedByAction) ? "Disable" : "Enable") });
+						break;
+					}
+					case "EVENT_NAVIGATION":
+					{
+						if(argobj.sTargets!=null)
+						{
+							if(argobj.sTargets=="tabs" || argobj.sTargets=="all" || (argobj.sTargets=="contents" && oCurObj.data.sRole=="contents"))
+							{
+								switch(argobj.sAction)
+								{
+									case "off":
+									{
+										oCurObj.data.bNaviLockedByAction = true;
+										oCurObj.CallMethod({ sMethod: "Disable" });
+										break;
+									}
+									case "on":
+									default:
+									{
+										oCurObj.data.bNaviLockedByAction = false;
+										oCurObj.CallMethod({ sMethod: "Enable" });
+										break;
+									}
+								}
+							}
+						}
+						break;
+					}
+				}
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="InitRole" label="_InitRole" access="private">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function InitRole(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(CLO[argobj.pid].div);
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var iPadding = +oCurObj.jxParams.find("panel_padding").text();
+				var iBorder = +oCurObj.jxParams.find("panel_borderwidth").text();
+				var iFullH = oCurObj.initial.h;
+				var iRadius = +oCurObj.jxParams.find("panel_radius").text();
+				var iHH = jContainer.find(".cl-body-header").outerHeight();
+				iH = iFullH - iHH - 2*iPadding - 2*iBorder;
+				jContainer.find(".cl-body-contents").height(iH);
+				switch(oCurObj.data.sRole)
+				{
+					case "contents":
+					{
+						var jTemplate = jContainer.find("li.slide-item-template");
+						var jUL = jContainer.find("ul.cl-slide-list");
+						var jxSlide;
+						var jLI;
+						var sSlideId;
+						var bPrevVisited = true;
+						var iIndent;
+						var iPrevIndent = 0;
+						var aPath = CL.oPath._GetSlideList();
+						for(var i=0; i<aPath.length; i++)
+						{
+							sSlideId = aPath[i];
+							jxSlide = CL.jxModule.find("slide[id='" + sSlideId + "']");
+							jLI = jTemplate.clone(true).removeClass("slide-item-template").addClass("slide-item").attr({ "data-slide-id": sSlideId }).appendTo(jUL);
+							jLI.on("click", function () { CLO[argobj.pid].CallMethod({ sMethod: "Navigate", oMethodArgs: { elem: this } }) });
+							jLI.find(".cl-item-inner").html(jxSlide.attr("name"));
+							if(jxSlide.attr("indent")!=null)
+							{
+								iIndent = +jxSlide.attr("indent");
+								if(iIndent!=0)
+								{
+									jLI.addClass("indent-" + iIndent);
+									if(iIndent>iPrevIndent && CL.axSlides[i-1]!=0)
+									{
+										jLI.prev().addClass("open");
+										iPrevIndent = iIndent;
+									}
+								}
+								else
+								{
+									iPrevIndent = 0;
+								}
+							}
+							else
+							{
+								iPrevIndent = 0;
+							}
+							if(sSlideId==CLZ.sCurrentSlideId)
+							{
+								jLI.addClass("current");
+								bPrevVisited = true;
+							}
+							else if(CL.SCO.IsVisited({ sBy: "slideid", sSlideId: sSlideId }))
+							{
+								jLI.addClass("allowed visited");
+								bPrevVisited = true;
+							}
+							else
+							{
+								if(bPrevVisited==true)
+								{
+									jLI.addClass("allowed unvisited");
+									bPrevVisited = false;
+								}
+								else if(!CLZ.bStrictOrder)
+								{
+									jLI.addClass("allowed unvisited");
+								}
+								else
+								{
+									jLI.addClass("forbidden unvisited");
+								}
+							}
+						}
+						break;
+					}
+					case "search":
+					{
+						jContainer.find(".cl-search-results-list, .cl-search-found, .cl-search-no-results").hide();
+						jContainer.find(".cl-search-btn").on("click", function () { CLO[argobj.pid].CallMethod({ sMethod: "Search" }) });
+						jContainer.find(".cl-search-field").on("keydown", function () { CLO[argobj.pid].CallMethod({ sMethod: "SearchTip" }) });
+						break;
+					}
+					case "glossary":
+					{
+						var jLetterBox = jContainer.find(".cl-letters-box");
+						// normalize case and remove case duplicates
+						if(jLetterBox.length!=0)
+						{
+							var iMaxW = -1;
+							var jLetters = jLetterBox.find(".cl-letter-item");
+							jLetters.each(function ()
+							{
+								var iW = $(this).width();
+								if(iW>iMaxW) iMaxW = iW;
+							});
+							jLetters.each(function ()
+							{
+								$(this).width(iMaxW);
+							});
+							iHH = jLetterBox.outerHeight();
+							iH = iH - iHH;
+						}
+						jContainer.find(".cl-terms-list-container").height(iH);
+						jContainer.find(".cl-terms-desc").height(iH);
+						iH -= 2*iPadding;
+						jContainer.find(".cl-terms-desc-container").height(iH);
+						jContainer.find(".cl-terms-desc-default-table").height(iH);
+						jContainer.find(".cl-terms-desc-default-cell").height(iH);
+						if(jContainer.find(".cl-letter-item").length>0)
+						{
+							jContainer.find(".cl-letter-item").on("click", function () { oCurObj.CallMethod({ sMethod: "Filter", oMethodArgs: { elem: this } }) });
+						}
+						jContainer.find(".cl-term-item").on("click", function () { oCurObj.CallMethod({ sMethod: "Display", oMethodArgs: { elem: this } }) });
+						break;
+					}
+					case "calculator":
+					{
+						jContainer.find(".calc-btn").on("click", function () { oCurObj.CallMethod({ sMethod: "HandleCalc", oMethodArgs: { elem: this } }) });
+						oCurObj.data.sOperandA = "na";
+						oCurObj.data.sOperatorA = "na";
+						oCurObj.data.sOperandB = "na";
+						oCurObj.data.sLastBtn = "na";
+						oCurObj.data.sMemory = "na";
+						oCurObj.data.bClean = false;
+						oCurObj.data.bEqual = false;
+						oCurObj.data.bPercent = false;
+						break;
+					}
+					case "settings":
+					{
+						oCurObj.data.sObjToDisplay = oCurObj.jxParams.children("settings_display").text();
+						oCurObj.data.bCustomIcons = (oCurObj.jxParams.children("settings_icons").text()=="custom");
+						oCurObj.data.sScoreDisplayType = oCurObj.jxParams.children("score_style").text();
+						var jTemplate = jContainer.find(".cl-sett-row-template");
+						var jTable = jTemplate.parents("table:first");
+						var jTR;
+						var jTD;
+						for(var sObjId in CLJ)
+						{
+							if(oCurObj.data.sObjToDisplay=="main" && CLJ[sObjId].bModule.toString()!="1") continue;
+							if(oCurObj.data.sObjToDisplay=="other" && CLJ[sObjId].bModule.toString()=="1") continue;
+							jTR = jTemplate.clone(true).attr({ "data-obj-id": sObjId }).removeClass("cl-sett-row-template");
+							jTR.children("td.cl-sett-name").html(CLJ[sObjId].sName);
+							if(oCurObj.data.sScoreDisplayType=="raw")
+							{
+								jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore);
+							}
+							else if(oCurObj.data.sScoreDisplayType=="rawmax")
+							{
+								jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore + "(" + CLJ[sObjId].nMax + ")");
+							}
+							else if(oCurObj.data.sScoreDisplayType=="scaled")
+							{
+								if(CLJ[sObjId].nMax!=0)
+								{
+									jTR.children("td.cl-sett-score").html( Math.round(100*CLJ[sObjId].nRawScore/CLJ[sObjId].nMax)/100 + "%");
+								}
+								else
+								{
+									jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore);
+								}
+							}
+							if(oCurObj.data.bCustomIcons)
+							{
+								jTD = jTR.children("td.sett-cs");
+								jTD.attr({ "title": jTD.attr("data-title-cs-" + CLJ[sObjId].sCS),"data-obj-id": sObjId });
+								jTD.find("img").hide();
+								jTD.find("img.sett-cs-" + CLJ[sObjId].sCS).show();
+								jTD = jTR.children("td.sett-ss");
+								jTD.attr({ "title": jTD.attr("data-title-ss-" + CLJ[sObjId].sSS),"data-obj-id": sObjId });
+								jTD.find("img").hide();
+								jTD.find("img.sett-ss-" + CLJ[sObjId].sSS).show();
+							}
+							else
+							{
+								jTD = jTR.children("td.sett-cs");
+								jTD.attr({ "title": jTD.attr("data-title-cs-" + CLJ[sObjId].sCS),"data-obj-id": sObjId });
+								jTD.find("div.cl-sett-status").addClass("cl-sett-status-" + CLJ[sObjId].sCS);
+								jTD = jTR.children("td.sett-ss");
+								jTD.attr({ "title": jTD.attr("data-title-ss-" + CLJ[sObjId].sSS),"data-obj-id": sObjId });
+								jTD.find("div.cl-sett-status").addClass("cl-sett-status-" + CLJ[sObjId].sSS);
+							}
+							if(CLJ[sObjId].bModule.toString()=="1")
+							{
+								jTR.insertAfter(jTable.find("tr.sett-main-obj-header"));
+							}
+							else
+							{
+								jTR.appendTo(jTable);
+							}
+						}
+						break;
+					}
+					case "comment":
+					{
+						oCurObj.data.sIfNoComment = oCurObj.jxParams.children("comment_display").text();
+						break;
+					}
+				}
+			}]]>
+			</body>
+		</method>
+		<method name="HandleCalc" label="_HandleCalc" access="private">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function HandleCalc(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(CLO[argobj.pid].div);
+				if(oCurObj.data.sRole!="calculator") return false;
+				if(argobj.elem==null) return false;
+				var sKey = $(argobj.elem).attr("data-btn");
+				if(sKey==null || sKey=="") return false;
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jDisplay = jContainer.find(".calc-display");
+				var jMemInd = jContainer.find(".calc-memind");
+				var sCurString = $.trim(jDisplay.html() + "");
+				if($(argobj.elem).hasClass("calc-num")) // numeric btn or .
+				{
+					sKey = sKey + "";
+					if(oCurObj.data.bEqual==true)
+					{
+						oCurObj.data.sOperandA = "na";
+						oCurObj.data.sOperatorA = "na";
+						oCurObj.data.sOperandB = "na";
+						oCurObj.data.bEqual = false;
+					}
+					if(oCurObj.data.bClean==true)
+					{
+						sCurString = "0";
+						jDisplay.html("0");
+						oCurObj.data.sOperandB = "na";
+						oCurObj.data.bClean = false;
+					}
+					if(sCurString=="0" && sKey=="0") return false;
+					if(sKey=="." && sCurString.indexOf(".")!=-1) return false;
+					if(sCurString.length>=17)
+					{
+						if(sCurString.indexOf("!")==-1) jDisplay.html("!"+sCurString);
+						return false;
+					}
+					if(sCurString.length==1 && sCurString=="0" && sKey!=".")
+					{
+						jDisplay.html(sKey);
+						return true;
+					}
+					jDisplay.html(sCurString + sKey);
+				}
+				else
+				{
+					if(sCurString.indexOf("ERROR")!=-1 && sKey!="C") return false;
+					switch(sKey)
+					{
+						case "M+":
+						{
+							if(sCurString.indexOf("!")!=-1) sCurString = sCurString.substr(1);
+							jMemInd.html("M");
+							if(oCurObj.data.sMemory=="na")
+							{
+								oCurObj.data.sMemory = sCurString;
+							}
+							else
+							{
+								var nM1 = parseFloat(oCurObj.data.sMemory);
+								var nM2 = parseFloat(sCurString);
+								nM1 = nM1 + nM2;
+								oCurObj.data.sMemory = nM1.toString();
+							}
+							break;
+						}
+						case "MS":
+						{
+							if(sCurString.indexOf("!")!=-1) sCurString = sCurString.substr(1);
+							jMemInd.html("M");
+							if(oCurObj.data.sMemory=="na")
+							{
+								oCurObj.data.sMemory = "-" + sCurString;
+							}
+							else
+							{
+								var nM1 = parseFloat(oCurObj.data.sMemory);
+								var nM2 = parseFloat(sCurString);
+								nM1 = nM1 - nM2;
+								oCurObj.data.sMemory = nM1.toString();
+							}
+							break;
+						}
+						case "MR":
+						{
+							if(oCurObj.data.sMemory!="na")
+							{
+								jDisplay.html(oCurObj.data.sMemory);
+							}
+							break;
+						}
+						case "MC":
+						{
+							oCurObj.data.sMemory = "na";
+							jMemInd.html("&nbsp;");
+							break;
+						}
+						case "C":
+						{
+							oCurObj.data.sOperandA = "na";
+							oCurObj.data.sOperatorA = "na";
+							oCurObj.data.sOperandB = "na";
+							oCurObj.data.sLastBtn = "na";
+							oCurObj.data.bClean = false;
+							jDisplay.html("0");
+							break;
+						}
+						case "CE":
+						{
+							oCurObj.data.sOperandB = "na";
+							oCurObj.data.sLastBtn = "na";
+							oCurObj.data.bClean = false;
+							jDisplay.html("0");
+							break;
+						}
+						case "Backspace":
+						{
+							if(sCurString.length>1)
+							{
+								sCurString = sCurString.substr(0,sCurString.length-1);
+							}
+							jDisplay.html(sCurString);
+							break;
+						}
+						case "equal":
+						{
+							if(oCurObj.data.bPercent==true)
+							{
+								return false;
+							}
+							oCurObj.data.bEqual = true;
+							if(oCurObj.data.sOperandA!="na")
+							{
+								oCurObj.CallMethod({ sMethod: "Calculate", oMethodArgs: { sKey: sKey } });
+							}
+							break;
+						}
+						case "power":
+						case "plus":
+						case "minus":
+						case "mult":
+						case "divide":
+						{
+							if(oCurObj.data.bEqual==true)
+							{
+								oCurObj.data.bEqual = false;
+							}
+							if(oCurObj.data.bPercent==true)
+							{
+								oCurObj.data.bPercent = false;
+							}
+							if(sCurString.indexOf("!")!=-1)
+							{
+								sCurString = sCurString.substr(1);
+								jDisplay.html(sCurString);
+							}
+							if(oCurObj.data.sOperandA=="na" || oCurObj.data.bClean==true)
+							{
+								oCurObj.data.sOperandA = sCurString;
+								oCurObj.data.sOperatorA = sKey;
+								oCurObj.data.bClean = true;
+							}
+							else
+							{
+								oCurObj.CallMethod({ sMethod: "Calculate", oMethodArgs: { sKey: sKey } });
+							}
+							break;
+						}
+						case "negate":
+						{
+							if(sCurString=="0") return false;
+							if(oCurObj.data.bEqual==true)
+							{
+								oCurObj.data.bEqual = false;
+							}
+							if(oCurObj.data.bPercent==true)
+							{
+								oCurObj.data.bPercent = false;
+							}
+							if(sCurString.indexOf("-")!=-1)
+							{
+								sCurString = sCurString.substr(1);
+							}
+							else
+							{
+								sCurString = "-"+sCurString;
+							}
+							jDisplay.html(sCurString);
+							break;
+						}
+						case "recip":
+						{
+							if(sCurString=="0")
+							{
+								oCurObj.data.sOperandA = "na";
+								oCurObj.data.sOperatorA = "na";
+								oCurObj.data.sOperandB = "na";
+								oCurObj.data.sLastBtn = "na";
+								oCurObj.data.bClean = false;
+								jDisplay.html("ERROR: DIV 0");
+								return false;
+							}
+							if(oCurObj.data.bEqual==true)
+							{
+								oCurObj.data.bEqual = false;
+							}
+							if(oCurObj.data.bPercent==true)
+							{
+								oCurObj.data.bPercent = false;
+							}
+							if(sCurString.indexOf("!")!=-1) sCurString = sCurString.substr(1);
+							var nValue = 1/parseFloat(sCurString);
+							sCurString = nValue.toString();
+							if(sCurString.length>=20)
+							{
+								sCurString = sCurString.substring(0,19);
+							}
+							jDisplay.html(sCurString);
+							break;
+						}
+						case "percent":
+						{
+							if(oCurObj.data.sOperandA=="na") return false;
+							if(oCurObj.data.bPercent==true) return false;
+							oCurObj.data.bPercent = true;
+							if(oCurObj.data.bEqual==true)
+							{
+								oCurObj.data.bEqual = false;
+							}
+							oCurObj.CallMethod({ sMethod: "Calculate", oMethodArgs: { sKey: sKey } });
+							oCurObj.data.sOperandB = "na";
+							break;
+						}
+					}
+
+				}
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="Calculate" label="_Calculate" access="private">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function Calculate(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(CLO[argobj.pid].div);
+				if(oCurObj.data.sRole!="calculator") return false;
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jDisplay = jContainer.find(".calc-display");
+				var jMemInd = jContainer.find(".calc-memind");
+				var sCurString = $.trim(jDisplay.html() + "");
+				if(sCurString.indexOf("!")!=-1) sCurString = sCurString.substr(1);
+				var nValue1 = parseFloat(oCurObj.data.sOperandA);
+				if(oCurObj.data.sOperandB=="na")
+				{
+					oCurObj.data.sOperandB = sCurString
+				}
+				var nValue2 = parseFloat(oCurObj.data.sOperandB);
+				var nResult = 0;
+				switch(oCurObj.data.sOperatorA)
+				{
+					case "plus":
+					{
+						nResult = (nValue1*1000 + nValue2*1000)/1000;
+						break;
+					}
+					case "minus":
+					{
+						nResult = (nValue1*1000 - nValue2*1000)/1000;
+						break;
+					}
+					case "mult":
+					{
+						nResult = nValue1 * nValue2;
+						if(oCurObj.data.bPercent==true)
+						{
+							nResult = nResult/100;
+						}
+						break;
+					}
+					case "divide":
+					{
+						if(nValue2==0)
+						{
+							oCurObj.data.sOperandA = "na";
+							oCurObj.data.sOperatorA = "na";
+							oCurObj.data.sOperandB = "na";
+							oCurObj.data.sLastBtn = "na";
+							oCurObj.data.bClean = true;
+							jDisplay.html("ERROR: DIV 0");
+							return false;
+						}
+						nResult = nValue1 / nValue2;
+						if(oCurObj.data.bPercent==true)
+						{
+							nResult = nResult*100;
+						}
+						break;
+					}
+					case "power":
+					{
+						nResult = Math.pow(nValue1,nValue2);
+						break;
+					}
+				}
+
+				if(nResult>-1 && nResult<1)
+				{
+					nResult = nResult.toString();
+					if(nResult.length>=20)
+					{
+						if(nResult.indexOf("e")!=-1)
+						{
+							var aParts = vResult.split("e");
+							if(parseInt(aParts[1])<-20)
+							{
+								nResult = "0";
+							}
+							else
+							{
+								if(aParts[0].length>14)
+								{
+									aParts[0] = aParts[0].substr(0,13);
+									if(parseFloat(aParts[0])==0)
+									{
+										nResult = "0";
+									}
+									else
+									{
+										nResult = aParts.join("e");
+									}
+								}
+								else
+								{
+									nResult = aParts.join("e");
+								}
+							}
+						}
+						else
+						{
+							nResult = nResult.substr(0,19);
+						}
+					}
+				}
+				else
+				{
+					nResult = nResult.toString();
+					if(nResult.length>=18)
+					{
+						if(nResult.indexOf(".")==-1)
+						{
+							oCurObj.data.sOperandA = "na";
+							oCurObj.data.sOperatorA = "na";
+							oCurObj.data.sOperandB = "na";
+							oCurObj.data.sLastBtn = "na";
+							oCurObj.data.bClean = true;
+							jDisplay.html("ERROR: OVERFLOW");
+							return false;
+						}
+						else
+						{
+							if(nResult.indexOf("e")!=-1)
+							{
+								var aParts = nResult.split("e");
+								if(aParts[0].length>14)
+								{
+									aParts[0] = aParts[0].substr(0,13);
+									nResult = aParts.join("e")
+								}
+							}
+							else
+							{
+								nResult = nResult.substr(0,17);
+							}
+						}
+					}
+				}
+				jDisplay.html(nResult);
+				oCurObj.data.sOperandA = nResult;
+				if(oCurObj.data.bEqual==false && oCurObj.data.bPercent==false)
+				{
+					oCurObj.data.sOperatorA = argobj.sKey;
+				}
+				oCurObj.data.bClean = true;
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="Filter" label="_Filter" access="private">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function Filter(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj.data.sRole!="glossary") return false;
+				if(argobj.elem==null) return false;
+				if($(argobj.elem).hasClass("cl-letter-selected")) return false;
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jTerms = jContainer.find(".cl-term-item");
+				var sLetter = $.trim($(argobj.elem).text());
+				if(sLetter=="*")
+				{
+					jTerms.show();
+				}
+				else
+				{
+					jTerms.hide().each(function ()
+					{
+						var sText = $.trim($(this).html());
+						if(sText.toUpperCase().charAt(0)==sLetter)
+						{
+							$(this).show();
+						}
+					});
+				}
+				jTerms.filter(":visible").filter(":first").click();
+				jContainer.find(".cl-letter-item").addClass("cl-letter-idle").removeClass("cl-letter-selected");
+				$(argobj.elem).removeClass("cl-letter-idle").addClass("cl-letter-selected");
+			}]]>
+			</body>
+		</method>
+		<method name="Display" label="SHOW" access="public">
+			<params>
+			<param name="ecode" label="Code">
+			</param>
+			<param name="eitem" label="Text">
+			</param>
+			</params>
+			<body>
+			<![CDATA[function Display(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj.data.sRole!="glossary") return false;
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jTerms = jContainer.find(".cl-term-item");
+				if(argobj.ecode!=null || argobj.eitem!=null)
+				{
+					var sCode = $.trim(argobj.ecode);
+					var sText = $.trim(argobj.eitem);
+					if(sCode=="" && sText=="") return false;
+					var jItem;
+					if(sCode!="")
+					{
+						jItem = jTerms.filter("[data-code='" + sCode + "']");
+						if(jItem.length!=0)
+						{
+							if(CLO[argobj.pid].data.sPosition=="closed" && CLO[argobj.pid].data.sState=="enabled")
+							{
+								CLO[argobj.pid].CallMethod({ sMethod: "Toggle" });
+							}
+							if(!jItem.hasClass("cl-term-selected"))
+							{
+								jItem.click();
+							}
+						}
+					}
+					else if(sText!="")
+					{
+						var sItemText;
+						for(var i=0; i<jTerms.length; i++)
+						{
+							sItemText = $.trim($(jTerms[i]).text());
+							if(sText==sItemText)
+							{
+								jItem = $(jTerms[i]);
+								break;
+							}
+						}
+						if(jItem.length!=0)
+						{
+							if(CLO[argobj.pid].data.sPosition=="closed" && CLO[argobj.pid].data.sState=="enabled")
+							{
+								CLO[argobj.pid].CallMethod({ sMethod: "Toggle" });
+							}
+							if(!jItem.hasClass("cl-term-selected"))
+							{
+								jItem.click();
+							}
+						}
+					}
+				}
+				else
+				{
+					if(argobj.elem==null) return false;
+					if($(argobj.elem).hasClass("cl-letter-selected")) return false;
+					var sTermId = $(argobj.elem).attr("data-number");
+					jTerms.removeClass("cl-term-selected").addClass("cl-term-idle");
+					jContainer.find(".cl-term-desc-item").hide();
+					jContainer.find(".cl-term-desc-item[data-number='" + sTermId + "']").show("fade");
+					jContainer.find(".cl-term-item[data-number='" + sTermId + "']").removeClass("cl-term-idle").addClass("cl-term-selected");
+				}
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="Update" label="_Update" access="private">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function Update(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(CLO[argobj.pid].div);
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				switch(CLO[argobj.pid].data.sRole)
+				{
+					case "contents":
+					{
+						var jLIs = jContainer.find("ul.cl-slide-list > li.slide-item");
+						var sSlideId;
+						var jLI;
+						var bPrevVisited = true;
+						for(var i=0; i<jLIs.length; i++)
+						{
+							jLI = $(jLIs[i]);
+							sSlideId = jLI.attr("data-slide-id");
+							if(sSlideId==CLZ.sCurrentSlideId)
+							{
+								jLI.removeClass("allowed forbidden visited unvisited").addClass("current");
+								bPrevVisited = true;
+							}
+							else if(CL.SCO.IsVisited({ sBy: "slideid", sSlideId: sSlideId }))
+							{
+								jLI.removeClass("current unvisited forbidden").addClass("allowed visited");
+								bPrevVisited = true;
+							}
+							else
+							{
+								if(bPrevVisited)
+								{
+									if(CL.oPath._TargetAllowed({ sSlideId: sSlideId }))
+									{
+										jLI.removeClass("current unvisited forbidden").addClass("allowed unvisited");
+									}
+									else
+									{
+										jLI.removeClass("allowed current").addClass("forbidden unvisited");
+									}
+									bPrevVisited = false;
+								}
+								else
+								{
+									if(!CLZ.bStrictOrder)
+								{
+										if(CL.oPath._TargetAllowed({ sSlideId: sSlideId }))
+										{
+											jLI.removeClass("current unvisited forbidden").addClass("allowed unvisited");
+										}
+										else
+										{
+											jLI.removeClass("allowed current").addClass("forbidden unvisited");
+										}
+								}
+								else
+								{
+										jLI.removeClass("allowed current").addClass("forbidden unvisited");
+									}
+								}
+							}
+						}
+						break;
+					}
+					case "settings":
+					{
+						var jTR;
+						for(var sObjId in CLJ)
+						{
+							if(oCurObj.data.sObjToDisplay=="main" && CLJ[sObjId].bModule.toString()!="1") continue;
+							if(oCurObj.data.sObjToDisplay=="other" && CLJ[sObjId].bModule.toString()=="1") continue;
+							jTR = jContainer.find("tr[data-obj-id='" + sObjId + "']");
+							if(oCurObj.data.sScoreDisplayType=="raw")
+							{
+								jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore);
+							}
+							else if(oCurObj.data.sScoreDisplayType=="rawmax")
+							{
+								jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore + "(" + CLJ[sObjId].nMax + ")");
+							}
+							else if(oCurObj.data.sScoreDisplayType=="scaled")
+							{
+								if(CLJ[sObjId].nMax!=0)
+								{
+									jTR.children("td.cl-sett-score").html( Math.round(100*CLJ[sObjId].nRawScore/CLJ[sObjId].nMax)/100 + "%");
+								}
+								else
+								{
+									jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore);
+								}
+							}
+							if(oCurObj.data.bCustomIcons)
+							{
+								jTD = jTR.children("td.sett-cs");
+								jTD.attr({ "title": jTD.attr("data-title-cs-" + CLJ[sObjId].sCS) });
+								jTD.find("img").hide();
+								jTD.find("img.sett-cs-" + CLJ[sObjId].sCS).show();
+								jTD = jTR.children("td.sett-ss");
+								jTD.attr({ "title": jTD.attr("data-title-ss-" + CLJ[sObjId].sSS) });
+								jTD.find("img").hide();
+								jTD.find("img.sett-ss-" + CLJ[sObjId].sSS).show();
+							}
+							else
+							{
+								jTD = jTR.children("td.sett-cs");
+								jTD.attr({ "title": jTD.attr("data-title-cs-" + CLJ[sObjId].sCS) });
+								jTD.find("div.cl-sett-status").removeClass("cl-sett-status-n cl-sett-status-i cl-sett-status-c").addClass("cl-sett-status-" + CLJ[sObjId].sCS);
+								jTD = jTR.children("td.sett-ss");
+								jTD.attr({ "title": jTD.attr("data-title-ss-" + CLJ[sObjId].sSS) });
+								jTD.find("div.cl-sett-status").removeClass("cl-sett-status-u cl-sett-status-p cl-sett-status-f").addClass("cl-sett-status-" + CLJ[sObjId].sSS);
+							}
+						}
+						break;
+					}
+					case "comment":
+					{
+						var jxComments = CLS[CLZ.sCurrentSlideId].jxNode.children("comments");
+						if(jxComments.length!=0)
+						{
+							if(jxComments.text()!="")
+							{
+								var sText = $("<div/>").html(jxComments.text()).text();
+								if(oCurObj.data.sIfNoComment=="disable")
+								{
+									oCurObj.data.bNaviLockedByAction = false;
+									oCurObj.CallMethod({ sMethod: "Enable" });
+								}
+								else if(oCurObj.data.sIfNoComment=="hide")
+								{
+									oCurObj.Show();
+								}
+								jContainer.find(".cl-comm-none").hide();
+								jContainer.find(".cl-comm-body").html(sText).show();
+							}
+							else
+							{
+								if(oCurObj.data.sIfNoComment=="text")
+								{
+									jContainer.find(".cl-comm-none").show();
+									jContainer.find(".cl-comm-body").hide();
+								}
+								else if(oCurObj.data.sIfNoComment=="disable")
+								{
+									oCurObj.data.bNaviLockedByAction = true;
+									oCurObj.CallMethod({ sMethod: "Disable" });
+								}
+								else
+								{
+									oCurObj.Hide();
+								}
+							}
+						}
+						else
+						{
+							if(oCurObj.data.sIfNoComment=="text")
+							{
+								jContainer.find(".cl-comm-none").show();
+								jContainer.find(".cl-comm-body").hide();
+							}
+							else if(oCurObj.data.sIfNoComment=="disable")
+							{
+								oCurObj.data.bNaviLockedByAction = true;
+								oCurObj.CallMethod({ sMethod: "Disable" });
+							}
+							else
+							{
+								oCurObj.Hide();
+							}
+						}
+						break;
+					}
+				}
+				return true;
+			}]]>
+			</body>
+		</method>
+        <method name="SearchTip" label="_SearchTip" access="private">
+            <params>
+            </params>
+            <body>
+			<![CDATA[function SearchTip(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(!oCurObj.data.bSearchTip)
+				{
+					return false;
+				}
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jTips = jContainer.find(".cl-search-tips");
+				if(!jTips.is(":visible"))
+				{
+					jContainer.find(".cl-search-results-list, .cl-search-found, .cl-search-no-results").hide();
+					jTips.fadeIn("fast");
+				}
+				return true;
+			}]]>
+			</body>
+		</method>
+        <method name="Search" label="_Search" access="private">
+            <params>
+            </params>
+            <body>
+			<![CDATA[function Search(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(CLO[argobj.pid].div);
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var sStr = jContainer.find("input.cl-search-field").val();
+				sStr = $.trim(sStr);
+				if(sStr=="") return false;
+				var sCase = oCurObj.jxParams.children("search_case").text();
+				var bCase = false;
+				if(sCase=="no_user" || sCase=="yes_user")
+				{
+					bCase = (jContainer.find("select.cl-search-case").val()=="yes");
+				}
+				else
+				{
+					bCase = (sCase=="yes");
+				}
+				var sLogic = oCurObj.jxParams.children("search_logic").text();
+				if(sLogic=="OR_user" || sLogic=="AND_user")
+				{
+					sLogic = (jContainer.find("select.cl-search-logic").val()=="yes") ? "AND" : "OR";
+				}
+				var sScope = oCurObj.jxParams.children("search_scope").text();
+				var aResults = CL.Search({ sString: sStr, bCase: bCase, sLogic: sLogic, sScope: sScope });
+				if(oCurObj.data.bSearchTip)
+				{
+					jContainer.find(".cl-search-tips").hide();
+				}
+				if(aResults.length==0)
+				{
+					jContainer.find(".cl-search-results-list, .cl-search-found").hide();
+					jContainer.find(".cl-search-no-results").show();
+				}
+				else
+				{
+					var jUL = jContainer.find(".cl-search-results-list");
+					jUL.html("").show();
+					jContainer.find(".cl-search-found").show();
+					jContainer.find(".cl-search-found").find(".cl-search-found-qty").html(aResults.length);
+					jContainer.find(".cl-search-no-results").hide();
+					var jLI;
+					var jTemplate = jContainer.find("li.cl-search-item-template");
+					var sReturnFormat = oCurObj.jxParams.children("search_return_format").text();
+					var sSlideId;
+					for(var i=0; i<aResults.length; i++)
+					{
+						sSlideId = $(aResults[i].slide).attr("id");
+						jLI = jTemplate.clone(true).removeClass("cl-search-item-template").addClass("cl-search-results-item").attr({ "data-slide-id": sSlideId }).appendTo(jUL);
+						jLI.find(".item-name").html($(aResults[i].slide).attr("name"));
+						if(CL.SCO.IsVisited({ sBy: "slideid", sSlideId: sSlideId }) || sSlideId==CLZ.sCurrentSlideId)
+						{
+							jLI.addClass("allowed visited").on("click", function () { CLO[argobj.pid].CallMethod({ sMethod: "Navigate", oMethodArgs: { elem: this } }) });
+						}
+						if(sReturnFormat=="extended")
+						{
+							var aStrings = aResults[i].strings;
+							var sString = "";
+							for(var j=0; j<aStrings.length; j++)
+							{
+								if(j==0)
+								{
+									sString += aStrings[j];
+								}
+								else
+								{
+									sString += "<br>" + aStrings[j];
+								}
+							}
+							jLI.find(".item-text").html(sString);
+						}
+						else
+						{
+							jLI.find(".item-text").hide();
+						}
+					}
+				}
+				return true;
+			}]]>
+            </body>
+        </method>
+        <method name="Navigate" label="_Navigate" access="private">
+            <params>
+            </params>
+            <body>
+			<![CDATA[function Navigate(argobj)
+			{
+				if(argobj.elem==null) return false;
+				if($(argobj.elem).hasClass("allowed"))
+				{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj.data.bLocked) return false;
+				var jCurObjDiv = $(CLO[argobj.pid].div);
+				var sTargetId = $(argobj.elem).attr("data-slide-id");
+				oCurObj.data.bLocked = true;
+				CL.Navigation.GoTo({ sTargetType: "slide", sTargetId: sTargetId });
+				CL.Sound.Stop({ sId: argobj.pid, sEvent: "click" });
+				if(oCurObj.data.sSoundClick!="none")
+				{
+					CL.Sound.Play({ sId: argobj.pid, sEvent: "click", sType: oCurObj.data.sSoundClick, sFile: oCurObj.data.sSoundClickFile })
+					}
+				}
+				return true;
+			}]]>
+            </body>
+        </method>
+		<method name="Open" label="OPEN" access="public">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function Open(argobj)
+			{
+				if(CLO[argobj.pid].data.sPosition=="closed" && CLO[argobj.pid].data.sState=="enabled")
+				{
+					CLO[argobj.pid].CallMethod({ sMethod: "Toggle" });
+				}
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="Close" label="CLOSE" access="public">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function Close(argobj)
+			{
+				if(CLO[argobj.pid].data.sPosition=="open" && CLO[argobj.pid].data.sState=="enabled")
+				{
+					CLO[argobj.pid].CallMethod({ sMethod: "Toggle" });
+				}
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="Disable" label="DISABLE" access="public">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function Disable(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(CLO[argobj.pid].div);
+				var jTab = $(CLO[argobj.pid].div).find(".cl-tab");
+				if(jTab.hasClass("cl-tab-disabled")) return false;
+				if(oCurObj.data.sPosition=="open")
+				{
+					oCurObj.CallMethod({ sMethod: "Toggle" });
+				}
+				oCurObj.data.sState=="disabled";
+				jTab.removeClass("cl-tab-active cl-tab-down").addClass("cl-tab-disabled").attr({ "title": jTab.attr("data-title-disabled") });
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="Enable" label="ENABLE" access="public">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function Enable(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(CLO[argobj.pid].div);
+				var jTab = $(CLO[argobj.pid].div).find(".cl-tab");
+				if(!jTab.hasClass("cl-tab-disabled")) return false;
+				CLO[argobj.pid].data.sState=="enabled";
+				jTab.removeClass("cl-tab-disabled").addClass("cl-tab-active");
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="GetProperty" label="_GetProperty" access="private">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function GetProperty(argobj)
+			{
+				if(argobj.pid==null || argobj.property==null) return false;
+				switch(argobj.property.toLowerCase())
+				{
+					case "disabled":
+					{
+						return (CLO[argobj.pid].data.sState=="disabled") ? "1" : "0";
+					}
+					case "open":
+					{
+						return (CLO[argobj.pid].data.sPosition=="open") ? "1" : "0";
+					}
+				}
+				return "";
+			}]]>
+			</body>
+		</method>
+		<method name="UIEvent" label="_UIEvent" access="private">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function UIEvent(argobj)
+			{
+				if(argobj.evt==null) return false;
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(CLO[argobj.pid].div);
+				var jCurDiv = $(oCurObj.div);
+				var jTab = jCurDiv.find(".cl-tab");
+				if(jTab.hasClass("cl-tab-disabled")) return false;
+				switch(argobj.evt.type)
+				{
+					case "mouseover":
+					{
+						jTab.removeClass("cl-tab-down");
+						if(oCurObj.data.sPosition=="closed")
+						{
+							switch(oCurObj.data.sTabPosition)
+							{
+								case "left":
+								case "right":
+								{
+									jCurDiv.find(".cl-container").css({ "left": oCurObj.data.nOverLeft + "px" });
+									break;
+								}
+								case "top":
+								case "bottom":
+								{
+									jCurDiv.find(".cl-container").css({ "top": oCurObj.data.nOverTop + "px" });
+									break;
+								}
+							}
+						}
+						CL.Sound.Stop({ sId: argobj.pid, sEvent: "over" });
+						if(oCurObj.data.sSoundOver!="none")
+						{
+							CL.Sound.Play({ sId: argobj.pid, sEvent: "over", sType: oCurObj.data.sSoundOver, sFile: oCurObj.data.sSoundOverFile })
+						}
+						break;
+					}
+					case "mouseout":
+					{
+						jTab.removeClass("cl-tab-down");
+						if(oCurObj.data.sPosition=="closed")
+						{
+							switch(oCurObj.data.sTabPosition)
+							{
+								case "left":
+								case "right":
+								{
+									jCurDiv.find(".cl-container").css({ "left": oCurObj.data.nBaseLeft + "px" });
+									break;
+								}
+								case "top":
+								case "bottom":
+								{
+									jCurDiv.find(".cl-container").css({ "top": oCurObj.data.nBaseTop + "px" });
+									break;
+								}
+							}
+						}
+						break;
+					}
+					case "mousedown":
+					{
+						jTab.addClass("cl-tab-down");
+						break;
+					}
+					case "mouseup":
+					{
+						jTab.removeClass("cl-tab-down");
+						CLO[argobj.pid].CallMethod({ sMethod: "Toggle" });
+						break;
+					}
+				}
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="Toggle" label="_Toggle" access="private">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function Toggle(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(CLO[argobj.pid].div);
+				var jCurDiv = $(oCurObj.div);
+				if(oCurObj.data.sPosition=="closed")
+				{
+					if(oCurObj.data.bModal)
+					{
+						CL.Modal({ bOn: true, sSrcId: argobj.pid });
+					}
+					oCurObj.data.sPosition = "transition_open";
+					jCurDiv.css({ "z-index": 5001, "clip": "" });
+					switch(oCurObj.data.sTabPosition)
+					{
+						case "left":
+						case "right":
+						{
+							jCurDiv.find(".cl-container").animate({ left: oCurObj.data.nOpenLeft }, 500, function () { CLO[argobj.pid].data.sPosition = "open"; });
+							break;
+						}
+						case "top":
+						case "bottom":
+						{
+							jCurDiv.find(".cl-container").animate({ top: oCurObj.data.nOpenTop }, 500, function () { CLO[argobj.pid].data.sPosition = "open"; });
+							break;
+						}
+					}
+				}
+				else
+				{
+					if(oCurObj.data.bModal)
+					{
+						CL.Modal({ bOn: false, sSrcId: argobj.pid });
+					}
+					oCurObj.data.sPosition = "transition_close";
+					switch(oCurObj.data.sTabPosition)
+					{
+						case "left":
+						{
+							jCurDiv.find(".cl-container").animate({ left: oCurObj.data.nBaseLeft }, 500, function () { CLO[argobj.pid].data.sPosition = "closed"; CLO[argobj.pid].data.bLocked = false; $(CLO[argobj.pid].div).css({ "z-index": CLO[argobj.pid].initial.nZ, "clip": CLO[argobj.pid].initial.sClip }); });
+							break;
+						}
+						case "right":
+						{
+							jCurDiv.find(".cl-container").animate({ left: oCurObj.data.nBaseLeft }, 500, function () { CLO[argobj.pid].data.sPosition = "closed"; CLO[argobj.pid].data.bLocked = false; $(CLO[argobj.pid].div).css({ "z-index": CLO[argobj.pid].initial.nZ, "clip": CLO[argobj.pid].initial.sClip }); });
+							break;
+						}
+						case "top":
+						{
+							jCurDiv.find(".cl-container").animate({ top: oCurObj.data.nBaseTop }, 500, function () { CLO[argobj.pid].data.sPosition = "closed"; CLO[argobj.pid].data.bLocked = false; $(CLO[argobj.pid].div).css({ "z-index": CLO[argobj.pid].initial.nZ, "clip": CLO[argobj.pid].initial.sClip }); });
+							break;
+						}
+						case "bottom":
+						{
+							jCurDiv.find(".cl-container").animate({ top: oCurObj.data.nBaseTop }, 500, function () { CLO[argobj.pid].data.sPosition = "closed"; CLO[argobj.pid].data.bLocked = false; $(CLO[argobj.pid].div).css({ "z-index": CLO[argobj.pid].initial.nZ, "clip": CLO[argobj.pid].initial.sClip }); });
+							break;
+						}
+					}
+				}
+				CL.Sound.Stop({ sId: argobj.pid, sEvent: "click" });
+				if(oCurObj.data.sSoundClick!="none")
+				{
+					CL.Sound.Play({ sId: argobj.pid, sEvent: "click", sType: oCurObj.data.sSoundClick, sFile: oCurObj.data.sSoundClickFile })
+				}
+				return true;
+			}]]>
+			</body>
+		</method>
+	</methods>
+</params>
